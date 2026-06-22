@@ -1,4 +1,4 @@
-# Senior Security Consultant
+# Senior GRC Specialist
 
 | Field | Detail |
 |---|---|
@@ -8,80 +8,191 @@
 | Reports To | Principal Cybersecurity Architect |
 | Level / Grade | Senior |
 | Employment Type | Full-time, Permanent |
-| Location | Kuala Lumpur, Malaysia (hybrid) |
-| Hiring Wave | Wave 1 — Immediate (Board Approval) |
+| Location | Kuala Lumpur, Malaysia (Hybrid) |
+| Hiring Wave | Wave 1 — Immediate |
 | Target Start | Within 90 days of approval |
 | Priority | High |
 
+---
+
 ## 1. Role Purpose
 
-The Senior Security Consultant is a client-facing technical leader within the VORON team, responsible for delivering high-impact offensive security and advisory engagements to enterprise clients. The role exists to translate deep technical expertise into measurable security outcomes — hardening client environments, shaping security strategies, and growing the Cybersecurity BU's consulting reputation. By leading engagements end-to-end and mentoring junior talent, this role directly strengthens the BU's delivery capability and supports its revenue growth ambitions.
+The Senior GRC Specialist is responsible for operating and administering the VoronCitadel Unified GRC Platform while supporting governance, risk, compliance, third-party risk, and operational resilience activities for customers and internal stakeholders.
+
+This role serves as the subject matter expert for VoronCitadel and ensures that regulatory requirements, control frameworks, risk registers, and audit evidence are accurately maintained within the platform. The role also supports customer onboarding, platform adoption, and continuous improvement initiatives.
+
+---
 
 ## 2. Key Responsibilities
 
-- **Lead** security consulting engagements from scoping through delivery, serving as the primary technical authority and trusted advisor to enterprise clients.
-- **Conduct** penetration testing, red team exercises, and security assessments across networks, applications, cloud, and enterprise architectures, producing clear, actionable findings.
-- **Develop** tailored security strategies and remediation roadmaps that align client risk posture with business objectives and relevant compliance requirements.
-- **Deliver** high-quality technical reports and executive briefings, communicating complex findings to both technical teams and senior stakeholders.
-- **Mentor** and coach junior consultants, reviewing their work, sharing methodologies, and raising the overall technical standard of the VORON team.
-- **Support** business development by scoping opportunities, contributing to proposals and statements of work, and participating in pre-sales technical discussions.
-- **Collaborate** with the Principal Cybersecurity Architect and cross-functional teams to ensure engagement quality, consistency, and alignment with BU standards.
-- **Maintain** and evolve testing methodologies, tooling, and knowledge assets to keep the team's capabilities current with emerging threats.
+### Platform Operations
+
+- Administer and maintain the VoronCitadel platform.
+- Configure users, permissions, workflows, and platform settings.
+- Ensure platform data accuracy and audit readiness.
+- Support customer onboarding and implementation activities.
+
+### Governance & Compliance
+
+- Manage compliance assessments and evidence collection.
+- Maintain control mappings across:
+  - BNM RMiT
+  - SC GTRM
+  - Bursa RSWG
+  - ISO 27001:2022
+  - NIST CSF 2.0
+- Track compliance gaps and remediation activities.
+
+### Risk Management
+
+- Maintain risk registers and treatment plans.
+- Support risk quantification activities and Annual Loss Expectancy (ALE) calculations.
+- Monitor key risk indicators and overall risk posture.
+
+### Third-Party Risk Management
+
+- Maintain vendor inventories and criticality classifications.
+- Coordinate onboarding, reassessments, and termination reviews.
+- Track remediation activities and vendor findings.
+
+### Operational Resilience
+
+- Support Business Impact Analysis (BIA) exercises.
+- Maintain Business Continuity Management (BCM) and Disaster Recovery (DR) documentation.
+- Coordinate testing schedules and evidence management.
+
+### Incident & Loss Management
+
+- Track incidents throughout their lifecycle.
+- Maintain root cause analysis and corrective action records.
+- Support operational loss data management and reporting.
+
+### Governance & Audit Support
+
+- Support policy lifecycle management and employee attestations.
+- Prepare audit evidence for internal and external audits.
+- Assist in regulatory and customer assessments.
+
+### Reporting & Stakeholder Engagement
+
+- Produce dashboards and executive reports.
+- Present compliance and risk posture to stakeholders.
+- Work closely with customers, product teams, and cybersecurity teams.
+
+### Continuous Improvement
+
+- Recommend process improvements.
+- Support new VoronCitadel modules and capabilities.
+- Contribute feedback to product development initiatives.
+
+---
 
 ## 3. Required Qualifications & Experience
 
-- Bachelor's degree in Computer Science, Cybersecurity, or a related field.
-- Minimum 5 years of experience in security consulting or offensive security.
-- Hands-on experience with enterprise security architectures.
-- Proven track record of leading or delivering penetration tests and security assessments.
-- Strong written and verbal communication skills, including the ability to present technical findings to executive audiences.
+- Bachelor's degree in Cybersecurity, Information Security, Computer Science, Risk Management, or a related discipline.
+- Minimum five (5) years of experience in one or more of the following areas:
+  - Governance, Risk & Compliance (GRC)
+  - Information Security
+  - Internal Audit
+  - Risk Management
+  - Operational Resilience
+  - Regulatory Compliance
+- Experience supporting audits and compliance assessments.
+- Strong report writing and documentation skills.
+- Ability to communicate effectively with technical and non-technical stakeholders.
 
-## 4. Preferred / Desirable Qualifications
+---
 
-- Master's degree in a relevant field.
-- Experience conducting cloud security assessments (e.g., AWS, Azure, GCP).
-- Working knowledge of compliance frameworks (e.g., ISO 27001, PCI DSS, NIST).
-- Prior business development or pre-sales experience in a consulting environment.
+## 4. Preferred Qualifications
+
+- Experience with GRC platforms such as ServiceNow GRC, Archer, MetricStream, OneTrust, or equivalent solutions.
+- Experience supporting financial institutions or regulated industries.
+- Familiarity with Malaysian regulatory requirements.
+- Experience with ISO 27001 implementation or audits.
+
+---
 
 ## 5. Technical Skills & Competencies
 
-- Penetration testing across network, web application, API, and infrastructure layers.
-- Red teaming, adversary emulation, and exploitation techniques.
-- Enterprise security architecture design and review.
-- Vulnerability assessment and threat modelling.
-- Cloud security assessment methodologies and tooling.
-- Familiarity with offensive tooling (e.g., Burp Suite, Metasploit, Cobalt Strike, Nmap) and scripting for automation.
-- Mapping findings to compliance and regulatory frameworks.
+### Governance & Compliance
+
+- ISO 27001:2022
+- NIST CSF 2.0
+- BNM RMiT
+- SC GTRM
+- Bursa RSWG
+- Control assessments and evidence management
+
+### Risk Management
+
+- Risk registers and treatment plans
+- Risk assessment methodologies
+- Annual Loss Expectancy (ALE)
+- Key Risk Indicators (KRIs)
+
+### Operational Resilience
+
+- Business Continuity Management (BCM)
+- Business Impact Analysis (BIA)
+- Disaster Recovery planning
+- Incident Management
+
+### Third-Party Risk Management
+
+- Vendor assessments
+- Asset inventories
+- Remediation tracking
+
+### Reporting & Documentation
+
+- Executive reporting
+- Audit preparation
+- Policy and procedure development
+
+---
 
 ## 6. Behavioural Competencies
 
-- **Ownership** — takes full accountability for engagement quality and client outcomes from start to finish.
-- **Communication** — articulates complex technical risk clearly to both engineers and executives.
-- **Analytical thinking** — methodically investigates, prioritises, and solves security problems under real-world constraints.
-- **Mentorship** — actively develops junior consultants and elevates team capability.
-- **Client focus** — builds trust and delivers advisory value that aligns security with business goals.
+- **Ownership** — Takes accountability for platform operations and customer outcomes.
+- **Attention to Detail** — Ensures accuracy and audit readiness across all records.
+- **Analytical Thinking** — Applies structured approaches to risk and compliance challenges.
+- **Communication** — Clearly communicates with both technical and business stakeholders.
+- **Customer Focus** — Delivers value and builds trusted relationships with customers.
+- **Continuous Improvement** — Actively seeks opportunities to enhance processes and platform adoption.
+
+---
 
 ## 7. Certifications
 
-**Required**
-- OSCP, OSCE, CEH, or an equivalent offensive security certification.
+### Preferred
 
-**Preferred**
-- Advanced offensive certifications (e.g., OSEP, OSWE, GPEN, GXPN).
-- Cloud security certifications (e.g., AWS/Azure/GCP security, CCSP).
-- Compliance or governance certifications (e.g., ISO 27001 Lead Auditor, CISSP).
+- ISO 27001 Lead Implementer or Lead Auditor
+- CISSP
+- CISA
+- CRISC
+- CGRC
+- CBCP
+- CDPSE
+
+---
 
 ## 8. Key Performance Indicators
 
-- Lead and deliver client engagements on schedule and within scope, achieving strong client satisfaction ratings within the first 6–12 months.
-- Produce high-quality assessment reports that consistently meet BU quality standards with minimal rework.
-- Mentor and uplift at least one junior consultant, evidenced by improved independent delivery.
-- Contribute to pre-sales activities and statements of work that support the BU's revenue pipeline.
-- Maintain zero critical quality or compliance escalations across delivered engagements.
+- Successful onboarding and operation of VoronCitadel customers.
+- Timely completion of compliance assessments.
+- Accurate maintenance of risk registers and control inventories.
+- Closure of remediation actions within agreed timelines.
+- Successful audit support with minimal findings.
+- High customer satisfaction and platform adoption.
+- Zero critical data integrity issues.
+
+---
 
 ## 9. Reporting & Team Context
 
-This role reports to the Principal Cybersecurity Architect and operates within the VORON team, collaborating closely with offensive security, threat intelligence, and consulting colleagues across the Cybersecurity BU. As a senior member of the team, the Senior Security Consultant mentors junior consultants and acts as a technical lead on assigned engagements.
+This role reports to the Principal Cybersecurity Architect and operates within the VORON team. The Senior GRC Specialist collaborates closely with Product Engineering, Cybersecurity, Risk, Compliance, and customer stakeholders to ensure successful operation and continuous enhancement of the VoronCitadel platform.
+
+---
 
 ## 10. Compensation & Benefits
 
@@ -90,9 +201,13 @@ This role reports to the Principal Cybersecurity Architect and operates within t
 
 In addition to base salary, the role includes statutory contributions (EPF/SOCSO/EIS), medical coverage, training and certification sponsorship, and a performance-based bonus.
 
+---
+
 ## 11. Career Progression
 
-The natural next step for this role is progression toward Principal Cybersecurity Consultant or Cybersecurity Architect, taking on broader technical leadership, larger engagements, and greater client and team ownership.
+Senior GRC Specialist → Lead GRC Specialist → GRC Manager → Principal Cybersecurity Architect / Head of GRC
+
+---
 
 ## 12. Equal Opportunity Statement
 
