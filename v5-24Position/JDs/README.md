@@ -10,7 +10,7 @@ Each JD follows the house hiring-JD standard: at-a-glance table · Role Purpose 
 
 > **Wave assignments updated in v5.4** (PreSales-anchored 8-4-9): Wave 1 is now an 8-role mixed-level foundation anchored on PreSales — Lead Researcher (MRF-006) and CTI Lead (MRF-008) pulled **up** into Wave 1 for technical depth, while Gov Sec PM (MRF-001) and Senior PM (MRF-004) remain in Wave 1. Sales Specialist – Enterprise (MRF-010) deferred **down** to Wave 2 to follow the presales-built pipeline. Wave 2 is now 4 Senior roles; Wave 3 is 9 Junior/IC roles. See `../CySec-Wave1-Hiring-Plan-v5.4.md`.
 
-## Wave 1 — Immediate (Board Approval) · 8 roles · RM4,900–7,840/mo
+## Wave 1 — Immediate (Board Approval) · 8 roles (7 Senior/Lead + 1 Junior/Intermediate)
 
 | MRF | Position | Team | Reports To | JD |
 |-----|----------|------|------------|----|
@@ -18,7 +18,7 @@ Each JD follows the house hiring-JD standard: at-a-glance table · Role Purpose 
 | MRF-001 | Government Security Project Manager | Cybersecurity | Principal Cybersecurity Architect | [open](MRF-001-government-security-project-manager.md) |
 | MRF-002 | Senior GRC Specialist | VORON | Principal Cybersecurity Architect | [open](MRF-002-senior-grc-specialist.md) |
 | MRF-003 | Senior DevSecOps Engineer | DevSecOps | Principal Cybersecurity Architect | [open](MRF-003-senior-devsecops-engineer.md) |
-| MRF-005 | Senior Professional Services Consultant | Professional Services | BU Head (dotted line) | [open](MRF-005-senior-professional-services-consultant.md) |
+| MRF-005 | Technical Account Manager *(Junior/Intermediate)* | Professional Services | BU Head (dotted line) | [open](MRF-005-technical-account-manager.md) |
 | MRF-004 | Senior Project Manager | PM Team | BU Head (dotted line) | [open](MRF-004-senior-project-manager.md) |
 | MRF-006 | Lead Security Researcher | OffSec | Principal Cybersecurity Architect | [open](MRF-006-lead-security-researcher.md) |
 | MRF-008 | Cyber Threat Intelligence Lead | CTI | Principal Cybersecurity Architect | [open](MRF-008-cyber-threat-intelligence-lead.md) |
@@ -44,7 +44,7 @@ Each JD follows the house hiring-JD standard: at-a-glance table · Role Purpose 
 | MRF-018 | Junior DevSecOps Engineer | DevSecOps | Senior DevSecOps Engineer | [open](MRF-018-junior-devsecops-engineer.md) |
 | MRF-019 | Business Analyst | PM Team | Senior Project Manager | [open](MRF-019-business-analyst.md) |
 | MRF-020 | Junior Project Manager | PM Team | Senior Project Manager | [open](MRF-020-junior-project-manager.md) |
-| MRF-021 | Junior Professional Services Consultant | Professional Services | Senior Professional Services Consultant | [open](MRF-021-junior-professional-services-consultant.md) |
+| MRF-021 | Junior Professional Services Consultant | Professional Services | Technical Account Manager | [open](MRF-021-junior-professional-services-consultant.md) |
 
 ---
 

@@ -5,7 +5,7 @@
 | Requisition ID | MRF-021 |
 | Business Unit | Cybersecurity BU |
 | Team | Professional Services |
-| Reports To | Senior Professional Services Consultant |
+| Reports To | Technical Account Manager |
 | Level / Grade | Junior |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
@@ -84,7 +84,7 @@ The Junior Professional Services Consultant supports the delivery of the Cyberse
 
 ## 9. Reporting & Team Context
 
-This role reports to the Senior Professional Services Consultant and works closely with the broader Professional Services team and cross-functional specialists within the Cybersecurity BU on client engagements.
+This role reports to the Technical Account Manager and works closely with the broader Professional Services team and cross-functional specialists within the Cybersecurity BU on client engagements.
 
 ## 10. Compensation & Benefits
 

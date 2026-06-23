@@ -28,7 +28,7 @@
 - 24 total positions (3 existing + 21 hires)
 - 9 teams (Cybersecurity, VORON, OffSec, CTI, DevSecOps, Blockchain, PM, Sales, PS)
 - Wave structure: **8-4-9** (PreSales-anchored)
-  - Wave 1: 8 (mixed levels: 2 Lead + 6 Senior), PreSales-anchored
+  - Wave 1: 8 (mixed levels: 2 Lead + 5 Senior + 1 Junior/Intermediate), PreSales-anchored
   - Wave 2: 4 (all Senior) — revenue closers + senior delivery
   - Wave 3: 9 (all Junior/IC) — scale-up bench
 - Within 25% revenue cap
@@ -38,19 +38,19 @@
 | Metric | Value |
 |--------|-------|
 | Revenue Target | RM12,000,000 |
-| Total Annual Cost (Min) | RM1,560,384 |
-| Total Annual Cost (Max) | RM2,496,672 |
-| Cost as % of Revenue | 13.0% – 20.8% |
-| Headroom | RM503,328 – RM1,439,616 |
+| Total Annual Cost (Min) | RM1,536,192 |
+| Total Annual Cost (Max) | RM2,457,960 |
+| Cost as % of Revenue | 12.8% – 20.5% |
+| Headroom | RM542,040 – RM1,463,808 |
 
 ## Wave Structure
 
 | Wave | Trigger | Positions | Annual Cost Range |
 |------|---------|-----------|-------------------|
-| Wave 1 | Board Approval | 8 | RM677,376 – RM1,083,840 |
+| Wave 1 | Board Approval | 8 | RM653,184 – RM1,045,128 |
 | Wave 2 | RM4M+ SOWs | 4 | RM338,688 – RM541,920 |
 | Wave 3 | RM8M+ Recurring | 9 | RM544,320 – RM870,912 |
-| **Total** | - | **21** | **RM1,560,384 – RM2,496,672** |
+| **Total** | - | **21** | **RM1,536,192 – RM2,457,960** |
 
 ## Team Structure
 
@@ -82,8 +82,9 @@ BU Head
 1. **Wave 1 → 8 roles, mixed levels, PreSales-anchored** (added Lead Researcher + CTI Lead; Presales Consultant is the anchor)
 2. **Wave 2 → 4 roles, all Senior** (Enterprise + Government Sales, Red Team, Sr Blockchain Dev)
 3. **Wave 3 → 9 roles, all Junior/IC** (full scale-up bench)
-4. **Total cost reduced** vs v5.3 (junior-heavy Wave 3 replaces senior seats): RM1.56M–2.50M
+4. **Total cost reduced** vs v5.3 (junior-heavy Wave 3 replaces senior seats): RM1.54M–2.46M
 5. **JD wave fields realigned** to the v5.4 structure
+6. **Sr PS removed; Technical Account Manager (Junior/Intermediate) added** to Wave 1 in Professional Services (MRF-005 repurposed)
 
 ## Next Steps
 

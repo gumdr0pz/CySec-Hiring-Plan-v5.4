@@ -26,7 +26,7 @@
 
 ### 1.1 Overview
 
-This document outlines the strategic hiring plan for the Cybersecurity Business Unit (BU). The plan details the recruitment of **21 positions** across **9 teams** over a 12-month period, structured in three revenue-triggered waves with a deliberate seniority gradient (Wave 1 = mixed Lead+Senior, Wave 2 = all Senior, Wave 3 = all Junior/IC).
+This document outlines the strategic hiring plan for the Cybersecurity Business Unit (BU). The plan details the recruitment of **21 positions** across **9 teams** over a 12-month period, structured in three revenue-triggered waves with a deliberate seniority gradient (Wave 1 = mixed levels, Wave 2 = all Senior, Wave 3 = all Junior/IC).
 
 ### 1.2 Key Metrics
 
@@ -38,21 +38,21 @@ This document outlines the strategic hiring plan for the Cybersecurity Business 
 | **Hiring Timeline** | 12 months |
 | **Revenue Target** | RM12,000,000 |
 | **Wave Structure** | 8-4-9 (PreSales-anchored) |
-| **Wave 1 Positions** | 8 (mixed levels) |
+| **Wave 1 Positions** | 8 (2 Lead + 5 Senior + 1 Junior/Intermediate) |
 | **Wave 2 Positions** | 4 (all Senior) |
 | **Wave 3 Positions** | 9 (all Junior/IC) |
-| **Total Annual Cost (Min)** | RM1,560,384 |
-| **Total Annual Cost (Max)** | RM2,496,672 |
-| **Cost as % of Revenue** | 13.0% – 20.8% |
+| **Total Annual Cost (Min)** | RM1,536,192 |
+| **Total Annual Cost (Max)** | RM2,457,960 |
+| **Cost as % of Revenue** | 12.8% – 20.5% |
 | **25% Revenue Cap** | ✅ Within |
-| **Headroom** | RM503,328 – RM1,439,616 |
+| **Headroom** | RM542,040 – RM1,463,808 |
 
 ### 1.3 Strategic Alignment
 
 The hiring plan supports four core strategic objectives:
 
 1. **PreSales-First Capability**: Anchor Wave 1 on the technical win-engine (Presales Consultant + OffSec/CTI Leads + platform seniors) so the BU can scope, demo, and win early pipeline before adding dedicated sales hunters.
-2. **Platform-First Foundation**: Stand up governance, GRC, DevSecOps, PM, and professional services capability up front.
+2. **Platform-First Foundation**: Stand up governance, GRC, DevSecOps, PM, and account-management capability up front.
 3. **COGS Optimization**: Maintain labor costs below 25% of revenue through a 30% salary reduction and multi-product allocation.
 4. **Revenue-Triggered Scaling**: Tie Waves 2 and 3 to confirmed revenue milestones (RM4M+ SOWs, RM8M+ recurring) to ensure financial sustainability.
 
@@ -60,14 +60,14 @@ The hiring plan supports four core strategic objectives:
 
 | Wave | Trigger | Positions | Level Mix | Annual Cost Range | % of Total |
 |------|---------|-----------|-----------|-------------------|------------|
-| **Wave 1** | Board Approval | 8 | 2 Lead + 6 Senior | RM677,376 – RM1,083,840 | 43.4% |
-| **Wave 2** | RM4M+ SOWs | 4 | 4 Senior | RM338,688 – RM541,920 | 21.7% |
-| **Wave 3** | RM8M+ Recurring | 9 | 5 Junior + 4 IC | RM544,320 – RM870,912 | 34.9% |
-| **Total** | - | **21** | - | **RM1,560,384 – RM2,496,672** | **100%** |
+| **Wave 1** | Board Approval | 8 | 2 Lead + 5 Senior + 1 Junior/Intermediate | RM653,184 – RM1,045,128 | 42.5% |
+| **Wave 2** | RM4M+ SOWs | 4 | 4 Senior | RM338,688 – RM541,920 | 22.0% |
+| **Wave 3** | RM8M+ Recurring | 9 | 5 Junior + 4 IC | RM544,320 – RM870,912 | 35.4% |
+| **Total** | - | **21** | - | **RM1,536,192 – RM2,457,960** | **100%** |
 
-**Wave 1 Positions (8):** Presales Consultant ⭐, Gov Sec PM, Sr GRC Specialist, Sr DevSecOps, Sr PS, PM, Lead Researcher, CTI Lead
+**Wave 1 Positions (8):** Presales Consultant ⭐, Gov Sec PM, Sr GRC Specialist, Sr DevSecOps, PM, Lead Researcher, CTI Lead, Technical Account Manager (Junior/Intermediate)
 
-> **Note:** Previous versions used different wave structures (v5.0: 5-7-9; v5.2: 8-4-9 flat; v5.3: 7-7-7). v5.4 returns to an 8-role Wave 1 but re-purposes it as a mixed-level, PreSales-anchored foundation, with Wave 2 reserved for senior revenue closers and Wave 3 for the junior scale-up bench.
+> **Note:** Previous versions used different wave structures (v5.0: 5-7-9; v5.2: 8-4-9 flat; v5.3: 7-7-7). v5.4 uses a mixed-level, PreSales-anchored 8-role Wave 1, with Wave 2 reserved for senior revenue closers and Wave 3 for the junior scale-up bench. The Professional Services Wave 1 seat is a Technical Account Manager (Junior/Intermediate); the former Senior Professional Services Consultant has been removed from the structure.
 
 ---
 
@@ -113,7 +113,7 @@ BU Head
 │   ├── Sales Specialist – Enterprise (Senior) .... W2
 │   └── Sales Specialist – Government (Senior) .... W2
 └── Professional Services (dotted line to BU Head)
-    ├── Sr PS (Senior) ........................... W1
+    ├── Technical Account Manager (Jr/Interm.) .... W1
     └── Jr PS (Junior) ........................... W3
 ```
 
@@ -129,7 +129,7 @@ BU Head
 | **DevSecOps** | Security in CI/CD, infrastructure security | Security automation, pipelines, cloud security |
 | **PM** | Project management, coordination, delivery | Project planning, stakeholder management, delivery tracking |
 | **Sales** | Presales, business development, client acquisition | Solution engineering, lead generation, deal closing |
-| **Professional Services** | Client delivery, implementation, support | Service delivery, client engagement, technical implementation |
+| **Professional Services** | Account management, client delivery, support | Account health & retention, service delivery, client engagement |
 
 ---
 
@@ -139,17 +139,17 @@ BU Head
 
 **Trigger:** Board approval of BU establishment
 **Timeline:** Months 1-3
-**Annual Cost:** RM677,376 – RM1,083,840
+**Annual Cost:** RM653,184 – RM1,045,128
 
 #### 3.1.1 Rationale
 
-Wave 1 stands up a complete, multi-level foundation team anchored on **PreSales** — the technical engine that converts the BU's capabilities into winnable, deliverable solutions. The two technical Leads (OffSec, CTI) give the presales motion deep credibility in demos, POCs, and solution architecture, while the platform/governance/delivery seniors ensure proposed scopes are real and deliverable. This wave is designed to **win the early pipeline** that triggers Waves 2 and 3.
+Wave 1 stands up a complete, multi-level foundation team anchored on **PreSales** — the technical engine that converts the BU's capabilities into winnable, deliverable solutions. The two technical Leads (OffSec, CTI) give the presales motion deep credibility in demos, POCs, and solution architecture, while the platform/governance seniors ensure proposed scopes are real and deliverable. A **Technical Account Manager (Junior/Intermediate)** establishes the post-sale account-management layer. This wave is designed to **win the early pipeline** that triggers Waves 2 and 3.
 
 1. **PreSales Engine**: Presales Consultant owns the technical narrative across the deal lifecycle
 2. **Security Governance**: Gov Sec PM ensures compliance and risk management framework
 3. **GRC Capability**: Sr GRC Specialist deploys the GRC platform and consulting capability
 4. **Platform Security**: Sr DevSecOps establishes security automation and CI/CD security
-5. **Delivery Foundation**: PM and Sr PS establish project and service delivery
+5. **Delivery & Accounts**: PM establishes project delivery; the Technical Account Manager owns post-sale client relationships and recurring-revenue protection
 6. **Technical Leadership**: Lead Researcher (OffSec) and CTI Lead provide senior technical depth that underpins presales credibility
 
 #### 3.1.2 Wave 1 Positions
@@ -160,11 +160,11 @@ Wave 1 stands up a complete, multi-level foundation team anchored on **PreSales*
 | 2 | Gov Sec PM | Senior | Cybersecurity | RM7,056 | RM11,290 |
 | 3 | Sr GRC Specialist | Senior | VORON | RM7,056 | RM11,290 |
 | 4 | Sr DevSecOps | Senior | DevSecOps | RM7,056 | RM11,290 |
-| 5 | Sr PS | Senior | Professional Services | RM7,056 | RM11,290 |
-| 6 | PM | Senior | PM Team | RM7,056 | RM11,290 |
-| 7 | Lead Researcher | Lead | OffSec | RM7,056 | RM11,290 |
-| 8 | CTI Lead | Lead | CTI | RM7,056 | RM11,290 |
-| **Total** | | | | **RM56,448** | **RM90,320** |
+| 5 | PM | Senior | PM Team | RM7,056 | RM11,290 |
+| 6 | Lead Researcher | Lead | OffSec | RM7,056 | RM11,290 |
+| 7 | CTI Lead | Lead | CTI | RM7,056 | RM11,290 |
+| 8 | Technical Account Manager | Junior/Intermediate | Professional Services | RM5,040 | RM8,064 |
+| **Total** | | | | **RM54,432** | **RM87,094** |
 
 #### 3.1.3 Wave 1 Success Criteria
 
@@ -174,7 +174,7 @@ Wave 1 stands up a complete, multi-level foundation team anchored on **PreSales*
 - [ ] Sr GRC Specialist: GRC platform (VoronCitadel) deployed
 - [ ] Sr DevSecOps: CI/CD security pipeline implemented
 - [ ] PM: Project management methodology deployed
-- [ ] Sr PS: Professional services delivery capability established
+- [ ] Technical Account Manager: Account-management framework and client health tracking established
 - [ ] Lead Researcher + CTI Lead: Technical capability briefings ready to support presales
 
 ### 3.2 Wave 2: RM4M+ SOWs (4 Roles, All Senior) — Revenue Closers + Senior Delivery
@@ -277,17 +277,20 @@ Burdened Cost = Base Salary × 1.44x
 |-------|----------------------|---------------------------|--------------------------|
 | Lead | RM4,900 – RM7,840 | RM7,056 – RM11,290 | RM84,672 – RM135,480 |
 | Senior | RM4,900 – RM7,840 | RM7,056 – RM11,290 | RM84,672 – RM135,480 |
+| Junior/Intermediate | RM3,500 – RM5,600 | RM5,040 – RM8,064 | RM60,480 – RM96,768 |
 | IC | RM3,500 – RM5,600 | RM5,040 – RM8,064 | RM60,480 – RM96,768 |
 | Junior | RM3,500 – RM5,600 | RM5,040 – RM8,064 | RM60,480 – RM96,768 |
 
+> The Technical Account Manager (Junior/Intermediate) is costed at the Junior/IC band.
+
 ### 4.2 Wave Cost Breakdown
 
-#### 4.2.1 Wave 1 Costs (8 roles)
+#### 4.2.1 Wave 1 Costs (8 roles: 7 Senior/Lead + 1 Junior/Intermediate)
 
 | Component | Monthly (Min) | Monthly (Max) | Annual (Min) | Annual (Max) |
 |-----------|---------------|---------------|--------------|--------------|
-| Base Salaries | RM39,200 | RM62,720 | RM470,400 | RM752,640 |
-| Burdened (1.44x) | RM56,448 | RM90,320 | RM677,376 | RM1,083,840 |
+| Base Salaries | RM37,800 | RM60,480 | RM453,600 | RM725,760 |
+| Burdened (1.44x) | RM54,432 | RM87,094 | RM653,184 | RM1,045,128 |
 
 #### 4.2.2 Wave 2 Costs (4 roles)
 
@@ -307,10 +310,10 @@ Burdened Cost = Base Salary × 1.44x
 
 | Wave | Positions | Annual (Min) | Annual (Max) | % of Total |
 |------|-----------|--------------|--------------|------------|
-| Wave 1 | 8 | RM677,376 | RM1,083,840 | 43.4% |
-| Wave 2 | 4 | RM338,688 | RM541,920 | 21.7% |
-| Wave 3 | 9 | RM544,320 | RM870,912 | 34.9% |
-| **Total** | **21** | **RM1,560,384** | **RM2,496,672** | **100%** |
+| Wave 1 | 8 | RM653,184 | RM1,045,128 | 42.5% |
+| Wave 2 | 4 | RM338,688 | RM541,920 | 22.0% |
+| Wave 3 | 9 | RM544,320 | RM870,912 | 35.4% |
+| **Total** | **21** | **RM1,536,192** | **RM2,457,960** | **100%** |
 
 ### 4.4 Revenue Alignment
 
@@ -318,20 +321,20 @@ Burdened Cost = Base Salary × 1.44x
 |--------|-------|
 | Revenue Target | RM12,000,000 |
 | 25% Revenue Cap | RM3,000,000 |
-| Total Cost (Min) | RM1,560,384 |
-| Total Cost (Max) | RM2,496,672 |
-| Cost % of Revenue (Min) | 13.0% |
-| Cost % of Revenue (Max) | 20.8% |
-| Headroom (Min) | RM503,328 |
-| Headroom (Max) | RM1,439,616 |
+| Total Cost (Min) | RM1,536,192 |
+| Total Cost (Max) | RM2,457,960 |
+| Cost % of Revenue (Min) | 12.8% |
+| Cost % of Revenue (Max) | 20.5% |
+| Headroom (Min) | RM542,040 |
+| Headroom (Max) | RM1,463,808 |
 
 ### 4.5 ROI Analysis
 
 | Scenario | Annual Revenue | Annual Cost | Net Contribution | ROI |
 |----------|----------------|-------------|------------------|-----|
-| Conservative | RM12,000,000 | RM2,496,672 | RM9,503,328 | 3.8x |
+| Conservative | RM12,000,000 | RM2,457,960 | RM9,542,040 | 3.9x |
 | Moderate | RM12,000,000 | RM2,000,000 | RM10,000,000 | 5.0x |
-| Optimistic | RM12,000,000 | RM1,560,384 | RM10,439,616 | 6.7x |
+| Optimistic | RM12,000,000 | RM1,536,192 | RM10,463,808 | 6.8x |
 
 ---
 
@@ -459,37 +462,7 @@ Burdened Cost = Base Salary × 1.44x
 
 ---
 
-#### 5.1.5 Sr PS (Senior) — Professional Services
-
-| Attribute | Detail |
-|-----------|--------|
-| **Team** | Professional Services |
-| **Reports To** | BU Head (dotted line) |
-| **Level** | Senior |
-| **Wave** | 1 |
-| **Annual Cost** | RM84,672 – RM135,480 |
-
-**Responsibilities:**
-- Lead professional services engagements and delivery
-- Manage client relationships and expectations
-- Develop service offerings and delivery frameworks
-- Mentor junior PS team members
-- Contribute to presales activities through technical expertise
-
-**Requirements:**
-- 5+ years experience in professional services or consulting
-- Technical background in cybersecurity or blockchain
-- Strong client management and communication skills
-- Experience with service delivery methodologies
-
-**Multi-Product Allocation:**
-- Client Delivery: 50%
-- Service Development: 30%
-- Presales Support: 20%
-
----
-
-#### 5.1.6 PM (Senior) — PM Team
+#### 5.1.5 PM (Senior) — PM Team
 
 | Attribute | Detail |
 |-----------|--------|
@@ -519,7 +492,7 @@ Burdened Cost = Base Salary × 1.44x
 
 ---
 
-#### 5.1.7 Lead Researcher (Lead) — OffSec
+#### 5.1.6 Lead Researcher (Lead) — OffSec
 
 | Attribute | Detail |
 |-----------|--------|
@@ -549,7 +522,7 @@ Burdened Cost = Base Salary × 1.44x
 
 ---
 
-#### 5.1.8 CTI Lead (Lead) — CTI
+#### 5.1.7 CTI Lead (Lead) — CTI
 
 | Attribute | Detail |
 |-----------|--------|
@@ -576,6 +549,35 @@ Burdened Cost = Base Salary × 1.44x
 - Threat Intelligence Operations: 45%
 - Threat Hunting: 30%
 - Intelligence Reporting: 25%
+
+---
+
+#### 5.1.8 Technical Account Manager (Junior/Intermediate) — Professional Services
+
+| Attribute | Detail |
+|-----------|--------|
+| **Team** | Professional Services |
+| **Reports To** | BU Head (dotted line) |
+| **Level** | Junior/Intermediate |
+| **Wave** | 1 |
+| **Annual Cost** | RM60,480 – RM96,768 |
+
+**Responsibilities:**
+- Own post-sale client relationships as the primary point of contact for assigned accounts
+- Coordinate service delivery across PM, Professional Services, and technical teams
+- Track account health (adoption, satisfaction, renewal risk) and drive interventions
+- Run check-ins and quarterly business reviews; manage escalations end-to-end
+- Identify expansion/upsell opportunities with Sales and Presales
+
+**Requirements:**
+- 2–4 years in technical account management, customer success, professional services, or support
+- Working technical familiarity with cybersecurity and/or blockchain
+- Strong client-facing communication and coordination skills
+
+**Multi-Product Allocation:**
+- Account Management & Retention: 50%
+- Delivery Coordination: 30%
+- Expansion / Upsell Support: 20%
 
 ---
 
@@ -948,13 +950,13 @@ Burdened Cost = Base Salary × 1.44x
 | Attribute | Detail |
 |-----------|--------|
 | **Team** | Professional Services |
-| **Reports To** | Sr PS |
+| **Reports To** | Technical Account Manager |
 | **Level** | Junior |
 | **Wave** | 3 |
 | **Annual Cost** | RM60,480 – RM96,768 |
 
 **Responsibilities:**
-- Support senior consultants in service delivery
+- Support service delivery and client implementations
 - Assist with implementation and configuration tasks
 - Document implementation procedures
 - Participate in client training sessions
@@ -1050,7 +1052,7 @@ Month 9-12: Wave 3 Execution (9 roles)
 | Position | Market Rate (RM/month) | Reduced Rate (RM/month) | % Reduction |
 |----------|------------------------|-------------------------|-------------|
 | Lead/Senior | RM7,000 – RM11,200 | RM4,900 – RM7,840 | 30% |
-| IC/Junior | RM5,000 – RM8,000 | RM3,500 – RM5,600 | 30% |
+| IC/Junior/Intermediate | RM5,000 – RM8,000 | RM3,500 – RM5,600 | 30% |
 
 ### 8.2 Appendix B: COGS Calculation
 
@@ -1078,21 +1080,20 @@ Total Burdened Cost = Base × 1.44 (+ RM 100 health)
 | Blockchain | 1 | RM84,672 | RM135,480 |
 | PM Team | 3 | RM205,632 | RM329,016 |
 | Sales | 3 | RM254,016 | RM406,440 |
-| Professional Services | 2 | RM145,152 | RM232,248 |
-| **Total** | **21** | **RM1,560,384** | **RM2,496,672** |
+| Professional Services | 2 | RM120,960 | RM193,536 |
+| **Total** | **21** | **RM1,536,192** | **RM2,457,960** |
 
 ### 8.4 Appendix D: Document History
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
 | 1.0 | June 5, 2026 | Hadri | Initial draft |
-| 2.0 | June 8, 2026 | Hadri | Added COGS model |
-| 3.0 | June 9, 2026 | Hadri | Option C optimization |
 | 4.0 | June 9, 2026 | Hadri | 18-role structure |
 | 5.0 | June 10, 2026 | Hadri | 24-position whiteboard structure (5-7-9) |
 | 5.2 | June 10, 2026 | Hadri | Wave 1 expanded to 8 (8-4-9) |
 | 5.3 | June 10, 2026 | Hadri | Balanced 7-7-7 structure |
-| **5.4** | **June 23, 2026** | **Hadri** | **PreSales-anchored 8-4-9: Wave 1 = 8 mixed levels, Wave 2 = 4 seniors, Wave 3 = 9 juniors** |
+| 5.4 | June 23, 2026 | Hadri | PreSales-anchored 8-4-9: Wave 1 = 8 mixed levels, Wave 2 = 4 seniors, Wave 3 = 9 juniors |
+| **5.4 (rev.)** | **June 23, 2026** | **Hadri** | **Removed Sr PS; replaced with Technical Account Manager (Junior/Intermediate) in Wave 1. Totals: RM1,536,192–2,457,960** |
 
 ---
 

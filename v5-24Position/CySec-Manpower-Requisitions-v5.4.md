@@ -29,17 +29,17 @@ This document contains the Manpower Requisition Forms (MRFs) for the Cybersecuri
 
 | Wave | Trigger | Positions | Level Mix | Annual Cost Range |
 |------|---------|-----------|-----------|-------------------|
-| Wave 1 | Board Approval | 8 | 2 Lead + 6 Senior | RM677,376 – RM1,083,840 |
+| Wave 1 | Board Approval | 8 | 2 Lead + 5 Senior + 1 Junior/Intermediate | RM653,184 – RM1,045,128 |
 | Wave 2 | RM4M+ SOWs | 4 | 4 Senior | RM338,688 – RM541,920 |
 | Wave 3 | RM8M+ Recurring | 9 | 5 Junior + 4 IC | RM544,320 – RM870,912 |
-| **Total** | - | **21** | - | **RM1,560,384 – RM2,496,672** |
+| **Total** | - | **21** | - | **RM1,536,192 – RM2,457,960** |
 
 ### 1.3 Compensation Reference
 
 | Level | Monthly Base | Annual Base | Annual Burdened (1.44x) |
 |-------|--------------|-------------|--------------------------|
 | Lead / Senior | RM4,900 – RM7,840 | RM58,800 – RM94,080 | RM84,672 – RM135,480 |
-| IC / Junior | RM3,500 – RM5,600 | RM42,000 – RM67,200 | RM60,480 – RM96,768 |
+| IC / Junior / Junior-Intermediate | RM3,500 – RM5,600 | RM42,000 – RM67,200 | RM60,480 – RM96,768 |
 
 ---
 
@@ -104,19 +104,19 @@ This document contains the Manpower Requisition Forms (MRFs) for the Cybersecuri
 
 **Key Requirements:** 5+ years DevOps/DevSecOps; CI/CD tools (Jenkins, GitLab CI, GitHub Actions); cloud (AWS/Azure/GCP) security; scripting (Python/Bash/PowerShell).
 
-### MRF-005: Senior Professional Services Consultant (Senior)
+### MRF-005: Technical Account Manager (Junior/Intermediate)
 
 | Field | Value |
 |-------|-------|
 | **Team** | Professional Services |
 | **Reports To** | BU Head (dotted line) |
-| **Level** | Senior |
+| **Level** | Junior/Intermediate |
 | **Wave** | 1 (Immediate) |
 | **Priority** | High |
-| **Monthly Base** | RM4,900 – RM7,840 |
-| **Annual Burdened** | RM84,672 – RM135,480 |
+| **Monthly Base** | RM3,500 – RM5,600 |
+| **Annual Burdened** | RM60,480 – RM96,768 |
 
-**Key Requirements:** 5+ years professional services/consulting; cybersecurity or blockchain technical background; client management; service delivery methodologies.
+**Key Requirements:** 2–4 years technical account management / customer success / professional services / support; cybersecurity or blockchain familiarity; strong client communication and delivery coordination. *(Replaces the former Senior Professional Services Consultant, removed from the structure.)*
 
 ### MRF-004: Senior Project Manager (Senior)
 
@@ -337,7 +337,7 @@ This document contains the Manpower Requisition Forms (MRFs) for the Cybersecuri
 | Field | Value |
 |-------|-------|
 | **Team** | Professional Services |
-| **Reports To** | Sr PS |
+| **Reports To** | Technical Account Manager |
 | **Level** | Junior |
 | **Wave** | 3 (RM8M+ Recurring) |
 | **Monthly Base** | RM3,500 – RM5,600 |
@@ -355,7 +355,7 @@ This document contains the Manpower Requisition Forms (MRFs) for the Cybersecuri
 | MRF-001 | Gov Sec PM | Senior | Cybersecurity | 1 |
 | MRF-002 | Sr GRC Specialist | Senior | VORON | 1 |
 | MRF-003 | Sr DevSecOps | Senior | DevSecOps | 1 |
-| MRF-005 | Sr PS | Senior | Professional Services | 1 |
+| MRF-005 | Technical Account Manager | Junior/Intermediate | Professional Services | 1 |
 | MRF-004 | PM | Senior | PM Team | 1 |
 | MRF-006 | Lead Researcher | Lead | OffSec | 1 |
 | MRF-008 | CTI Lead | Lead | CTI | 1 |
@@ -382,7 +382,8 @@ This document contains the Manpower Requisition Forms (MRFs) for the Cybersecuri
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
 | 5.0 | June 10, 2026 | Hadri | All 21 MRF forms (5-7-9) |
-| **5.4** | **June 23, 2026** | **Hadri** | **Re-grouped to PreSales-anchored 8-4-9 structure** |
+| 5.4 | June 23, 2026 | Hadri | Re-grouped to PreSales-anchored 8-4-9 structure |
+| **5.4 (rev.)** | **June 23, 2026** | **Hadri** | **MRF-005 changed from Senior PS Consultant to Technical Account Manager (Junior/Intermediate); totals RM1,536,192–2,457,960** |
 
 ---
 

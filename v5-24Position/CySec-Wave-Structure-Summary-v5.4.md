@@ -14,7 +14,7 @@
 | Wave 1 focus | Sales/governance | **PreSales-anchored** | Build the technical win-engine before adding sales hunters |
 | Wave 2 | 7 roles | **4 roles (all Senior)** | Revenue-triggered senior delivery + sales closers |
 | Wave 3 | 7 roles | **9 roles (all Junior/IC)** | Scale-up bench triggered by recurring revenue |
-| Level mix | Flat per wave | **Lead+Senior / Senior / Junior+IC** | Clear seniority gradient across waves |
+| PS Wave 1 seat | Sr PS (Senior) | **Technical Account Manager (Junior/Intermediate)** | Right-size the PS Wave 1 seat to an account-management role; Sr PS removed |
 
 ## Organization Chart (24 Positions)
 
@@ -26,7 +26,7 @@
 | Principal Blockchain Architect | Leadership | Existing |
 
 ### Wave 1 — Immediate (8 Roles, Mixed Levels) | Green Border
-**Trigger:** Board approval · **Focus:** PreSales-anchored foundation
+**Trigger:** Board approval · **Focus:** PreSales-anchored foundation · **Mix:** 2 Lead + 5 Senior + 1 Junior/Intermediate
 
 | # | Position | Level | Team | Monthly Salary (Reduced) |
 |---|----------|-------|------|-------------------------|
@@ -34,12 +34,12 @@
 | 2 | Gov Sec PM | Senior | Cybersecurity | RM4,900–7,840 |
 | 3 | Sr GRC Specialist | Senior | VORON | RM4,900–7,840 |
 | 4 | Sr DevSecOps | Senior | DevSecOps | RM4,900–7,840 |
-| 5 | Sr PS | Senior | Professional Services | RM4,900–7,840 |
-| 6 | PM | Senior | PM Team | RM4,900–7,840 |
-| 7 | Lead Researcher | Lead | OffSec | RM4,900–7,840 |
-| 8 | CTI Lead | Lead | CTI | RM4,900–7,840 |
+| 5 | PM | Senior | PM Team | RM4,900–7,840 |
+| 6 | Lead Researcher | Lead | OffSec | RM4,900–7,840 |
+| 7 | CTI Lead | Lead | CTI | RM4,900–7,840 |
+| 8 | Technical Account Manager | Junior/Intermediate | Professional Services | RM3,500–5,600 |
 
-**Wave 1 Total: RM39,200–62,720/month base | RM56,448–90,320/month burdened | RM677,376–1,083,840/year**
+**Wave 1 Total: RM37,800–60,480/month base | RM54,432–87,094/month burdened | RM653,184–1,045,128/year**
 
 ### Wave 2 — RM4M+ SOWs (4 Roles, All Senior) | Blue Border
 **Trigger:** RM4M+ signed SOWs · **Focus:** Revenue closers + senior delivery
@@ -77,19 +77,20 @@
 | Total Positions | 24 |
 | Existing Leaders | 3 |
 | Positions to Hire | 21 |
-| Total Annual Cost (Burdened) | RM1,560,384 – RM2,496,672 |
+| Rate Bands | 11 Senior/Lead + 10 Junior/IC |
+| Total Annual Cost (Burdened) | RM1,536,192 – RM2,457,960 |
 | Revenue Target | RM12,000,000 |
-| Cost as % of Revenue | 13.0% – 20.8% |
+| Cost as % of Revenue | 12.8% – 20.5% |
 | 25% Cap | RM3,000,000 |
-| Headroom | RM503,328 – RM1,439,616 |
+| Headroom | RM542,040 – RM1,463,808 |
 
 ### Cost by Wave
 | Wave | Positions | Annual (Min) | Annual (Max) | % of Total |
 |------|-----------|--------------|--------------|------------|
-| Wave 1 | 8 | RM677,376 | RM1,083,840 | 43.4% |
-| Wave 2 | 4 | RM338,688 | RM541,920 | 21.7% |
-| Wave 3 | 9 | RM544,320 | RM870,912 | 34.9% |
-| **Total** | **21** | **RM1,560,384** | **RM2,496,672** | **100%** |
+| Wave 1 | 8 | RM653,184 | RM1,045,128 | 42.5% |
+| Wave 2 | 4 | RM338,688 | RM541,920 | 22.0% |
+| Wave 3 | 9 | RM544,320 | RM870,912 | 35.4% |
+| **Total** | **21** | **RM1,536,192** | **RM2,457,960** | **100%** |
 
 ## Color Coding Guide
 
@@ -129,7 +130,7 @@ BU Head
 │   ├── Sales Specialist – Enterprise (Senior) ........ W2
 │   └── Sales Specialist – Government (Senior) ........ W2
 └── Professional Services (dotted line)
-    ├── Sr PS (Senior) ............................... W1
+    ├── Technical Account Manager (Junior/Intermediate)  W1
     └── Jr PS (Junior) ............................... W3
 ```
 

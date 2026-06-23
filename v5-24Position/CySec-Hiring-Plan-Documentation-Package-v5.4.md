@@ -46,19 +46,19 @@ This package contains the complete v5.4 documentation for the Cybersecurity BU h
 | Positions to Hire | 21 |
 | Hiring Timeline | 12 months |
 | Wave Structure | 8-4-9 (PreSales-anchored) |
-| Total Annual Cost | RM1,560,384 – RM2,496,672 |
-| Cost as % of Revenue | 13.0% – 20.8% |
+| Total Annual Cost | RM1,536,192 – RM2,457,960 |
+| Cost as % of Revenue | 12.8% – 20.5% |
 | 25% Revenue Cap | ✅ Within |
-| Headroom | RM503,328 – RM1,439,616 |
+| Headroom | RM542,040 – RM1,463,808 |
 
 ### Wave Structure
 
 | Wave | Trigger | Positions | Level Mix | Annual Cost Range |
 |------|---------|-----------|-----------|-------------------|
-| Wave 1 | Board Approval | 8 | 2 Lead + 6 Senior | RM677,376 – RM1,083,840 |
+| Wave 1 | Board Approval | 8 | 2 Lead + 5 Senior + 1 Junior/Intermediate | RM653,184 – RM1,045,128 |
 | Wave 2 | RM4M+ SOWs | 4 | 4 Senior | RM338,688 – RM541,920 |
 | Wave 3 | RM8M+ Recurring | 9 | 5 Junior + 4 IC | RM544,320 – RM870,912 |
-| **Total** | - | **21** | - | **RM1,560,384 – RM2,496,672** |
+| **Total** | - | **21** | - | **RM1,536,192 – RM2,457,960** |
 
 ---
 
@@ -72,10 +72,10 @@ This package contains the complete v5.4 documentation for the Cybersecurity BU h
 | 2 | Gov Sec PM | Senior | Cybersecurity |
 | 3 | Sr GRC Specialist | Senior | VORON |
 | 4 | Sr DevSecOps | Senior | DevSecOps |
-| 5 | Sr PS | Senior | Professional Services |
-| 6 | PM | Senior | PM Team |
-| 7 | Lead Researcher | Lead | OffSec |
-| 8 | CTI Lead | Lead | CTI |
+| 5 | PM | Senior | PM Team |
+| 6 | Lead Researcher | Lead | OffSec |
+| 7 | CTI Lead | Lead | CTI |
+| 8 | Technical Account Manager | Junior/Intermediate | Professional Services |
 
 ### Wave 2: RM4M+ SOWs (4, All Senior)
 
@@ -129,7 +129,8 @@ This package contains the complete v5.4 documentation for the Cybersecurity BU h
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
 | 5.0 | June 10, 2026 | Hadri | Complete documentation package (5-7-9) |
-| **5.4** | **June 23, 2026** | **Hadri** | **PreSales-anchored 8-4-9 package** |
+| 5.4 | June 23, 2026 | Hadri | PreSales-anchored 8-4-9 package |
+| **5.4 (rev.)** | **June 23, 2026** | **Hadri** | **Sr PS replaced by Technical Account Manager (Junior/Intermediate); totals RM1,536,192–2,457,960** |
 
 ---
 
