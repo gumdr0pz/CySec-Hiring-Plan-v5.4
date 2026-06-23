@@ -1,30 +1,36 @@
-# v5 - 24-Position Whiteboard Structure
+# v5 - 24-Position Structure (v5.4 Current)
 
-**Date:** June 10, 2026  
-**Structure:** 24 positions (3 existing + 21 hires)  
-**Status:** Final version
+**Date:** June 23, 2026
+**Structure:** 24 positions (3 existing + 21 hires)
+**Status:** v5.4 CURRENT — PreSales-anchored 8-4-9
+
+> All previous versions (v5.0–v5.3) are deprecated and archived under `ARCHIVE-HISTORICAL-VERSIONS/`.
 
 ---
 
-## Files
+## Current Files (v5.4)
 
 | File | Description |
 |------|-------------|
-| `CySec-Comprehensive-Hiring-Plan-v5.md` | Complete hiring plan |
-| `CySec-Hiring-Plan-Executive-Summary-v5.md` | Executive summary |
-| `CySec-Wave1-Hiring-Plan-Immediate-v5.md` | Wave 1 focused plan |
-| `CySec-Manpower-Requisitions-v5.md` | All 21 MRF forms |
-| `CySec-Financial-Analysis-v5.md` | Cost analysis and ROI |
-| `CySec-Wave-Structure-Summary.md` | Quick reference |
-| `CySec-BU-OrgChart-Whiteboard.drawio` | Org chart with wave colors |
+| `CySec-Comprehensive-Hiring-Plan-v5.4.md` | Complete hiring plan |
+| `CySec-Hiring-Plan-Executive-Summary-v5.4.md` | Executive summary |
+| `CySec-Wave1-Hiring-Plan-v5.4.md` | Wave 1 focused plan |
+| `CySec-Manpower-Requisitions-v5.4.md` | All 21 MRF forms |
+| `CySec-Financial-Analysis-v5.4.md` | Cost analysis and ROI |
+| `CySec-Wave-Structure-Summary-v5.4.md` | Quick reference |
+| `CySec-Hiring-Plan-Documentation-Package-v5.4.md` | Package overview |
+| `JDs/` | 21 detailed job descriptions |
+| `CySec-BU-OrgChart-Whiteboard.drawio` | Org chart (re-color wave borders to v5.4) |
 | `cysec_cogs_calculator.py` | Python cost calculator |
-| `CySec-Hiring-Plan-Documentation-Package-v5.md` | Complete package overview |
 
 ## Summary
 
 - 24 total positions (3 existing + 21 hires)
-- 9 teams (added PM, Sales, PS teams)
-- Wave structure: 5-7-9
+- 9 teams (Cybersecurity, VORON, OffSec, CTI, DevSecOps, Blockchain, PM, Sales, PS)
+- Wave structure: **8-4-9** (PreSales-anchored)
+  - Wave 1: 8 (mixed levels: 2 Lead + 6 Senior), PreSales-anchored
+  - Wave 2: 4 (all Senior) — revenue closers + senior delivery
+  - Wave 3: 9 (all Junior/IC) — scale-up bench
 - Within 25% revenue cap
 
 ## Financial Summary
@@ -33,69 +39,56 @@
 |--------|-------|
 | Revenue Target | RM12,000,000 |
 | Total Annual Cost (Min) | RM1,560,384 |
-| Total Annual Cost (Max) | RM2,496,614 |
+| Total Annual Cost (Max) | RM2,496,672 |
 | Cost as % of Revenue | 13.0% – 20.8% |
-| Headroom | RM503,386 – RM1,439,616 |
+| Headroom | RM503,328 – RM1,439,616 |
 
 ## Wave Structure
 
 | Wave | Trigger | Positions | Annual Cost Range |
 |------|---------|-----------|-------------------|
-| Wave 1 | Board Approval | 5 | RM423,360 – RM677,376 |
-| Wave 2 | RM4M+ SOWs | 7 | RM592,704 – RM948,326 |
+| Wave 1 | Board Approval | 8 | RM677,376 – RM1,083,840 |
+| Wave 2 | RM4M+ SOWs | 4 | RM338,688 – RM541,920 |
 | Wave 3 | RM8M+ Recurring | 9 | RM544,320 – RM870,912 |
-| **Total** | - | **21** | **RM1,560,384 – RM2,496,614** |
+| **Total** | - | **21** | **RM1,560,384 – RM2,496,672** |
 
 ## Team Structure
 
 ```
 BU Head
 ├── Principal Cybersecurity Architect
-│   ├── Gov Sec PM (Senior)
-│   ├── VORON Team (2)
-│   ├── OffSec Team (3)
-│   ├── CTI Team (4)
-│   └── DevSecOps Team (2)
+│   ├── Gov Sec PM (Senior) ........... W1
+│   ├── VORON Team (2) ................ W1 + W3
+│   ├── OffSec Team (3) ............... W1 + W2 + W3
+│   ├── CTI Team (4) .................. W1 + W3×3
+│   └── DevSecOps Team (2) ............ W1 + W3
 ├── Principal Blockchain Architect
-│   └── Sr Dev (Senior)
-├── PM Team (3)
-├── Sales Team (3)
-└── Professional Services (2)
+│   └── Sr Blockchain Dev (Senior) ... W2
+├── PM Team (3) ...................... W1 + W3×2
+├── Sales Team (3) ................... W1 (Presales) + W2×2
+└── Professional Services (2) ........ W1 + W3
 ```
 
 ## Wave Color Coding
 
 | Color | Wave | Description |
 |-------|------|-------------|
-| Green Border | Wave 1 | Immediate hires |
-| Blue Border | Wave 2 | Revenue-triggered hires |
-| Red Border | Wave 3 | Scale-up hires |
+| Green Border | Wave 1 | Immediate (PreSales-anchored, mixed levels) |
+| Blue Border | Wave 2 | RM4M+ SOWs (all Senior) |
+| Red Border | Wave 3 | RM8M+ Recurring (all Junior/IC) |
 
-## Key Changes from v4
+## Key Changes in v5.4 (from v5.3)
 
-1. **Added 6 new positions:**
-   - PM Team: PM, BA, Jr PM
-   - Sales Team: Sales Specialist x2, Presales Consult
-
-2. **Expanded team structure:**
-   - PM Team (dotted line to BU Head)
-   - Sales Team (dotted line to BU Head)
-   - Professional Services (dotted line to BU Head)
-
-3. **Updated wave structure:**
-   - Wave 1: 5 roles (unchanged)
-   - Wave 2: 7 roles (unchanged)
-   - Wave 3: 9 roles (was 6)
-
-4. **Financial updates:**
-   - Total cost increased from RM1.56M–2.50M
-   - Still within 25% revenue cap
-   - Headroom reduced but sufficient
+1. **Wave 1 → 8 roles, mixed levels, PreSales-anchored** (added Lead Researcher + CTI Lead; Presales Consultant is the anchor)
+2. **Wave 2 → 4 roles, all Senior** (Enterprise + Government Sales, Red Team, Sr Blockchain Dev)
+3. **Wave 3 → 9 roles, all Junior/IC** (full scale-up bench)
+4. **Total cost reduced** vs v5.3 (junior-heavy Wave 3 replaces senior seats): RM1.56M–2.50M
+5. **JD wave fields realigned** to the v5.4 structure
 
 ## Next Steps
 
-1. Present to management for approval
-2. Secure budget for Wave 1
-3. Begin posting Wave 1 positions
-4. Establish interview panels
-5. Prepare onboarding materials
+1. Present v5.4 to management for approval
+2. Re-color draw.io org chart wave borders
+3. Secure budget for Wave 1 (8 roles)
+4. Begin posting Wave 1 positions (prioritize Presales Consultant)
+5. Hold Waves 2/3 against revenue triggers
