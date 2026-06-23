@@ -1,8 +1,8 @@
 # Cybersecurity BU Hiring Plan - v5 (24-Position Structure)
 
-**Version:** 5.1  
+**Version:** 5.2  
 **Date:** June 10, 2026  
-**Status:** Final (Updated)  
+**Status:** Final (Wave 1 Expanded to 8 Roles)  
 **Classification:** CONFIDENTIAL
 
 ---
@@ -22,10 +22,12 @@ This repository contains the complete hiring plan documentation for the Cybersec
 | **Positions to Hire** | 21 |
 | **Hiring Timeline** | 12 months |
 | **Revenue Target** | RM12,000,000 |
-| **Total Annual Cost** | RM1,560,384 – RM2,496,614 |
-| **Cost as % of Revenue** | 13.0% – 20.8% |
+| **Wave 1 Positions** | 8 (expanded from 5) |
+| **Wave 1 Annual Cost** | RM677,376 – RM1,083,840 |
+| **Total Annual Cost** | RM1,814,400 – RM2,903,040 |
+| **Cost as % of Revenue** | 15.1% – 24.2% |
 | **25% Revenue Cap** | ✅ Within |
-| **Headroom** | RM503,386 – RM1,439,616 |
+| **Headroom** | RM96,960 – RM1,185,600 |
 
 ---
 
@@ -33,10 +35,12 @@ This repository contains the complete hiring plan documentation for the Cybersec
 
 | Wave | Trigger | Positions | Annual Cost Range |
 |------|---------|-----------|-------------------|
-| **Wave 1** | Board Approval | 5 | RM423,360 – RM677,376 |
-| **Wave 2** | RM4M+ SOWs | 7 | RM592,704 – RM948,326 |
+| **Wave 1** | Board Approval | 8 | RM677,376 – RM1,083,840 |
+| **Wave 2** | RM4M+ SOWs | 4 | RM338,688 – RM541,440 |
 | **Wave 3** | RM8M+ Recurring | 9 | RM544,320 – RM870,912 |
-| **Total** | - | **21** | **RM1,560,384 – RM2,496,614** |
+| **Total** | - | **21** | **RM1,814,400 – RM2,903,040** |
+
+**Note:** Wave 1 expanded from 5 to 8 positions (added 3 Sales/Presales roles). Wave 2 reduced from 7 to 4 positions accordingly.
 
 ---
 
@@ -47,8 +51,9 @@ v5-24Position/
 ├── README.md                                  # This folder overview
 ├── CySec-Comprehensive-Hiring-Plan-v5.md      # Complete hiring plan
 ├── CySec-Hiring-Plan-Executive-Summary-v5.md  # Management summary
-├── CySec-Wave1-Hiring-Plan-Immediate-v5.md    # Wave 1 execution plan
-├── CySec-Wave1-Hiring-Plan-v5.1.md            # Wave 1 plan (updated)
+├── CySec-Wave1-Hiring-Plan-Immediate-v5.md    # Wave 1 execution plan (v5.0 - 5 roles)
+├── CySec-Wave1-Hiring-Plan-v5.1.md            # Wave 1 plan (v5.1 - updated JDs)
+├── CySec-Wave1-Hiring-Plan-v5.2.md            # Wave 1 plan (v5.2 - 8 roles) ⭐ **CURRENT**
 ├── CySec-Manpower-Requisitions-v5.md          # All 21 MRF forms
 ├── CySec-Financial-Analysis-v5.md             # Cost analysis & ROI
 ├── CySec-Wave-Structure-Summary.md            # Quick reference guide
@@ -136,7 +141,36 @@ v5-24Position/
 - Refined Wave 1 execution timeline
 - Additional onboarding details
 
-**Use Case:** Current reference for Wave 1 execution (supersedes v5.0)
+**Use Case:** Historical reference (superseded by v5.2)
+
+---
+
+#### `CySec-Wave1-Hiring-Plan-v5.2.md` ⭐ **CURRENT**
+**Purpose:** Wave 1 execution plan with 8 positions (expanded from 5)  
+**Contents:**
+- 8 position descriptions (added 3 Sales/Presales roles)
+- Revised hiring timeline and cost structure
+- Updated success criteria for revenue-generating roles
+- Complete cost breakdown (RM677K–1.08M/year)
+
+**Changes from v5.1:**
+- **Added:** Sales Specialist (Enterprise) - Senior
+- **Added:** Sales Specialist (Government) - Senior
+- **Added:** Presales Consultant - Senior
+- **Removed from Wave 2:** 3 Sales/Presales positions moved to Wave 1
+- **Net Change:** 5 → 8 positions (+3)
+
+**Wave 1 Positions (8 total):**
+1. Gov Sec PM (Senior) - Cybersecurity
+2. Sr Consult (Senior) - VORON
+3. Sr DevSecOps (Senior) - DevSecOps
+4. PM (Senior) - PM Team
+5. Sr PS (Senior) - Professional Services
+6. Sales Specialist (Enterprise) (Senior) - Sales **NEW**
+7. Sales Specialist (Government) (Senior) - Sales **NEW**
+8. Presales Consultant (Senior) - Sales **NEW**
+
+**Use Case:** Current reference for Wave 1 execution (supersedes v5.0 and v5.1)
 
 ---
 
@@ -372,12 +406,33 @@ Burdened Cost = Base Salary × 1.44x
 | v2 | June 8, 2026 | 16 roles | COGS model added |
 | v3 | June 9, 2026 | 16 roles | Option C selected |
 | v4 | June 9, 2026 | 18 roles | Comprehensive docs |
-| v5.0 | June 10, 2026 | 24 roles | Initial release |
+| v5.0 | June 10, 2026 | 24 roles | Initial release (5 Wave 1) |
 | v5.1 | June 10, 2026 | 24 roles | Updated JDs (4 positions) |
+| v5.2 | June 10, 2026 | 24 roles | **Wave 1 expanded to 8 roles** |
+
+## Recent Updates (v5.2) - **CURRENT**
+
+**Latest Changes:** Wave 1 expanded from 5 to 8 positions
+
+**Added to Wave 1:**
+- Sales Specialist (Enterprise) - Moved from Wave 2
+- Sales Specialist (Government) - Moved from Wave 2
+- Presales Consultant - Moved from Wave 2
+
+**Impact:**
+- Wave 1: 5 → 8 positions (+3)
+- Wave 2: 7 → 4 positions (-3)
+- Wave 1 Cost: RM423K–677K → RM677K–1.08M (+RM254K–406K)
+- Total Cost: RM1.56M–2.50M → RM1.81M–2.90M
+- Cost % of Revenue: 13.0%–20.8% → 15.1%–24.2%
+
+**Rationale:**
+- Accelerate revenue generation by hiring sales team early
+- Enable immediate pipeline development
+- Support presales capability from day one
+- Balanced team structure (technical + commercial)
 
 ## Recent Updates (v5.1)
-
-**Latest Commit:** Updated 4 job descriptions and added Wave 1 plan revision
 
 **Updated Job Descriptions:**
 - MRF-001: Government Security Project Manager - Refined requirements
@@ -386,7 +441,7 @@ Burdened Cost = Base Salary × 1.44x
 - MRF-012: Senior Presales Consultant - Expanded technical requirements
 
 **New Files:**
-- `CySec-Wave1-Hiring-Plan-v5.1.md` - Revised Wave 1 execution plan
+- `CySec-Wave1-Hiring-Plan-v5.1.md` - Revised Wave 1 execution plan (superseded)
 - `CySec Orgchart BAK/` - Backup folder for org chart versions
 
 ---
@@ -399,9 +454,9 @@ Burdened Cost = Base Salary × 1.44x
 3. Approve Wave 1 using `CySec-Wave1-Hiring-Plan-Immediate-v5.md`
 
 ### For HR
-1. Use `CySec-Manpower-Requisitions-v5.md` for MRF approvals
-2. Post jobs using **updated** files from `JDs/` folder (check ✅ Updated status)
-3. Reference `CySec-Wave1-Hiring-Plan-v5.1.md` for latest Wave 1 timeline
+1. Use `CySec-Manpower-Requisitions-v5.md` for MRF approvals (update Wave 1 assignments)
+2. Post jobs using files from `JDs/` folder
+3. Reference `CySec-Wave1-Hiring-Plan-v5.2.md` for **current** Wave 1 timeline (8 roles)
 
 ### For Hiring Managers
 1. Review `JDs/` for position requirements
