@@ -4,9 +4,10 @@
 |---|---|
 | Requisition ID | MRF-011 |
 | Business Unit | Cybersecurity BU |
-| Team | Sales (General — dotted line to Cybersecurity Practice) |
+| Team / Function | Sales |
 | Reports To | BU Head (dotted line) |
-| Level / Grade | Level 5 — Manager |
+| Level / Grade | L5 — Manager |
+| Track | General — dotted line to Cybersecurity Practice |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 2 — Triggered at RM4M+ signed SOWs |
@@ -36,7 +37,7 @@ The Account Manager – Government drives revenue growth across Malaysia's publi
 - Demonstrated experience selling security or technology solutions.
 - Strong relationship-building skills with public sector stakeholders.
 
-## 4. Preferred / Desirable Qualifications
+## 4. Preferred Qualifications
 
 - Master's degree in a relevant field.
 - Previous experience working within or directly alongside government agencies.

@@ -4,11 +4,12 @@
 |---|---|
 | Requisition ID | MRF-008 |
 | Business Unit | Cybersecurity BU |
-| Team | CTI — Cyber Threat Intelligence (Cyber-core) |
+| Team / Function | CTI — Cyber Threat Intelligence |
 | Reports To | Head of Cybersecurity Practice |
-| Level / Grade | Level 4 — Assistant Manager (Team Lead) |
+| Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
+| Track | Cyber-core (in Cybersecurity Practice) |
 | Employment Type | Full-time, Permanent |
-| Location | Kuala Lumpur, Malaysia (Hybrid) |
+| Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 2 — Triggered at RM4M+ signed SOWs |
 | Target Start | Within 120 days of trigger |
 | Priority | High |
@@ -36,7 +37,7 @@ The Team Lead – Threat Intelligence anchors the Cybersecurity BU's CTI capabil
 - Strong analytical reasoning and excellent written communication skills, with a track record of producing intelligence reports for varied audiences.
 - Holds CTI, GCTI, or an equivalent threat intelligence certification (see Section 7).
 
-## 4. Preferred / Desirable Qualifications
+## 4. Preferred Qualifications
 
 - Master's degree in a relevant field (Cybersecurity, Intelligence Studies, International Relations, or similar).
 - Prior experience working with or alongside law enforcement or intelligence agencies.

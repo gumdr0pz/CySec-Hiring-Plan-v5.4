@@ -8,17 +8,17 @@
 
 > **v6 framework.** Titles, levels, and salary are re-based on the company HR job-level framework and the consultant Rate-card benchmark. Two structural decisions drive this set:
 >
-> - **General vs cyber-core split.** Cyber-core roles (Offensive Security, Threat Intelligence, GRC, Government Security) sit inside the Cybersecurity Practice and report to the Head of Cybersecurity Practice. **General** roles (DevSecOps, Solutions/Presales, Product/PM, Blockchain, Sales, Professional Services) report to functional leads or the BU Head, each carrying a **dotted-line responsibility to the Cybersecurity Practice**. Sensitive work is compartmentalised; a future spinoff is handled by secondment.
+> - **General vs cyber-core split.** Cyber-core roles (Offensive Security, Threat Intelligence, GRC, Government Security) sit inside the Cybersecurity Practice and report to the Head of Cybersecurity Practice. **General** roles (DevSecOps, Solutions / Presales, Product / PM, Blockchain, Sales, Professional Services) report to functional leads or the BU Head, each carrying a **dotted-line responsibility to the Cybersecurity Practice**. Sensitive work is compartmentalised; a future spinoff is handled by secondment.
 > - **8-5-7 waves.** Wave 1 builds the near-term core (org-chart roles); Waves 2–3 are growth.
 >
 > **Product Manager (MRF-023)** is added at Manager level (replaces the removed Junior Project Manager, MRF-020). There is no Junior PM.
 
-**Legend:** **C** = cyber-core (in practice) · **G** = general (dotted line to Cybersecurity Practice).
+**Track legend:** **C** = cyber-core (in Cybersecurity Practice) · **G** = general (dotted line to Cybersecurity Practice).
 
 ## Wave 1 — Immediate (Board Approval) · 8 roles
 
-| MRF | v6 Title | Level | C/G | Team | Reports To | JD |
-|-----|----------|:-----:|:---:|------|------------|----|
+| MRF | v6 Title | Level | Track | Team | Reports To | JD |
+|-----|----------|:-----:|:-----:|------|------------|----|
 | MRF-012 | Technical Presales ⭐ | L4 | G | Solutions / Presales | Functional lead (dotted line to Cyber) | [open](MRF-012-senior-presales-consultant.md) |
 | MRF-022 | Presales Engineer | L1 | G | Solutions / Presales | Technical Presales | [open](MRF-022-junior-presales-consultant.md) |
 | MRF-001 | Consultant – Government Security | L4 | C | Government Security | Head of Cybersecurity Practice | [open](MRF-001-government-security-project-manager.md) |
@@ -30,8 +30,8 @@
 
 ## Wave 2 — RM4M+ SOWs · 5 roles
 
-| MRF | v6 Title | Level | C/G | Team | Reports To | JD |
-|-----|----------|:-----:|:---:|------|------------|----|
+| MRF | v6 Title | Level | Track | Team | Reports To | JD |
+|-----|----------|:-----:|:-----:|------|------------|----|
 | MRF-010 | Account Manager – Enterprise | L5 | G | Sales | BU Head (dotted line) | [open](MRF-010-senior-sales-specialist-enterprise.md) |
 | MRF-011 | Account Manager – Government | L5 | G | Sales | BU Head (dotted line) | [open](MRF-011-senior-sales-specialist-government.md) |
 | MRF-006 | Team Lead – Offensive Security | L4 | C | OffSec | Head of Cybersecurity Practice | [open](MRF-006-lead-security-researcher.md) |
@@ -40,8 +40,8 @@
 
 ## Wave 3 — RM8M+ Recurring · 7 roles
 
-| MRF | v6 Title | Level | C/G | Team | Reports To | JD |
-|-----|----------|:-----:|:---:|------|------------|----|
+| MRF | v6 Title | Level | Track | Team | Reports To | JD |
+|-----|----------|:-----:|:-----:|------|------------|----|
 | MRF-009 | Staff Engineer – Blockchain | L4 | G | Blockchain | Functional lead (dotted line to Cyber) | [open](MRF-009-senior-blockchain-developer.md) |
 | MRF-013 | GRC Analyst | L1 | C | VORON / GRC | GRC Specialist | [open](MRF-013-junior-grc-specialist.md) |
 | MRF-014 | Engineer – Offensive Security | L1 | C | OffSec | Team Lead – Offensive Security | [open](MRF-014-junior-security-researcher.md) |

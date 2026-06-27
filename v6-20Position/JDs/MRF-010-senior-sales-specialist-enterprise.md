@@ -4,9 +4,10 @@
 | --- | --- |
 | Requisition ID | MRF-010 |
 | Business Unit | Cybersecurity BU |
-| Team | Sales (General — dotted line to Cybersecurity Practice) |
+| Team / Function | Sales |
 | Reports To | BU Head (dotted line) |
-| Level / Grade | Level 5 — Manager |
+| Level / Grade | L5 — Manager |
+| Track | General — dotted line to Cybersecurity Practice |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 2 — Triggered at RM4M+ signed SOWs |
@@ -36,7 +37,7 @@ The Account Manager – Enterprise drives top-line revenue growth for the Cybers
 - Strong, active network within the enterprise sector.
 - Excellent negotiation skills with a track record of closing complex deals.
 
-## 4. Preferred / Desirable Qualifications
+## 4. Preferred Qualifications
 
 - Master's degree in Business Administration (MBA).
 - Experience with complex solution selling and multi-stakeholder sales cycles.

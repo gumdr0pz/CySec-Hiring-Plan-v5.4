@@ -2,16 +2,17 @@
 
 | Field | Detail |
 | --- | --- |
-| **Requisition ID** | MRF-001 |
-| **Business Unit** | Cybersecurity BU |
-| **Team** | Government Security (Cyber-core) |
-| **Reports To** | Head of Cybersecurity Practice |
-| **Level / Grade** | Level 4 — Assistant Manager (Specialist) |
-| **Employment Type** | Full-time, Permanent |
-| **Location** | Kuala Lumpur, Malaysia (hybrid) |
-| **Hiring Wave** | Wave 1 — Immediate (Board Approval) |
-| **Target Start** | Within 90 days of approval |
-| **Priority** | High |
+| Requisition ID | MRF-001 |
+| Business Unit | Cybersecurity BU |
+| Team / Function | Government Security |
+| Reports To | Head of Cybersecurity Practice |
+| Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
+| Track | Cyber-core (in Cybersecurity Practice) |
+| Employment Type | Full-time, Permanent |
+| Location | Kuala Lumpur, Malaysia (hybrid) |
+| Hiring Wave | Wave 1 — Immediate (Board Approval) |
+| Target Start | Within 90 days of approval |
+| Priority | High |
 
 ## 1. Role Purpose
 
@@ -36,7 +37,7 @@ The Government Security Project Manager leads the delivery of security and compl
 - Working knowledge of Malaysian government security frameworks and regulatory expectations.
 - Strong stakeholder management skills, with a demonstrated ability to engage government and senior client stakeholders.
 
-## 4. Preferred / Desirable Qualifications
+## 4. Preferred Qualifications
 
 - Master's degree in a relevant field (Cybersecurity, Information Security, or related discipline).
 - PMP or PRINCE2 certification.

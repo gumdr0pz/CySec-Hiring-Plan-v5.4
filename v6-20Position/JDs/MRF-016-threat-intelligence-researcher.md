@@ -4,11 +4,12 @@
 |---|---|
 | Requisition ID | MRF-016 |
 | Business Unit | Cybersecurity BU |
-| Team | Cyber Threat Intelligence — CTI (Cyber-core) |
+| Team / Function | CTI — Cyber Threat Intelligence |
 | Reports To | Team Lead – Threat Intelligence |
-| Level / Grade | Level 3 — Senior Executive (Senior Engineer) |
+| Level / Grade | L3 — Senior Executive (Senior Engineer/Consultant) |
+| Track | Cyber-core (in Cybersecurity Practice) |
 | Employment Type | Full-time, Permanent |
-| Location | Kuala Lumpur, Malaysia (Hybrid) |
+| Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 3 — Triggered at RM8M+ recurring revenue |
 | Target Start | Within 90 days of trigger |
 | Priority | Medium |
@@ -36,7 +37,7 @@ The Senior Engineer – Threat Intelligence exists to give the Cybersecurity BU 
 - Strong analytical and research skills, with the ability to draw sound conclusions from incomplete or ambiguous data.
 - A track record of published research is an advantage.
 
-## 4. Preferred / Desirable Qualifications
+## 4. Preferred Qualifications
 
 - Master's degree in a relevant field.
 - Experience with threat actor profiling and attribution.

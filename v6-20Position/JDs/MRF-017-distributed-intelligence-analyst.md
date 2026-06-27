@@ -4,11 +4,12 @@
 |---|---|
 | Requisition ID | MRF-017 |
 | Business Unit | Cybersecurity BU |
-| Team | Cyber Threat Intelligence — CTI (Cyber-core) |
+| Team / Function | CTI — Cyber Threat Intelligence |
 | Reports To | Team Lead – Threat Intelligence |
-| Level / Grade | Level 1 — Executive (Engineer) |
+| Level / Grade | L1 — Executive (Engineer) |
+| Track | Cyber-core (in Cybersecurity Practice) |
 | Employment Type | Full-time, Permanent |
-| Location | Kuala Lumpur, Malaysia (Hybrid) |
+| Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 3 — Triggered at RM8M+ recurring revenue |
 | Target Start | Within 90 days of trigger |
 | Priority | Medium |
@@ -36,7 +37,7 @@ The Engineer – Threat Intelligence (Distributed Intel) strengthens the Cyberse
 - Hands-on experience using intelligence tools and platforms for collection, enrichment, and correlation.
 - Strong attention to detail and a disciplined, methodical approach to handling information.
 
-## 4. Preferred / Desirable Qualifications
+## 4. Preferred Qualifications
 
 - Experience with dark web and underground forum monitoring.
 - Knowledge of threat indicator and IOC management practices.

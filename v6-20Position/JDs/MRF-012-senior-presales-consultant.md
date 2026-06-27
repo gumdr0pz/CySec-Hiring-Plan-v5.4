@@ -4,9 +4,10 @@
 |---|---|
 | Requisition ID | MRF-012 |
 | Business Unit | Cybersecurity BU |
-| Team | Solutions / Presales (General — dotted line to Cybersecurity Practice) |
+| Team / Function | Solutions / Presales |
 | Reports To | Functional lead (dotted line to Head of Cybersecurity Practice) |
-| Level / Grade | Level 4 — Assistant Manager (Technical Presales) |
+| Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
+| Track | General — dotted line to Cybersecurity Practice |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 1 — Immediate (Board Approval) |
@@ -38,7 +39,7 @@ This is a **general role with a dotted-line responsibility to the Cybersecurity 
 - Strong presentation skills, with the ability to communicate complex concepts clearly to varied audiences.
 - Demonstrated experience designing enterprise solutions.
 
-## 4. Preferred / Desirable Qualifications
+## 4. Preferred Qualifications
 
 - Master's degree in a relevant field.
 - Experience preparing and coordinating RFP/RFI responses.

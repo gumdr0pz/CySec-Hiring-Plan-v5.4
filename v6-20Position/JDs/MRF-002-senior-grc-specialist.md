@@ -4,12 +4,13 @@
 |---|---|
 | Requisition ID | MRF-002 |
 | Business Unit | Cybersecurity BU |
-| Team | VORON / GRC (Cyber-core) |
+| Team / Function | VORON / GRC |
 | Reports To | Head of Cybersecurity Practice |
-| Level / Grade | Level 4 — Assistant Manager (dual Specialist / Team Lead) |
+| Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
+| Track | Cyber-core (in Cybersecurity Practice) |
 | Employment Type | Full-time, Permanent |
-| Location | Kuala Lumpur, Malaysia (Hybrid) |
-| Hiring Wave | Wave 1 — Immediate |
+| Location | Kuala Lumpur, Malaysia (hybrid) |
+| Hiring Wave | Wave 1 — Immediate (Board Approval) |
 | Target Start | Within 90 days of approval |
 | Priority | High |
 

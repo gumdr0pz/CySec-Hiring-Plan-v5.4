@@ -4,9 +4,10 @@
 |---|---|
 | Requisition ID | MRF-009 |
 | Business Unit | Cybersecurity BU |
-| Team | Blockchain (General — dotted line to Cybersecurity Practice) |
+| Team / Function | Blockchain |
 | Reports To | Functional lead (dotted line to Head of Cybersecurity Practice) |
-| Level / Grade | Level 4 — Assistant Manager (Staff Engineer) |
+| Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
+| Track | General — dotted line to Cybersecurity Practice |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 3 — Triggered at RM8M+ recurring revenue |
@@ -35,7 +36,7 @@ This is a **general role with a dotted-line responsibility to the Cybersecurity 
 - Working knowledge of cryptographic principles and their application to distributed systems.
 - Strong programming skills across Solidity, Rust, and Go.
 
-## 4. Preferred / Desirable Qualifications
+## 4. Preferred Qualifications
 - Master's degree in a relevant field.
 - Experience with other blockchain platforms such as Hyperledger or Solana.
 - Hands-on smart contract security auditing experience.

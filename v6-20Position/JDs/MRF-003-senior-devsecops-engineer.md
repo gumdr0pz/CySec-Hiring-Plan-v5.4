@@ -4,9 +4,10 @@
 |---|---|
 | Requisition ID | MRF-003 |
 | Business Unit | Cybersecurity BU |
-| Team | DevSecOps (General — dotted line to Cybersecurity Practice) |
+| Team / Function | DevSecOps |
 | Reports To | Functional lead (dotted line to Head of Cybersecurity Practice) |
-| Level / Grade | Level 4 — Assistant Manager (Staff Engineer) |
+| Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
+| Track | General — dotted line to Cybersecurity Practice |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 1 — Immediate (Board Approval) |
@@ -38,7 +39,7 @@ This is a **general role with a dotted-line responsibility to the Cybersecurity 
 - Working knowledge of major cloud platforms (AWS, Azure, GCP).
 - Strong scripting skills in Python, Bash, and/or PowerShell.
 
-## 4. Preferred / Desirable Qualifications
+## 4. Preferred Qualifications
 
 - Master's degree in a relevant field.
 - Experience with containerization technologies (Docker, Kubernetes).

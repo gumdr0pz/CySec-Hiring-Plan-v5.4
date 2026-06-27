@@ -2,16 +2,17 @@
 
 | Field | Detail |
 |---|---|
-| **Requisition ID** | MRF-019 |
-| **Business Unit** | Cybersecurity BU |
-| **Team** | Product / PM (General — dotted line to Cybersecurity Practice) |
-| **Reports To** | Product Manager |
-| **Level / Grade** | Level 1 — Executive (Engineer / Analyst) |
-| **Employment Type** | Full-time, Permanent |
-| **Location** | Kuala Lumpur, Malaysia (Hybrid) |
-| **Hiring Wave** | Wave 3 — Triggered at RM8M+ recurring revenue |
-| **Target Start** | Within 90 days of trigger |
-| **Priority** | Medium |
+| Requisition ID | MRF-019 |
+| Business Unit | Cybersecurity BU |
+| Team / Function | Product / PM |
+| Reports To | Product Manager |
+| Level / Grade | L1 — Executive (Engineer) |
+| Track | General — dotted line to Cybersecurity Practice |
+| Employment Type | Full-time, Permanent |
+| Location | Kuala Lumpur, Malaysia (hybrid) |
+| Hiring Wave | Wave 3 — Triggered at RM8M+ recurring revenue |
+| Target Start | Within 90 days of trigger |
+| Priority | Medium |
 
 ## 1. Role Purpose
 
@@ -36,7 +37,7 @@ The Business Analyst sits within the Product / PM team of the BU and exists to t
 - Hands-on experience working within Agile delivery methodologies.
 - Demonstrated ability to communicate effectively with both business and technical stakeholders.
 
-## 4. Preferred / Desirable Qualifications
+## 4. Preferred Qualifications
 
 - Experience supporting cybersecurity or broader technology projects.
 - Familiarity with requirements management tools.

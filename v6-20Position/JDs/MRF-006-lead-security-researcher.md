@@ -4,9 +4,10 @@
 |---|---|
 | Requisition ID | MRF-006 |
 | Business Unit | Cybersecurity BU |
-| Team | OffSec (Cyber-core) |
+| Team / Function | OffSec |
 | Reports To | Head of Cybersecurity Practice |
-| Level / Grade | Level 4 — Assistant Manager (Team Lead) |
+| Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
+| Track | Cyber-core (in Cybersecurity Practice) |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 2 — Triggered at RM4M+ signed SOWs |
@@ -36,7 +37,7 @@ The Team Lead – Offensive Security anchors the deep-research capability of our
 - Strong programming skills in Python, C/C++, and Assembly.
 - A track record of published research or CVE discoveries is strongly preferred.
 
-## 4. Preferred / Desirable Qualifications
+## 4. Preferred Qualifications
 
 - Master's or PhD in a relevant field.
 - Hands-on experience analysing advanced persistent threats (APTs).

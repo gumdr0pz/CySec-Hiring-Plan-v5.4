@@ -1,11 +1,11 @@
-# CYBERSECURITY BU - FINANCIAL ANALYSIS
+# CYBERSECURITY BU — FINANCIAL ANALYSIS
 
 **Version:** 6.0
 **Date:** June 24, 2026
-**Status:** Support-roles-general 8-5-7 (HR-levelled, Rate-card benchmark) ⭐ CURRENT
+**Status:** v6 — General roles + HR levels + Rate-card base salary, 8-5-7
 **Classification:** CONFIDENTIAL
 
-> **Note:** This is the current version. It re-bases salary on the consultant Rate-card "Rate"-tab benchmark and the company HR job-level framework (see `CySec-v6-Levels-Titles-Salary-Framework.md`), replacing the old 30%-reduced RM bands. All previous versions (v5.0–v5.5) are deprecated and archived.
+> This is the current version. It re-bases salary on the consultant Rate-card "Rate"-tab benchmark and the company HR job-level framework (see `CySec-v6-Levels-Titles-Salary-Framework.md`). Cost is the gross base benchmark salary — no burden multiplier. All previous versions (v5.0–v5.5) are deprecated and archived under `ARCHIVE-HISTORICAL-VERSIONS/`.
 
 ---
 
@@ -21,7 +21,7 @@
 | **Total Annual Base (Min)** | RM2,262,000 |
 | **Total Annual Base (Max)** | RM3,074,400 |
 | **Base as % of Revenue** | 18.9% – 25.6% |
-| **25% Revenue Cap** | RM3,000,000 (✅ within across low-to-mid band) |
+| **25% Revenue Cap** | RM3,000,000 (within across low-to-mid band) |
 
 ### 1.2 Financial Position
 
@@ -65,10 +65,10 @@ Cost is the gross base benchmark salary; no multiplier is applied.
 
 ### 3.2 Salary Benchmark by Level (Rate-card "Rate" tab)
 
-Pay is set at the consultant Rate-card benchmark ("Monthly Salary (Ref)", gross monthly). This **replaces** the prior 30%-reduced bands (RM4,900–7,840 / RM3,500–5,600).
+Pay is set at the consultant Rate-card benchmark ("Monthly Salary (Ref)", gross monthly).
 
 | Level | HR Band | IC / Mgmt title | Monthly (RM) | Base (RM/yr) |
-|-------|---------|-----------------|--------------|------------------|
+|-------|---------|-----------------|--------------|--------------|
 | L5 | Manager | Manager / Sr Staff Eng / Product Manager | 17,500 – 20,400 | 210,000 – 244,800 |
 | L4 | Assistant Manager | Specialist / Team Lead / Staff Engineer | 11,500 – 15,500 | 138,000 – 186,000 |
 | L3 | Senior Executive | Senior Engineer / Consultant | 8,000 – 11,000 | 96,000 – 132,000 |
@@ -82,7 +82,7 @@ Pay is set at the consultant Rate-card benchmark ("Monthly Salary (Ref)", gross 
 | L4 (Asst Mgr) | 8 | 4 in W1, 3 in W2, 1 in W3 |
 | L3 (Senior Exec) | 2 | 1 in W1, 1 in W3 |
 | L1 (Executive) | 7 | 2 in W1, 0 in W2, 5 in W3 |
-| **Total** | **20** | - |
+| **Total** | **20** | — |
 
 ---
 
@@ -91,8 +91,8 @@ Pay is set at the consultant Rate-card benchmark ("Monthly Salary (Ref)", gross 
 ### 4.1 Wave 1: Immediate (8 Roles)
 
 | Position | Level | Base (Min) | Base (Max) |
-|----------|-------|----------------|----------------|
-| Technical Presales ⭐ | L4 | RM138,000 | RM186,000 |
+|----------|-------|------------|------------|
+| Technical Presales | L4 | RM138,000 | RM186,000 |
 | Presales Engineer | L1 | RM48,000 | RM84,000 |
 | Staff Engineer – DevSecOps | L4 | RM138,000 | RM186,000 |
 | Engineer – DevSecOps | L1 | RM48,000 | RM84,000 |
@@ -107,7 +107,7 @@ Annual base: RM954,000 – RM1,288,800/yr
 ### 4.2 Wave 2: RM4M+ SOWs (5 Roles)
 
 | Position | Level | Base (Min) | Base (Max) |
-|----------|-------|----------------|----------------|
+|----------|-------|------------|------------|
 | Account Manager – Enterprise | L5 | RM210,000 | RM244,800 |
 | Account Manager – Government | L5 | RM210,000 | RM244,800 |
 | Team Lead – Offensive Security | L4 | RM138,000 | RM186,000 |
@@ -120,7 +120,7 @@ Annual base: RM834,000 – RM1,047,600/yr
 ### 4.3 Wave 3: RM8M+ Recurring (7 Roles)
 
 | Position | Level | Base (Min) | Base (Max) |
-|----------|-------|----------------|----------------|
+|----------|-------|------------|------------|
 | Staff Engineer – Blockchain | L4 | RM138,000 | RM186,000 |
 | GRC Analyst | L1 | RM48,000 | RM84,000 |
 | Engineer – Offensive Security | L1 | RM48,000 | RM84,000 |
@@ -195,7 +195,7 @@ Assumes Wave 1 run-rate from Month 3, Wave 2 from Month 8, Wave 3 from Month 12.
 | Year 1 | Phased ramp (Waves 1–3) | RM1,182,000 | RM1,572,000 | RM1,182,000 | RM1,572,000 |
 | Year 2 | Full team (20) | RM2,262,000 | RM3,074,400 | RM3,444,000 | RM4,646,400 |
 | Year 3 | Full team (20) | RM2,262,000 | RM3,074,400 | RM5,706,000 | RM7,720,800 |
-| **36-Month Total** | | **RM5,706,000** | **RM7,720,800** | - | - |
+| **36-Month Total** | | **RM5,706,000** | **RM7,720,800** | — | — |
 
 **Runway position (base case, flat revenue):**
 
@@ -217,12 +217,12 @@ Across the full horizon the 36-month base cost (RM5.71M – RM7.72M) stays **wit
 | Annual base salary | RM2.26M – RM3.07M | 18.9% – 25.6% |
 | 25% revenue cap | RM3.0M | — |
 
-At base salary, the total is **18.9% – 25.6%** of RM12M — **within the 25% cap across the low-to-mid benchmark band**. Only the absolute top of the band (max benchmark for every role) reaches **25.6%**, marginally over the cap. Setting offers anywhere below the band ceiling keeps the plan inside 25%; no cap relaxation is required at planned salary levels. This is the intended outcome of costing at base benchmark rather than at the old 30%-reduced bands.
+At base salary, the total is **18.9% – 25.6%** of RM12M — **within the 25% cap across the low-to-mid benchmark band**. Only the absolute top of the band (max benchmark for every role) reaches **25.6%**, marginally over the cap. Setting offers anywhere below the band ceiling keeps the plan inside 25%; no cap relaxation is required at planned salary levels.
 
 | Scenario | Base Cost | % of RM12M Revenue | vs 25% Cap |
-|----------|---------------|--------------------|----------------|
-| Min benchmark | RM2,262,000 | 18.9% | ✅ Within |
-| Max benchmark | RM3,074,400 | 25.6% | ⚠️ Marginally over (band ceiling) |
+|----------|-----------|--------------------|------------|
+| Min benchmark | RM2,262,000 | 18.9% | Within |
+| Max benchmark | RM3,074,400 | 25.6% | Marginally over (band ceiling) |
 
 **Current Position:** Within the 25% cap across the low-to-mid band; only the absolute band ceiling reaches 25.6%, manageable by setting offers below the ceiling.
 
@@ -231,7 +231,7 @@ At base salary, the total is **18.9% – 25.6%** of RM12M — **within the 25% c
 ## 7. ROI ANALYSIS
 
 | Scenario | Revenue | Base Cost | Net Contribution | ROI |
-|----------|---------|---------------|------------------|-----|
+|----------|---------|-----------|------------------|-----|
 | Conservative (max) | RM12,000,000 | RM3,074,400 | RM8,925,600 | 3.9x |
 | Midpoint | RM12,000,000 | RM2,668,200 | RM9,331,800 | 4.5x |
 | Optimistic (min) | RM12,000,000 | RM2,262,000 | RM9,738,000 | 5.3x |
@@ -254,24 +254,24 @@ At base salary, the total is **18.9% – 25.6%** of RM12M — **within the 25% c
 | Revenue Scenario | Cost (Min) | Cost (Max) | % (Min) | % (Max) | vs 25% Cap |
 |------------------|------------|------------|---------|---------|------------|
 | RM10,000,000 | RM2,262,000 | RM3,074,400 | 22.6% | 30.7% | Mixed |
-| RM12,000,000 | RM2,262,000 | RM3,074,400 | 18.9% | 25.6% | ✅ Within (max marginally over) |
-| RM12,297,600 | RM2,262,000 | RM3,074,400 | 18.4% | 25.0% | ✅ At cap (max) |
-| RM15,000,000 | RM2,262,000 | RM3,074,400 | 15.1% | 20.5% | ✅ Within |
-| RM18,000,000 | RM2,262,000 | RM3,074,400 | 12.6% | 17.1% | ✅ Within |
+| RM12,000,000 | RM2,262,000 | RM3,074,400 | 18.9% | 25.6% | Within (max marginally over) |
+| RM12,297,600 | RM2,262,000 | RM3,074,400 | 18.4% | 25.0% | At cap (max) |
+| RM15,000,000 | RM2,262,000 | RM3,074,400 | 15.1% | 20.5% | Within |
+| RM18,000,000 | RM2,262,000 | RM3,074,400 | 12.6% | 17.1% | Within |
 
 ### 8.2 Cost Position vs Cap
 
 | Cost Scenario | Revenue | % of Revenue | vs 25% Cap |
 |---------------|---------|--------------|------------|
-| Min benchmark (RM2,262,000) | RM12,000,000 | 18.9% | ✅ Within |
-| Max benchmark (RM3,074,400) | RM12,000,000 | 25.6% | ⚠️ Marginally over (band ceiling) |
-| Min benchmark | RM12,297,600 | 18.4% | ✅ Within |
-| Max benchmark | RM12,297,600 | 25.0% | ✅ At cap |
+| Min benchmark (RM2,262,000) | RM12,000,000 | 18.9% | Within |
+| Max benchmark (RM3,074,400) | RM12,000,000 | 25.6% | Marginally over (band ceiling) |
+| Min benchmark | RM12,297,600 | 18.4% | Within |
+| Max benchmark | RM12,297,600 | 25.0% | At cap |
 
 ### 8.3 Salary-Inflation Sensitivity (~5%/yr applied in Years 2–3)
 
 | Year | Base (Min) | Base (Max) |
-|------|----------------|----------------|
+|------|------------|------------|
 | Year 2 (×1.05) | RM2,375,100 | RM3,228,120 |
 | Year 3 (×1.1025) | RM2,493,855 | RM3,389,526 |
 
@@ -296,8 +296,7 @@ At base salary, the total is **18.9% – 25.6%** of RM12M — **within the 25% c
 | 5.3 | June 10, 2026 | Hadri | Balanced 7-7-7 structure |
 | 5.4 | June 23, 2026 | Hadri | Support-pod 8-5-8 |
 | 5.5 | June 23, 2026 | Hadri | Junior Professional Services removed → 7-5-8, 20 hires |
-| **6.0** | **June 24, 2026** | **Hadri** | **Re-based on HR job-levels + Rate-card benchmark (replaces 30%-reduced bands). General (dotted) vs cyber-core; 8-5-7 waves. Base RM2,262,000–3,074,400 (18.9%–25.6% of RM12M). 36-mo runway RM5,706,000–7,720,800** |
-| **6.0 (rev.)** | **June 25, 2026** | **Hadri** | **Removed COGS burden (cost = base salary); Solutions Architect → Technical Presales. Base RM2,262,000–3,074,400 (18.9%–25.6%), within 25% cap across low-to-mid band** |
+| **6.0** | **June 24, 2026** | **Hadri** | **Re-based on HR job-levels + Rate-card benchmark. General (dotted) vs cyber-core split, company-convention titles, Jr PM → Product Manager, 8-5-7 waves. Removed COGS (cost = base salary); Technical Presales. Base RM2,262,000–3,074,400 (18.9%–25.6% of RM12M); 36-mo runway RM5,706,000–7,720,800** |
 
 ---
 

@@ -4,9 +4,10 @@
 | --- | --- |
 | Requisition ID | MRF-005 |
 | Business Unit | Cybersecurity BU |
-| Team | Professional Services (General — dotted line to Cybersecurity Practice) |
+| Team / Function | Professional Services |
 | Reports To | BU Head (dotted line) |
-| Level / Grade | Level 3 — Senior Executive (Consultant) |
+| Level / Grade | L3 — Senior Executive (Senior Engineer/Consultant) |
+| Track | General — dotted line to Cybersecurity Practice |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 1 — Immediate (Board Approval) |
@@ -37,7 +38,7 @@ The Technical Account Manager (TAM) is the post-sale technical relationship owne
 - Working technical familiarity with cybersecurity and/or blockchain concepts sufficient to hold credible client conversations.
 - Strong client-facing communication, coordination, and organisational skills.
 
-## 4. Preferred / Desirable Qualifications
+## 4. Preferred Qualifications
 
 - Experience owning renewals and identifying expansion opportunities.
 - Exposure to project coordination or delivery management.

@@ -4,9 +4,10 @@
 | --- | --- |
 | Requisition ID | MRF-023 |
 | Business Unit | Cybersecurity BU |
-| Team | Product / PM (General — dotted line to Cybersecurity Practice) |
+| Team / Function | Product / PM |
 | Reports To | BU Head (dotted line) |
-| Level / Grade | Level 5 — Manager |
+| Level / Grade | L5 — Manager |
+| Track | General — dotted line to Cybersecurity Practice |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 1 — Immediate (Board Approval) |
@@ -38,7 +39,7 @@ The Product Manager owns the product roadmap and requirements for the BU's offer
 - Strong backlog management, prioritisation, and release-planning skills within Agile delivery.
 - Excellent stakeholder management and communication with both technical and executive audiences.
 
-## 4. Preferred / Desirable Qualifications
+## 4. Preferred Qualifications
 
 - Experience with cybersecurity, blockchain, or B2B technology products.
 - Familiarity with Malaysian / regional market and regulated-industry requirements.

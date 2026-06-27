@@ -4,11 +4,12 @@
 |---|---|
 | Requisition ID | MRF-013 |
 | Business Unit | Cybersecurity BU |
-| Team | VORON / GRC (Cyber-core) |
+| Team / Function | VORON / GRC |
 | Reports To | GRC Specialist |
-| Level / Grade | Level 1 — Executive (Engineer) |
+| Level / Grade | L1 — Executive (Engineer) |
+| Track | Cyber-core (in Cybersecurity Practice) |
 | Employment Type | Full-time, Permanent |
-| Location | Kuala Lumpur, Malaysia (Hybrid) |
+| Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 3 — Triggered at RM8M+ recurring revenue |
 | Target Start | Within 90 days of trigger |
 | Priority | Medium |

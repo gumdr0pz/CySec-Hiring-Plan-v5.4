@@ -1,31 +1,31 @@
-# CYBERSECURITY BU - WAVE 1 HIRING PLAN (NEAR-TERM CORE)
+# CYBERSECURITY BU — WAVE 1 HIRING PLAN (NEAR-TERM CORE)
 
 **Version:** 6.0
 **Date:** June 24, 2026
-**Status:** FINAL - HR-Framework / Rate-Card Benchmark Foundation
+**Status:** v6 — General roles + HR levels + Rate-card base salary, 8-5-7
 **Classification:** CONFIDENTIAL
 
-> Re-based on the company HR job-level framework and the consultant Rate-card benchmark (`CySec-v6-Levels-Titles-Salary-Framework.md`). v5.0–v5.5 deprecated and archived.
+> This is the current version. It re-bases titles, levels, and salary on the company HR job-level framework and the consultant Rate-card benchmark (`CySec-v6-Levels-Titles-Salary-Framework.md`). Cost is the gross base benchmark salary — no burden multiplier. All previous versions (v5.0–v5.5) are deprecated and archived under `ARCHIVE-HISTORICAL-VERSIONS/`.
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-**Wave 1 is an 8-role near-term core** — the roles that appear on the CTO org chart: Technical Presales and DevSecOps as senior+junior pods, a Product Manager (L5), a Technical Account Manager for post-sale delivery, plus governance and GRC specialists. v6 uses an 8-5-7 wave structure (20 hires) and pays at the Rate-card base benchmark.
+**Wave 1 is an 8-role near-term core** — Technical Presales and DevSecOps as senior+junior pods, a Product Manager (L5), a Technical Account Manager for post-sale delivery, plus governance and GRC specialists. v6 uses an 8-5-7 wave structure (20 hires) and pays at the Rate-card base benchmark.
 
 ### Key Changes from v5.5
 
 | Aspect | v5.5 (7-5-8) | v6.0 (8-5-7) |
 |--------|--------------|--------------|
-| Wave 1 | 7 (4 Sr + 3 Jr) | 8 (org-chart core) |
+| Wave 1 | 7 (4 Sr + 3 Jr) | 8 (near-term core) |
 | Titles/levels | Sr/Jr labels, RM bands | HR levels (L1/L3/L4/L5) + Rate-card benchmark |
 | Added to Wave 1 | — | Product Manager (L5) |
-| Renamed | Presales Consultant → Technical Presales; Gov Sec PM → Consultant – Government Security; Sr GRC → GRC Specialist; Sr/Jr DevSecOps → Staff Engineer / Engineer – DevSecOps; Jr Presales → Presales Engineer | |
-| Salary basis | 30%-reduced band | Base benchmark; **within 25% cap** across low-to-mid band |
+| Renamed | — | Presales Consultant → Technical Presales; Gov Sec PM → Consultant – Government Security; Sr GRC → GRC Specialist; Sr/Jr DevSecOps → Staff Engineer / Engineer – DevSecOps; Jr Presales → Presales Engineer |
+| Salary basis | 30%-reduced band | Gross base benchmark; **within 25% cap** across low-to-mid band |
 | Total hires | 20 | 20 |
 | Wave 1 Base | RM361,200 – 578,000 | **RM954,000 – 1,288,800** |
 
-**Rationale:** Wave 1 now equals the near-term core roles on the org chart. Support functions are **general** with a **dotted line** to the Cybersecurity practice; cyber-core (Gov Sec, GRC) report into the practice on solid lines. Pay is at the base benchmark.
+**Rationale:** Wave 1 equals the near-term core roles. Support functions are **general** with a **dotted line** to the Cybersecurity practice; cyber-core (Gov Sec, GRC) report into the practice on solid lines. Pay is at the gross base benchmark.
 
 ---
 
@@ -61,8 +61,8 @@
 ### 2.1 Position Summary
 
 | # | v6 Title | Level | Function | Class | Reports To | Annual Base (RM) |
-|---|----------|------:|----------|-------|------------|----------------------|
-| 1 | Technical Presales ⭐ | L4 | Solutions/Presales | General | BU Head (dotted line) | 138,000 – 186,000 |
+|---|----------|------:|----------|-------|------------|------------------|
+| 1 | Technical Presales | L4 | Solutions/Presales | General | BU Head (dotted line) | 138,000 – 186,000 |
 | 2 | Presales Engineer | L1 | Solutions/Presales | General | Technical Presales | 48,000 – 84,000 |
 | 3 | Consultant – Government Security | L4 | Gov Sec | Cyber-core | Principal Cybersecurity Architect | 138,000 – 186,000 |
 | 4 | GRC Specialist *(Specialist/Team Lead)* | L4 | VORON/GRC | Cyber-core | Principal Cybersecurity Architect | 138,000 – 186,000 |
@@ -89,7 +89,7 @@
 
 | Role | Level | Class | Focus | MRF |
 |------|------:|-------|-------|-----|
-| Technical Presales ⭐ | L4 | General | Solution architecture, demos/POCs, RFP/RFI | MRF-012 |
+| Technical Presales | L4 | General | Solution architecture, demos/POCs, RFP/RFI | MRF-012 |
 | Presales Engineer | L1 | General | Demo/POC build, collateral, RFP support | MRF-022 |
 | Consultant – Government Security | L4 | Cyber-core | Government security compliance & governance | MRF-001 |
 | GRC Specialist | L4 | Cyber-core | GRC platform ops, risk & compliance | MRF-002 |
@@ -117,7 +117,7 @@ Week 11-12: Onboarding (pre-boarding, Day 1, 30-60-90 day plans)
 
 | Position | Start | Target Hire | Priority |
 |----------|-------|-------------|----------|
-| Technical Presales ⭐ | Week 1 | Week 10 | Critical |
+| Technical Presales | Week 1 | Week 10 | Critical |
 | Presales Engineer | Week 2 | Week 11 | High |
 | Consultant – Government Security | Week 1 | Week 10 | High |
 | GRC Specialist | Week 1 | Week 10 | High |
@@ -133,11 +133,11 @@ Week 11-12: Onboarding (pre-boarding, Day 1, 30-60-90 day plans)
 ## WAVE STRUCTURE OVERVIEW (8-5-7)
 
 | Wave | Trigger | Positions | Focus | Annual Base Range |
-|------|---------|-----------|-------|------------------------|
-| **Wave 1** | Board Approval | 8 | Near-term core (org-chart roles) | RM954,000 – RM1,288,800 |
+|------|---------|-----------|-------|-------------------|
+| **Wave 1** | Board Approval | 8 | Near-term core | RM954,000 – RM1,288,800 |
 | **Wave 2** | RM4M+ SOWs | 5 | Revenue closers + senior cyber leads | RM834,000 – RM1,047,600 |
 | **Wave 3** | RM8M+ Recurring | 7 | Scale-up bench | RM474,000 – RM738,000 |
-| **Total** | - | **20** | - | **RM2,262,000 – RM3,074,400** |
+| **Total** | — | **20** | — | **RM2,262,000 – RM3,074,400** |
 
 ### Wave 2 Positions (5) — RM4M+ SOWs
 1. Account Manager – Enterprise — L5 — Sales [General]
@@ -207,8 +207,7 @@ Week 11-12: Onboarding (pre-boarding, Day 1, 30-60-90 day plans)
 | 5.3 | June 10, 2026 | Hadri | Balanced 7-7-7 structure |
 | 5.4 | June 23, 2026 | Hadri | Support-pod 8-5-8 |
 | 5.5 | June 23, 2026 | Hadri | Junior Professional Services removed → Wave 1 = 7; 7-5-8, 20 hires |
-| **6.0** | **June 24, 2026** | **Hadri** | **Re-based on HR framework + Rate-card benchmark. Wave 1 = 8 org-chart core roles incl. new Product Manager (L5); new titles/levels; 8-5-7, 20 hires; Wave 1 base RM954,000–1,288,800; base benchmark within 25% cap** |
-| **6.0 (rev.)** | **June 25, 2026** | **Hadri** | **Removed COGS burden (cost = base salary); Solutions Architect → Technical Presales. Wave 1 base RM954,000–1,288,800; plan total RM2,262,000–3,074,400 (18.9%–25.6%), within 25% cap across low-to-mid band** |
+| **6.0** | **June 24, 2026** | **Hadri** | **Re-based on HR framework + Rate-card benchmark. Wave 1 = 8 near-term core roles incl. new Product Manager (L5), new titles/levels, 8-5-7, 20 hires. Removed COGS (cost = base salary); Technical Presales. Wave 1 base RM954,000–1,288,800; plan total RM2,262,000–3,074,400 (18.9%–25.6% of RM12M)** |
 
 ---
 

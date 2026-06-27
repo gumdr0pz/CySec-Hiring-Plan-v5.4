@@ -4,9 +4,10 @@
 |---|---|
 | Requisition ID | MRF-007 |
 | Business Unit | Cybersecurity BU |
-| Team | OffSec (Cyber-core) |
+| Team / Function | OffSec |
 | Reports To | Team Lead – Offensive Security |
-| Level / Grade | Level 4 — Assistant Manager (Staff Engineer) |
+| Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
+| Track | Cyber-core (in Cybersecurity Practice) |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 2 — Triggered at RM4M+ signed SOWs |
@@ -36,7 +37,7 @@ The Staff Engineer – Offensive Security exists to emulate real-world adversari
 - Strong technical documentation and reporting skills, with the ability to communicate findings to both engineers and decision-makers.
 - Hold OSCP, OSCE, OSEP, or an equivalent offensive security certification.
 
-## 4. Preferred / Desirable Qualifications
+## 4. Preferred Qualifications
 
 - Experience designing and delivering social engineering assessments.
 - Knowledge of physical security testing methods and controls.

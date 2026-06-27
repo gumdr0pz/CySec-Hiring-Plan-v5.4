@@ -4,9 +4,10 @@
 | --- | --- |
 | Requisition ID | MRF-022 |
 | Business Unit | Cybersecurity BU |
-| Team | Solutions / Presales (General — dotted line to Cybersecurity Practice) |
+| Team / Function | Solutions / Presales |
 | Reports To | Technical Presales |
-| Level / Grade | Level 1 — Executive (Engineer) |
+| Level / Grade | L1 — Executive (Engineer) |
+| Track | General — dotted line to Cybersecurity Practice |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 1 — Immediate (Board Approval) |
@@ -34,7 +35,7 @@ The Presales Engineer supports the BU's presales motion, working directly under 
 - Foundational understanding of cybersecurity and/or blockchain concepts.
 - Strong written communication and willingness to learn solution engineering.
 
-## 4. Preferred / Desirable Qualifications
+## 4. Preferred Qualifications
 
 - Exposure to demo/POC environment setup or lab building.
 - Familiarity with cloud platforms (AWS, Azure, GCP).
