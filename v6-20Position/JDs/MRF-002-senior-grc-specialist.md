@@ -5,7 +5,7 @@
 | Requisition ID | MRF-002 |
 | Business Unit | Cybersecurity BU |
 | Team / Function | VORON / GRC |
-| Reports To | Head of Cybersecurity Practice |
+| Reports To | Head of Cybersecurity BU (Faurani) |
 | Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
 | Track | Cyber-core (in Cybersecurity Practice) |
 | Employment Type | Full-time, Permanent |
@@ -191,7 +191,7 @@ This role serves as the subject matter expert for VoronCitadel and ensures that 
 
 ## 9. Reporting & Team Context
 
-This role reports to the Head of Cybersecurity Practice and operates within the VORON / GRC team. The GRC Specialist collaborates closely with Product Engineering, Cybersecurity, Risk, Compliance, and customer stakeholders to ensure successful operation and continuous enhancement of the VoronCitadel platform. As a dual Specialist / Team Lead, the role may direct and develop GRC analysts.
+This role reports to the Head of Cybersecurity BU (Faurani) and operates within the VORON / GRC team. The GRC Specialist collaborates closely with Product Engineering, Cybersecurity, Risk, Compliance, and customer stakeholders to ensure successful operation and continuous enhancement of the VoronCitadel platform. As a dual Specialist / Team Lead, the role may direct and develop GRC analysts.
 
 ---
 

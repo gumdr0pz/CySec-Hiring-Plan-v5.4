@@ -5,7 +5,7 @@
 | Requisition ID | MRF-009 |
 | Business Unit | Cybersecurity BU |
 | Team / Function | Blockchain |
-| Reports To | Functional lead (dotted line to Head of Cybersecurity Practice) |
+| Reports To | Functional lead (dotted line to Head of Cybersecurity BU (Faurani)) |
 | Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
 | Track | General — dotted line to Cybersecurity Practice |
 | Employment Type | Full-time, Permanent |
@@ -77,7 +77,7 @@ This is a **general role with a dotted-line responsibility to the Cybersecurity 
 - Support on-time delivery of client engagements contributing to the BU's signed SOW pipeline.
 
 ## 9. Reporting & Team Context
-This is a general role reporting to a functional lead, with a dotted line to the Head of Cybersecurity Practice. It works closely with fellow blockchain engineers, security auditors, and the BU's project and consulting teams. As a Level 4 Staff Engineer, the role also mentors junior developers and provides technical leadership on engineering and audit deliverables.
+This is a general role reporting to a functional lead, with a dotted line to the Head of Cybersecurity BU (Faurani). It works closely with fellow blockchain engineers, security auditors, and the BU's project and consulting teams. As a Level 4 Staff Engineer, the role also mentors junior developers and provides technical leadership on engineering and audit deliverables.
 
 ## 10. Compensation & Benefits
 

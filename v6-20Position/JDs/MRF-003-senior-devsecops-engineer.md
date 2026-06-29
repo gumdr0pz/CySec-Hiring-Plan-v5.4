@@ -5,7 +5,7 @@
 | Requisition ID | MRF-003 |
 | Business Unit | Cybersecurity BU |
 | Team / Function | DevSecOps |
-| Reports To | Functional lead (dotted line to Head of Cybersecurity Practice) |
+| Reports To | Functional lead (dotted line to Head of Cybersecurity BU (Faurani)) |
 | Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
 | Track | General — dotted line to Cybersecurity Practice |
 | Employment Type | Full-time, Permanent |
@@ -86,7 +86,7 @@ This is a **general role with a dotted-line responsibility to the Cybersecurity 
 
 ## 9. Reporting & Team Context
 
-This is a general role reporting to a functional lead, with a dotted line to the Head of Cybersecurity Practice. It works closely with the DevSecOps team, software developers, cloud engineers, and client-facing consultants across the BU. As a Level 4 Staff Engineer, the engineer also mentors junior team members and acts as a technical reference point for secure engineering practices.
+This is a general role reporting to a functional lead, with a dotted line to the Head of Cybersecurity BU (Faurani). It works closely with the DevSecOps team, software developers, cloud engineers, and client-facing consultants across the BU. As a Level 4 Staff Engineer, the engineer also mentors junior team members and acts as a technical reference point for secure engineering practices.
 
 ## 10. Compensation & Benefits
 

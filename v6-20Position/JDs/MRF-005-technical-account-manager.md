@@ -5,7 +5,7 @@
 | Requisition ID | MRF-005 |
 | Business Unit | Cybersecurity BU |
 | Team / Function | Professional Services |
-| Reports To | BU Head (dotted line) |
+| Reports To | Head of Cybersecurity BU – Faurani (dotted line) |
 | Level / Grade | L3 — Senior Executive (Senior Engineer/Consultant) |
 | Track | General — dotted line to Cybersecurity Practice |
 | Employment Type | Full-time, Permanent |
@@ -79,7 +79,7 @@ The Technical Account Manager (TAM) is the post-sale technical relationship owne
 
 ## 9. Reporting & Team Context
 
-This role sits within Professional Services and reports on a dotted line to the BU Head. As the sole Professional Services hire, the TAM works closely with the PM team, Sales/Presales, and the technical delivery teams to coordinate service delivery and protect recurring revenue.
+This role sits within Professional Services and reports on a dotted line to the Head of Cybersecurity BU (Faurani). As the sole Professional Services hire, the TAM works closely with the PM team, Sales/Presales, and the technical delivery teams to coordinate service delivery and protect recurring revenue.
 
 ## 10. Compensation & Benefits
 

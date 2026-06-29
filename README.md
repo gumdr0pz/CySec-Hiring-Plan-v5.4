@@ -18,7 +18,7 @@ This repository contains the complete **v6** hiring plan for the Cybersecurity B
 - ✅ **Company HR job levels** (L1 Executive … L7 C-Suite). **Specialist = Level 4**, dual **Specialist / Team Lead**. Titles use company convention (Engineer / Staff Engineer / Specialist / Technical Presales / Product Manager / Team Lead).
 - ✅ **Salary = Rate-card "Rate" tab benchmark** (replaces the old 30%-reduced bands).
 - ✅ **Product Manager (L5)** added; Junior PM removed.
-- ✅ **No COGS burden** — cost = gross base benchmark salary, ~18.9–25.6% of RM12M (within the 25% cap across the low-to-mid band). The standalone COGS calculator was removed.
+- ✅ **No COGS burden** — cost = gross base benchmark salary, ~17.7–24.6% of RM12M (fully within the 25% cap, max 24.6%). The standalone COGS calculator was removed.
 
 **🗄️ Archived / Removed:**
 - ❌ v5.0–v5.5: Deprecated, in `v6-20Position/ARCHIVE-HISTORICAL-VERSIONS/`
@@ -36,9 +36,9 @@ Source of truth: `v6-20Position/CySec-v6-Levels-Titles-Salary-Framework.md`.
 | **Hiring Timeline** | 12 months |
 | **Revenue Target** | RM12,000,000 |
 | **Wave Structure** | 8-5-7 |
-| **Annual Cost (base salary)** | RM2,262,000 – RM3,074,400 (18.9% – 25.6%) |
-| **25% Revenue Cap** | ✅ Within across the low-to-mid band; only the band ceiling reaches 25.6% |
-| **36-Month Runway** | RM5,706,000 – RM7,720,800 |
+| **Annual Cost (base salary)** | RM2,118,000 – RM2,956,800 (17.7% – 24.6%) |
+| **25% Revenue Cap** | ✅ Fully within (max 24.6%) |
+| **36-Month Runway** | RM5,358,000 – RM7,436,600 |
 
 ---
 
@@ -47,15 +47,15 @@ Source of truth: `v6-20Position/CySec-v6-Levels-Titles-Salary-Framework.md`.
 | Wave | Trigger | Roles | Annual Cost Range |
 |------|---------|-------|-------------------|
 | **Wave 1** (near-term core) | Board Approval | 8 | RM954,000 – RM1,288,800 |
-| **Wave 2** | RM4M+ SOWs | 5 | RM834,000 – RM1,047,600 |
+| **Wave 2** | RM4M+ SOWs | 5 | RM690,000 – RM930,000 |
 | **Wave 3** | RM8M+ Recurring | 7 | RM474,000 – RM738,000 |
-| **Total** | - | **20** | **RM2,262,000 – RM3,074,400** |
+| **Total** | - | **20** | **RM2,118,000 – RM2,956,800** |
 
 ### Wave 1 (8) — near-term core
 Technical Presales (L4) · Presales Engineer (L1) · Product Manager – Government Security (L4) · GRC Specialist (L4) · Staff Engineer – DevSecOps (L4) · Engineer – DevSecOps (L1) · Technical Account Manager (L3) · Product Manager (L5)
 
 ### Wave 2 (5)
-Account Manager – Enterprise (L5) · Account Manager – Government (L5) · Team Lead – Offensive Security (L4) · Staff Engineer – Offensive Security (L4) · Team Lead – Threat Intelligence (L4)
+Account Manager – Enterprise (L4) · Account Manager – Government (L4) · Team Lead – Offensive Security (L4) · Staff Engineer – Offensive Security (L4) · Team Lead – Threat Intelligence (L4)
 
 ### Wave 3 (7)
 Staff Engineer – Blockchain (L4) · GRC Analyst (L1) · Engineer – Offensive Security (L1) · Senior Engineer – Threat Intelligence (L3) · Engineer – Threat Intelligence ×2 (L1) · Business Analyst (L1)
@@ -87,8 +87,8 @@ Cost = gross base benchmark salary (no COGS / burden multiplier applied).
 | `MRF-018-...junior-devsecops-engineer.md` | Engineer – DevSecOps | L1 | 1 | G |
 | `MRF-005-...technical-account-manager.md` | Technical Account Manager | L3 | 1 | G |
 | `MRF-023-product-manager.md` | Product Manager | L5 | 1 | G |
-| `MRF-010-...sales-specialist-enterprise.md` | Account Manager – Enterprise | L5 | 2 | G |
-| `MRF-011-...sales-specialist-government.md` | Account Manager – Government | L5 | 2 | G |
+| `MRF-010-...sales-specialist-enterprise.md` | Account Manager – Enterprise | L4 | 2 | G |
+| `MRF-011-...sales-specialist-government.md` | Account Manager – Government | L4 | 2 | G |
 | `MRF-006-...lead-security-researcher.md` | Team Lead – Offensive Security | L4 | 2 | C |
 | `MRF-007-...red-team-specialist.md` | Staff Engineer – Offensive Security | L4 | 2 | C |
 | `MRF-008-...cyber-threat-intelligence-lead.md` | Team Lead – Threat Intelligence | L4 | 2 | C |
@@ -120,7 +120,7 @@ Cost = gross base benchmark salary (no COGS / burden multiplier applied).
 - **Framework / levels / salary:** `v6-20Position/CySec-v6-Levels-Titles-Salary-Framework.md`
 - **Management:** `CySec-Hiring-Plan-Executive-Summary-v6.md`, then `CySec-Financial-Analysis-v6.md`
 - **HR:** `CySec-Manpower-Requisitions-v6.md` + the `JDs/` folder
-- **Finance:** `CySec-Financial-Analysis-v6.md` — base salary 18.9%–25.6% of RM12M, within the 25% cap; confirm Sales (L5) / Gov Sec (L4) level placements
+- **Finance:** `CySec-Financial-Analysis-v6.md` — base salary 17.7%–24.6% of RM12M, fully within the 25% cap; Sales (L4) / Gov Sec (L4) level placements confirmed
 
 ---
 

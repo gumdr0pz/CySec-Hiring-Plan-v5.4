@@ -16,9 +16,9 @@
 | Wave | Trigger | Positions | Level Mix | Annual Base Range |
 |------|---------|-----------|-----------|-------------------|
 | Wave 1 | Board Approval | 8 | L5 ×1 · L4 ×4 · L3 ×1 · L1 ×2 | RM954,000 – RM1,288,800 |
-| Wave 2 | RM4M+ SOWs | 5 | L5 ×2 · L4 ×3 | RM834,000 – RM1,047,600 |
+| Wave 2 | RM4M+ SOWs | 5 | L4 ×5 | RM690,000 – RM930,000 |
 | Wave 3 | RM8M+ Recurring | 7 | L4 ×1 · L3 ×1 · L1 ×5 | RM474,000 – RM738,000 |
-| **Total** | — | **20** | L5 ×3 · L4 ×8 · L3 ×2 · L1 ×7 | **RM2,262,000 – RM3,074,400** |
+| **Total** | — | **20** | L5 ×1 · L4 ×10 · L3 ×2 · L1 ×7 | **RM2,118,000 – RM2,956,800** |
 
 ### 1.2 Compensation Reference (Rate-card benchmark)
 
@@ -29,7 +29,7 @@
 | L3 | Senior Executive | RM8,000 – RM11,000 | RM96,000 – RM132,000 |
 | L1 | Executive | RM4,000 – RM7,000 | RM48,000 – RM84,000 |
 
-> Pay at gross base benchmark salary. Base total RM2,262,000 – RM3,074,400 (18.9% – 25.6% of RM12M); within the 25% revenue cap across the low-to-mid band.
+> Pay at gross base benchmark salary. Base total RM2,118,000 – RM2,956,800 (17.7% – 24.6% of RM12M); fully within the 25% revenue cap (max 24.6%).
 
 ---
 
@@ -39,14 +39,14 @@
 
 | MRF | Position | Level | Function | Class | Reports To | Annual Base |
 |-----|----------|------:|----------|-------|------------|-------------|
-| MRF-012 | Technical Presales | L4 | Solutions/Presales | General | BU Head (dotted line) | RM138,000 – RM186,000 |
+| MRF-012 | Technical Presales | L4 | Solutions/Presales | General | Head of Cybersecurity BU – Faurani (dotted line) | RM138,000 – RM186,000 |
 | MRF-022 | Presales Engineer | L1 | Solutions/Presales | General | Technical Presales | RM48,000 – RM84,000 |
 | MRF-001 | Product Manager – Government Security | L4 | Gov Sec | Cyber-core | Principal Cybersecurity Architect | RM138,000 – RM186,000 |
 | MRF-002 | GRC Specialist *(Specialist/Team Lead)* | L4 | VORON/GRC | Cyber-core | Principal Cybersecurity Architect | RM138,000 – RM186,000 |
 | MRF-003 | Staff Engineer – DevSecOps | L4 | DevSecOps | General | Principal Cybersecurity Architect (dotted) | RM138,000 – RM186,000 |
 | MRF-018 | Engineer – DevSecOps | L1 | DevSecOps | General | Staff Engineer – DevSecOps | RM48,000 – RM84,000 |
-| MRF-005 | Technical Account Manager *(Consultant)* | L3 | Professional Services | General | BU Head (dotted line) | RM96,000 – RM132,000 |
-| MRF-023 | Product Manager *(new)* | L5 | Product/PM | General | BU Head (dotted line) | RM210,000 – RM244,800 |
+| MRF-005 | Technical Account Manager *(Consultant)* | L3 | Professional Services | General | Head of Cybersecurity BU – Faurani (dotted line) | RM96,000 – RM132,000 |
+| MRF-023 | Product Manager *(new)* | L5 | Product/PM | General | Head of Cybersecurity BU – Faurani (dotted line) | RM210,000 – RM244,800 |
 
 ---
 
@@ -56,8 +56,8 @@
 
 | MRF | Position | Level | Function | Class | Reports To | Annual Base |
 |-----|----------|------:|----------|-------|------------|-------------|
-| MRF-010 | Account Manager – Enterprise | L5 | Sales | General | BU Head (dotted line) | RM210,000 – RM244,800 |
-| MRF-011 | Account Manager – Government | L5 | Sales | General | BU Head (dotted line) | RM210,000 – RM244,800 |
+| MRF-010 | Account Manager – Enterprise | L4 | Sales | General | Head of Cybersecurity BU – Faurani (dotted line) | RM138,000 – RM186,000 |
+| MRF-011 | Account Manager – Government | L4 | Sales | General | Head of Cybersecurity BU – Faurani (dotted line) | RM138,000 – RM186,000 |
 | MRF-006 | Team Lead – Offensive Security | L4 | OffSec | Cyber-core | Principal Cybersecurity Architect | RM138,000 – RM186,000 |
 | MRF-007 | Staff Engineer – Offensive Security | L4 | OffSec | Cyber-core | Team Lead – Offensive Security | RM138,000 – RM186,000 |
 | MRF-008 | Team Lead – Threat Intelligence | L4 | CTI | Cyber-core | Principal Cybersecurity Architect | RM138,000 – RM186,000 |
@@ -92,8 +92,8 @@
 | MRF-018 | Engineer – DevSecOps | L1 | DevSecOps | General | 1 |
 | MRF-005 | Technical Account Manager *(Consultant)* | L3 | Professional Services | General | 1 |
 | MRF-023 | Product Manager | L5 | Product/PM | General | 1 |
-| MRF-010 | Account Manager – Enterprise | L5 | Sales | General | 2 |
-| MRF-011 | Account Manager – Government | L5 | Sales | General | 2 |
+| MRF-010 | Account Manager – Enterprise | L4 | Sales | General | 2 |
+| MRF-011 | Account Manager – Government | L4 | Sales | General | 2 |
 | MRF-006 | Team Lead – Offensive Security | L4 | OffSec | Cyber-core | 2 |
 | MRF-007 | Staff Engineer – Offensive Security | L4 | OffSec | Cyber-core | 2 |
 | MRF-008 | Team Lead – Threat Intelligence | L4 | CTI | Cyber-core | 2 |
@@ -119,7 +119,7 @@
 | 5.0 | June 10, 2026 | Hadri | All 21 MRF forms (5-7-9) |
 | 5.4 | June 23, 2026 | Hadri | Support-pod 8-5-8 (MRF-004 retired, MRF-022 added) |
 | 5.5 | June 23, 2026 | Hadri | MRF-021 (Jr PS) retired → 7-5-8, 20 hires |
-| **6.0** | **June 24, 2026** | **Hadri** | **Re-based on HR framework + Rate-card benchmark. New titles/levels, general vs cyber-core class, MRF-020 (Jr PM) retired, MRF-023 (Product Manager L5) added → 8-5-7, 20 hires. Removed COGS (cost = base salary); Technical Presales. Base RM2,262,000–3,074,400 (18.9%–25.6% of RM12M)** |
+| **6.0** | **June 24, 2026** | **Hadri** | **Re-based on HR framework + Rate-card benchmark. New titles/levels, general vs cyber-core class, MRF-020 (Jr PM) retired, MRF-023 (Product Manager L5) added → 8-5-7, 20 hires. Removed COGS (cost = base salary); Technical Presales. Sales Account Managers (MRF-010/011) set to L4. Base RM2,118,000–2,956,800 (17.7%–24.6% of RM12M)** |
 
 ---
 

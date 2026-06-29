@@ -5,7 +5,7 @@
 | Requisition ID | MRF-012 |
 | Business Unit | Cybersecurity BU |
 | Team / Function | Solutions / Presales |
-| Reports To | Functional lead (dotted line to Head of Cybersecurity Practice) |
+| Reports To | Functional lead (dotted line to Head of Cybersecurity BU (Faurani)) |
 | Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
 | Track | General — dotted line to Cybersecurity Practice |
 | Employment Type | Full-time, Permanent |
@@ -87,7 +87,7 @@ This is a **general role with a dotted-line responsibility to the Cybersecurity 
 
 ## 9. Reporting & Team Context
 
-This is a general role reporting to a functional lead, with a dotted line to the Head of Cybersecurity Practice. It works closely with the Sales team, alongside delivery, consulting, and technical specialists across the BU. As a Level 4 Technical Presales, the role also acts as a technical mentor and reference point for the Presales Engineer and less-experienced sales colleagues.
+This is a general role reporting to a functional lead, with a dotted line to the Head of Cybersecurity BU (Faurani). It works closely with the Sales team, alongside delivery, consulting, and technical specialists across the BU. As a Level 4 Technical Presales, the role also acts as a technical mentor and reference point for the Presales Engineer and less-experienced sales colleagues.
 
 ## 10. Compensation & Benefits
 

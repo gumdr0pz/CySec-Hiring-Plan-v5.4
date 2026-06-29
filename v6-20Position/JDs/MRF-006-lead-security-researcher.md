@@ -5,7 +5,7 @@
 | Requisition ID | MRF-006 |
 | Business Unit | Cybersecurity BU |
 | Team / Function | OffSec |
-| Reports To | Head of Cybersecurity Practice |
+| Reports To | Head of Cybersecurity BU (Faurani) |
 | Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
 | Track | Cyber-core (in Cybersecurity Practice) |
 | Employment Type | Full-time, Permanent |
@@ -26,7 +26,7 @@ The Team Lead – Offensive Security anchors the deep-research capability of our
 - **Mentor** junior researchers and analysts, conducting technical reviews, pairing on hard problems, and raising the overall research maturity of the team.
 - **Contribute** to security thought leadership through published research, CVE discoveries, whitepapers, and conference or community engagement.
 - **Collaborate** with consulting, DevSecOps, and threat intelligence teams to translate research insights into client deliverables and service improvements.
-- **Define** research priorities and roadmaps in partnership with the Head of Cybersecurity Practice, aligning investigation with business and client needs.
+- **Define** research priorities and roadmaps in partnership with the Head of Cybersecurity BU (Faurani), aligning investigation with business and client needs.
 - **Uphold** ethical research standards, legal compliance, and rigorous documentation across all offensive research activity.
 
 ## 3. Required Qualifications & Experience
@@ -81,7 +81,7 @@ The Team Lead – Offensive Security anchors the deep-research capability of our
 
 ## 9. Reporting & Team Context
 
-This role reports to the Head of Cybersecurity Practice and operates within the OffSec team, collaborating closely with consulting, DevSecOps, and threat intelligence colleagues. As a Level 4 Team Lead, the role manages and mentors offensive security engineers and analysts and sets the technical direction of the research function.
+This role reports to the Head of Cybersecurity BU (Faurani) and operates within the OffSec team, collaborating closely with consulting, DevSecOps, and threat intelligence colleagues. As a Level 4 Team Lead, the role manages and mentors offensive security engineers and analysts and sets the technical direction of the research function.
 
 ## 10. Compensation & Benefits
 

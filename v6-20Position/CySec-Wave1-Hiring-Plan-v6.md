@@ -62,14 +62,14 @@
 
 | # | v6 Title | Level | Function | Class | Reports To | Annual Base (RM) |
 |---|----------|------:|----------|-------|------------|------------------|
-| 1 | Technical Presales | L4 | Solutions/Presales | General | BU Head (dotted line) | 138,000 – 186,000 |
+| 1 | Technical Presales | L4 | Solutions/Presales | General | Head of Cybersecurity BU – Faurani (dotted line) | 138,000 – 186,000 |
 | 2 | Presales Engineer | L1 | Solutions/Presales | General | Technical Presales | 48,000 – 84,000 |
 | 3 | Product Manager – Government Security | L4 | Gov Sec | Cyber-core | Principal Cybersecurity Architect | 138,000 – 186,000 |
 | 4 | GRC Specialist *(Specialist/Team Lead)* | L4 | VORON/GRC | Cyber-core | Principal Cybersecurity Architect | 138,000 – 186,000 |
 | 5 | Staff Engineer – DevSecOps | L4 | DevSecOps | General | Principal Cybersecurity Architect (dotted) | 138,000 – 186,000 |
 | 6 | Engineer – DevSecOps | L1 | DevSecOps | General | Staff Engineer – DevSecOps | 48,000 – 84,000 |
-| 7 | Technical Account Manager *(Consultant)* | L3 | Professional Services | General | BU Head (dotted line) | 96,000 – 132,000 |
-| 8 | Product Manager | L5 | Product/PM | General | BU Head (dotted line) | 210,000 – 244,800 |
+| 7 | Technical Account Manager *(Consultant)* | L3 | Professional Services | General | Head of Cybersecurity BU – Faurani (dotted line) | 96,000 – 132,000 |
+| 8 | Product Manager | L5 | Product/PM | General | Head of Cybersecurity BU – Faurani (dotted line) | 210,000 – 244,800 |
 | **Total** | | | | | | **954,000 – 1,288,800** |
 
 ### 2.2 Cost Impact
@@ -135,13 +135,13 @@ Week 11-12: Onboarding (pre-boarding, Day 1, 30-60-90 day plans)
 | Wave | Trigger | Positions | Focus | Annual Base Range |
 |------|---------|-----------|-------|-------------------|
 | **Wave 1** | Board Approval | 8 | Near-term core | RM954,000 – RM1,288,800 |
-| **Wave 2** | RM4M+ SOWs | 5 | Revenue closers + senior cyber leads | RM834,000 – RM1,047,600 |
+| **Wave 2** | RM4M+ SOWs | 5 | Revenue closers + senior cyber leads | RM690,000 – RM930,000 |
 | **Wave 3** | RM8M+ Recurring | 7 | Scale-up bench | RM474,000 – RM738,000 |
-| **Total** | — | **20** | — | **RM2,262,000 – RM3,074,400** |
+| **Total** | — | **20** | — | **RM2,118,000 – RM2,956,800** |
 
 ### Wave 2 Positions (5) — RM4M+ SOWs
-1. Account Manager – Enterprise — L5 — Sales [General]
-2. Account Manager – Government — L5 — Sales [General]
+1. Account Manager – Enterprise — L4 — Sales [General]
+2. Account Manager – Government — L4 — Sales [General]
 3. Team Lead – Offensive Security — L4 — OffSec [Cyber-core]
 4. Staff Engineer – Offensive Security — L4 — OffSec [Cyber-core]
 5. Team Lead – Threat Intelligence — L4 — CTI [Cyber-core]
@@ -180,9 +180,9 @@ Week 11-12: Onboarding (pre-boarding, Day 1, 30-60-90 day plans)
 | Wave 1 Base (Min) | RM954,000 |
 | Wave 1 Base (Max) | RM1,288,800 |
 | Wave 1 % of Revenue | 8.0% – 10.7% |
-| **Total Plan Base** | **RM2,262,000 – RM3,074,400** |
-| **Total % of Revenue** | **18.9% – 25.6%** |
-| **25% Cap** | **Within across low-to-mid band; ceiling reaches 25.6%** |
+| **Total Plan Base** | **RM2,118,000 – RM2,956,800** |
+| **Total % of Revenue** | **17.7% – 24.6%** |
+| **25% Cap** | **Fully within the 25% cap (max 24.6%)** |
 
 ---
 
@@ -207,7 +207,7 @@ Week 11-12: Onboarding (pre-boarding, Day 1, 30-60-90 day plans)
 | 5.3 | June 10, 2026 | Hadri | Balanced 7-7-7 structure |
 | 5.4 | June 23, 2026 | Hadri | Support-pod 8-5-8 |
 | 5.5 | June 23, 2026 | Hadri | Junior Professional Services removed → Wave 1 = 7; 7-5-8, 20 hires |
-| **6.0** | **June 24, 2026** | **Hadri** | **Re-based on HR framework + Rate-card benchmark. Wave 1 = 8 near-term core roles incl. new Product Manager (L5), new titles/levels, 8-5-7, 20 hires. Removed COGS (cost = base salary); Technical Presales. Wave 1 base RM954,000–1,288,800; plan total RM2,262,000–3,074,400 (18.9%–25.6% of RM12M)** |
+| **6.0** | **June 24, 2026** | **Hadri** | **Re-based on HR framework + Rate-card benchmark. Wave 1 = 8 near-term core roles incl. new Product Manager (L5), new titles/levels, 8-5-7, 20 hires. Removed COGS (cost = base salary); Technical Presales. Sales Account Managers set to L4. Wave 1 base RM954,000–1,288,800; plan total RM2,118,000–2,956,800 (17.7%–24.6% of RM12M)** |
 
 ---
 

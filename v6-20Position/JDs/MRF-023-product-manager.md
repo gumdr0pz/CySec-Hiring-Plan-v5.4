@@ -5,7 +5,7 @@
 | Requisition ID | MRF-023 |
 | Business Unit | Cybersecurity BU |
 | Team / Function | Product / PM |
-| Reports To | BU Head (dotted line) |
+| Reports To | Head of Cybersecurity BU – Faurani (dotted line) |
 | Level / Grade | L5 — Manager |
 | Track | General — dotted line to Cybersecurity Practice |
 | Employment Type | Full-time, Permanent |
@@ -86,7 +86,7 @@ The Product Manager owns the product roadmap and requirements for the BU's offer
 
 ## 9. Reporting & Team Context
 
-This is a general role reporting on a dotted line to the BU Head, with a dotted line to the Head of Cybersecurity Practice for cyber-aligned product decisions. As a Level 5 Manager-grade role, the Product Manager leads the Product / PM team — including the Business Analyst — and coordinates closely with engineering, cybersecurity, sales, and presales across the BU.
+This is a general role reporting on a dotted line to the Head of Cybersecurity BU (Faurani), with a dotted line to the Head of Cybersecurity BU (Faurani) for cyber-aligned product decisions. As a Level 5 Manager-grade role, the Product Manager leads the Product / PM team — including the Business Analyst — and coordinates closely with engineering, cybersecurity, sales, and presales across the BU.
 
 ## 10. Compensation & Benefits
 

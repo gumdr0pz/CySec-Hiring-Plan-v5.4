@@ -26,7 +26,7 @@ Each wave stands up functional capability that can deliver, with the near-term c
 ### Leadership (3 Existing)
 | Position | Function | Status |
 |----------|----------|--------|
-| BU Head | Leadership | Existing |
+| Head of Cybersecurity BU (Faurani) | Leadership | Existing |
 | Principal Cybersecurity Architect | Leadership | Existing |
 | Principal Blockchain Architect | Leadership | Existing |
 
@@ -51,13 +51,13 @@ Each wave stands up functional capability that can deliver, with the near-term c
 
 | # | Position | Level | Function | Core/General | Monthly Benchmark (RM) |
 |---|----------|-------|----------|--------------|------------------------|
-| 1 | Account Manager – Enterprise | L5 | Sales | General (dotted) | 17,500–20,400 |
-| 2 | Account Manager – Government | L5 | Sales | General (dotted) | 17,500–20,400 |
+| 1 | Account Manager – Enterprise | L4 | Sales | General (dotted) | 11,500–15,500 |
+| 2 | Account Manager – Government | L4 | Sales | General (dotted) | 11,500–15,500 |
 | 3 | Team Lead – Offensive Security | L4 | OffSec | Cyber-core | 11,500–15,500 |
 | 4 | Staff Engineer – Offensive Security | L4 | OffSec | Cyber-core | 11,500–15,500 |
 | 5 | Team Lead – Threat Intelligence | L4 | CTI | Cyber-core | 11,500–15,500 |
 
-**Wave 2 Total Base: RM834,000–1,047,600/year**
+**Wave 2 Total Base: RM690,000–930,000/year**
 
 ### Wave 3 — RM8M+ Recurring (7 Roles, Scale-Up Bench) | Red Border
 **Trigger:** RM8M+ recurring revenue · **Mix:** 1 Staff Engineer + 1 Senior Engineer + 5 Engineer/IC
@@ -83,19 +83,19 @@ Each wave stands up functional capability that can deliver, with the near-term c
 | Total Positions | 23 (3 existing + 20 hires) |
 | Existing Leaders | 3 |
 | Positions to Hire | 20 |
-| Level Distribution | L5 ×3 · L4 ×8 · L3 ×2 · L1 ×7 |
-| Total Annual Base | RM2,262,000 – RM3,074,400 |
+| Level Distribution | L5 ×1 · L4 ×10 · L3 ×2 · L1 ×7 |
+| Total Annual Base | RM2,118,000 – RM2,956,800 |
 | Revenue Target | RM12,000,000 |
-| Base as % of Revenue | 18.9% – 25.6% |
-| 25% Cap (RM3.0M) | Within cap across low-to-mid band; ceiling reaches 25.6% |
+| Base as % of Revenue | 17.7% – 24.6% |
+| 25% Cap (RM3.0M) | Fully within cap; even the band ceiling is 24.6% |
 
 ### Cost by Wave (Base)
 | Wave | Positions | Annual (Min) | Annual (Max) | % of Total |
 |------|-----------|--------------|--------------|------------|
-| Wave 1 | 8 | RM954,000 | RM1,288,800 | 42.2% |
-| Wave 2 | 5 | RM834,000 | RM1,047,600 | 36.9% |
-| Wave 3 | 7 | RM474,000 | RM738,000 | 20.9% |
-| **Total** | **20** | **RM2,262,000** | **RM3,074,400** | **100%** |
+| Wave 1 | 8 | RM954,000 | RM1,288,800 | 45.0% |
+| Wave 2 | 5 | RM690,000 | RM930,000 | 32.6% |
+| Wave 3 | 7 | RM474,000 | RM738,000 | 22.4% |
+| **Total** | **20** | **RM2,118,000** | **RM2,956,800** | **100%** |
 
 ### Salary Benchmark by Level (Rate-card "Rate" tab)
 | Level | HR Band | Monthly Benchmark (RM) | Annual Base (RM) |
@@ -118,7 +118,7 @@ Each wave stands up functional capability that can deliver, with the near-term c
 ## Team Structure
 
 ```
-BU Head
+Head of Cybersecurity BU (Faurani)
 ├── Principal Cybersecurity Architect
 │   ├── Product Manager – Government Security (L4) ........... W1   [cyber-core]
 │   ├── VORON / GRC
@@ -145,8 +145,8 @@ BU Head
 │   ├── Technical Presales (L4) ...................... W1
 │   └── Presales Engineer (L1) ....................... W1
 ├── Sales (dotted line)
-│   ├── Account Manager – Enterprise (L5) ............. W2
-│   └── Account Manager – Government (L5) ............. W2
+│   ├── Account Manager – Enterprise (L4) ............. W2
+│   └── Account Manager – Government (L4) ............. W2
 └── Professional Services (dotted line)
     └── Technical Account Manager (L3, Consultant) .... W1
 ```
@@ -156,7 +156,7 @@ BU Head
 ## Next Steps
 
 1. Update `CySec-BU-OrgChart-Whiteboard.drawio` (v6 titles/levels, general vs core, 8-5-7 colors)
-2. Circulate the v6 document set for approval (BU Head, HR, CFO) — base salary within the 25% cap across the low-to-mid band
+2. Circulate the v6 document set for approval (Head of Cybersecurity BU – Faurani, HR, CFO) — base salary fully within the 25% cap (even the band ceiling is 24.6%)
 3. Launch Wave 1 hiring (8 roles) on board approval
 4. Hold Wave 2/3 against revenue triggers (RM4M+ SOWs / RM8M+ recurring)
 
@@ -169,7 +169,8 @@ BU Head
 | 5.0 | June 10, 2026 | Hadri | 24-position structure (5-7-9) |
 | 5.4 | June 23, 2026 | Hadri | Support-pod 8-5-8 |
 | 5.5 | June 23, 2026 | Hadri | Junior Professional Services removed → 7-5-8, 20 hires |
-| **6.0** | **June 24, 2026** | **Hadri** | **Re-based on HR job-levels + Rate-card benchmark. General (dotted) vs cyber-core split, company-convention titles, Jr PM → Product Manager, 8-5-7 waves. Removed COGS (cost = base salary); Technical Presales. Base RM2,262,000–3,074,400 (18.9%–25.6% of RM12M)** |
+| 6.0 | June 24, 2026 | Hadri | Re-based on HR job-levels + Rate-card benchmark. General (dotted) vs cyber-core split, company-convention titles, Jr PM → Product Manager, 8-5-7 waves. Removed COGS (cost = base salary); Technical Presales. |
+| **6.0 (rev.)** | **June 29, 2026** | **Hadri** | **v6 (rev.): Sales → L4; Gov Sec = Product Manager; Head of Cybersecurity BU = Faurani. Total RM2,118,000–2,956,800 (17.7%–24.6%).** |
 
 ---
 

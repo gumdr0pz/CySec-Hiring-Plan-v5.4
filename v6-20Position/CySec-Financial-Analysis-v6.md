@@ -17,15 +17,15 @@
 |--------|-------|
 | **Revenue Target** | RM12,000,000 |
 | **Positions to Hire** | 20 |
-| **Level Distribution** | L5 ×3 · L4 ×8 · L3 ×2 · L1 ×7 |
-| **Total Annual Base (Min)** | RM2,262,000 |
-| **Total Annual Base (Max)** | RM3,074,400 |
-| **Base as % of Revenue** | 18.9% – 25.6% |
-| **25% Revenue Cap** | RM3,000,000 (within across low-to-mid band) |
+| **Level Distribution** | L5 ×1 · L4 ×10 · L3 ×2 · L1 ×7 |
+| **Total Annual Base (Min)** | RM2,118,000 |
+| **Total Annual Base (Max)** | RM2,956,800 |
+| **Base as % of Revenue** | 17.7% – 24.6% |
+| **25% Revenue Cap** | RM3,000,000 (fully within, even at the band ceiling) |
 
 ### 1.2 Financial Position
 
-At the Rate-card base benchmark, annual cost is **RM2.26M – RM3.07M**, or **18.9% – 25.6%** of the RM12M revenue target. This sits **within the 25% cap (RM3.0M)** across the low-to-mid band; only the absolute top of the band (max benchmark for every role) reaches **25.6%**, marginally over (see §6). The 8-5-7 structure of 20 hires distributes across L5 ×3, L4 ×8, L3 ×2, L1 ×7, with support functions held as **general roles (dotted line)** and cyber-core (OffSec, CTI, GRC, Gov Sec) inside the practice.
+At the Rate-card base benchmark, annual cost is **RM2.12M – RM2.96M**, or **17.7% – 24.6%** of the RM12M revenue target. This sits **fully within the 25% cap (RM3.0M)** — even the top of the benchmark band is **24.6%** of RM12M (see §6). The 8-5-7 structure of 20 hires distributes across L5 ×1, L4 ×10, L3 ×2, L1 ×7, with support functions held as **general roles (dotted line)** and cyber-core (OffSec, CTI, GRC, Gov Sec) inside the practice.
 
 ---
 
@@ -78,8 +78,8 @@ Pay is set at the consultant Rate-card benchmark ("Monthly Salary (Ref)", gross 
 
 | Level | Positions | Waves |
 |-------|-----------|-------|
-| L5 (Manager) | 3 | 1 in W1, 2 in W2 |
-| L4 (Asst Mgr) | 8 | 4 in W1, 3 in W2, 1 in W3 |
+| L5 (Manager) | 1 | 1 in W1 |
+| L4 (Asst Mgr) | 10 | 4 in W1, 5 in W2, 1 in W3 |
 | L3 (Senior Exec) | 2 | 1 in W1, 1 in W3 |
 | L1 (Executive) | 7 | 2 in W1, 0 in W2, 5 in W3 |
 | **Total** | **20** | — |
@@ -108,14 +108,14 @@ Annual base: RM954,000 – RM1,288,800/yr
 
 | Position | Level | Base (Min) | Base (Max) |
 |----------|-------|------------|------------|
-| Account Manager – Enterprise | L5 | RM210,000 | RM244,800 |
-| Account Manager – Government | L5 | RM210,000 | RM244,800 |
+| Account Manager – Enterprise | L4 | RM138,000 | RM186,000 |
+| Account Manager – Government | L4 | RM138,000 | RM186,000 |
 | Team Lead – Offensive Security | L4 | RM138,000 | RM186,000 |
 | Staff Engineer – Offensive Security | L4 | RM138,000 | RM186,000 |
 | Team Lead – Threat Intelligence | L4 | RM138,000 | RM186,000 |
-| **Total** | | **RM834,000** | **RM1,047,600** |
+| **Total** | | **RM690,000** | **RM930,000** |
 
-Annual base: RM834,000 – RM1,047,600/yr
+Annual base: RM690,000 – RM930,000/yr
 
 ### 4.3 Wave 3: RM8M+ Recurring (7 Roles)
 
@@ -140,10 +140,10 @@ Annual base: RM474,000 – RM738,000/yr
 
 | Wave | Positions | Annual (Min) | Annual (Max) | % of Total |
 |------|-----------|--------------|--------------|------------|
-| Wave 1 | 8 | RM954,000 | RM1,288,800 | 42.2% |
-| Wave 2 | 5 | RM834,000 | RM1,047,600 | 36.9% |
-| Wave 3 | 7 | RM474,000 | RM738,000 | 20.9% |
-| **Total** | **20** | **RM2,262,000** | **RM3,074,400** | **100%** |
+| Wave 1 | 8 | RM954,000 | RM1,288,800 | 45.0% |
+| Wave 2 | 5 | RM690,000 | RM930,000 | 32.6% |
+| Wave 3 | 7 | RM474,000 | RM738,000 | 22.4% |
+| **Total** | **20** | **RM2,118,000** | **RM2,956,800** | **100%** |
 
 ### 5.2 Function Cost Distribution (Base)
 
@@ -157,13 +157,13 @@ Annual base: RM474,000 – RM738,000/yr
 | DevSecOps | General | 2 | RM186,000 | RM270,000 |
 | Blockchain | General | 1 | RM138,000 | RM186,000 |
 | Product / PM | General | 2 | RM258,000 | RM328,800 |
-| Sales | General | 2 | RM420,000 | RM489,600 |
+| Sales | General | 2 | RM276,000 | RM372,000 |
 | Professional Services | General | 1 | RM96,000 | RM132,000 |
-| **Total** | | **20** | **RM2,262,000** | **RM3,074,400** |
+| **Total** | | **20** | **RM2,118,000** | **RM2,956,800** |
 
 ### 5.3 In-Year Cash Flow (Min Scenario, Phased Onboarding)
 
-Assumes Wave 1 run-rate from Month 3, Wave 2 from Month 8, Wave 3 from Month 12. Monthly base (min): W1 RM79,500, +W2 RM69,500, +W3 RM39,500 → full RM188,500/mo.
+Assumes Wave 1 run-rate from Month 3, Wave 2 from Month 8, Wave 3 from Month 12. Monthly base (min): W1 RM79,500, +W2 RM57,500, +W3 RM39,500 → full RM176,500/mo.
 
 | Month | Active Waves | Monthly Outlay | Cumulative |
 |-------|--------------|----------------|------------|
@@ -174,13 +174,13 @@ Assumes Wave 1 run-rate from Month 3, Wave 2 from Month 8, Wave 3 from Month 12.
 | 5 | W1 | RM79,500 | RM238,500 |
 | 6 | W1 | RM79,500 | RM318,000 |
 | 7 | W1 | RM79,500 | RM397,500 |
-| 8 | W1+W2 | RM149,000 | RM546,500 |
-| 9 | W1+W2 | RM149,000 | RM695,500 |
-| 10 | W1+W2 | RM149,000 | RM844,500 |
-| 11 | W1+W2 | RM149,000 | RM993,500 |
-| 12 | W1+W2+W3 | RM188,500 | RM1,182,000 |
+| 8 | W1+W2 | RM137,000 | RM534,500 |
+| 9 | W1+W2 | RM137,000 | RM671,500 |
+| 10 | W1+W2 | RM137,000 | RM808,500 |
+| 11 | W1+W2 | RM137,000 | RM945,500 |
+| 12 | W1+W2+W3 | RM176,500 | RM1,122,000 |
 
-*Full annual run-rate once all 20 are onboarded: RM2,262,000 (min) – RM3,074,400 (max).*
+*Full annual run-rate once all 20 are onboarded: RM2,118,000 (min) – RM2,956,800 (max).*
 
 ### 5.4 Budget Runway — 36-Month Projection (Estimated, base salary)
 
@@ -192,21 +192,21 @@ Assumes Wave 1 run-rate from Month 3, Wave 2 from Month 8, Wave 3 from Month 12.
 
 | Year | Phase | Annual (Min) | Annual (Max) | Cumulative (Min) | Cumulative (Max) |
 |------|-------|--------------|--------------|------------------|------------------|
-| Year 1 | Phased ramp (Waves 1–3) | RM1,182,000 | RM1,572,000 | RM1,182,000 | RM1,572,000 |
-| Year 2 | Full team (20) | RM2,262,000 | RM3,074,400 | RM3,444,000 | RM4,646,400 |
-| Year 3 | Full team (20) | RM2,262,000 | RM3,074,400 | RM5,706,000 | RM7,720,800 |
-| **36-Month Total** | | **RM5,706,000** | **RM7,720,800** | — | — |
+| Year 1 | Phased ramp (Waves 1–3) | RM1,122,000 | RM1,523,000 | RM1,122,000 | RM1,523,000 |
+| Year 2 | Full team (20) | RM2,118,000 | RM2,956,800 | RM3,240,000 | RM4,479,800 |
+| Year 3 | Full team (20) | RM2,118,000 | RM2,956,800 | RM5,358,000 | RM7,436,600 |
+| **36-Month Total** | | **RM5,358,000** | **RM7,436,600** | — | — |
 
 **Runway position (base case, flat revenue):**
 
 | Metric | Value |
 |--------|-------|
-| 36-month cumulative base cost | RM5,706,000 – RM7,720,800 |
+| 36-month cumulative base cost | RM5,358,000 – RM7,436,600 |
 | 36-month cumulative revenue | RM36,000,000 |
-| Cost as % of 36-month revenue | 15.9% – 21.4% |
+| Cost as % of 36-month revenue | 14.9% – 20.7% |
 | 36-month 25% cap | RM9,000,000 |
 
-Across the full horizon the 36-month base cost (RM5.71M – RM7.72M) stays **within the 36-month 25% cap (RM9.0M)** at both the minimum and maximum benchmark. The plan is comfortably sustainable at flat RM12M revenue (see §6).
+Across the full horizon the 36-month base cost (RM5.36M – RM7.44M) stays **within the 36-month 25% cap (RM9.0M)** at both the minimum and maximum benchmark. The plan is comfortably sustainable at flat RM12M revenue (see §6).
 
 ---
 
@@ -214,17 +214,17 @@ Across the full horizon the 36-month base cost (RM5.71M – RM7.72M) stays **wit
 
 | Measure | Value | vs RM12M revenue |
 |---------|-------|------------------|
-| Annual base salary | RM2.26M – RM3.07M | 18.9% – 25.6% |
+| Annual base salary | RM2.12M – RM2.96M | 17.7% – 24.6% |
 | 25% revenue cap | RM3.0M | — |
 
-At base salary, the total is **18.9% – 25.6%** of RM12M — **within the 25% cap across the low-to-mid benchmark band**. Only the absolute top of the band (max benchmark for every role) reaches **25.6%**, marginally over the cap. Setting offers anywhere below the band ceiling keeps the plan inside 25%; no cap relaxation is required at planned salary levels.
+At base salary, the total is **17.7% – 24.6%** of RM12M — **fully within the 25% cap**. Even the absolute top of the band (max benchmark for every role) is **24.6%** of RM12M, below the cap. No cap relaxation is required at any point in the benchmark band.
 
 | Scenario | Base Cost | % of RM12M Revenue | vs 25% Cap |
 |----------|-----------|--------------------|------------|
-| Min benchmark | RM2,262,000 | 18.9% | Within |
-| Max benchmark | RM3,074,400 | 25.6% | Marginally over (band ceiling) |
+| Min benchmark | RM2,118,000 | 17.7% | Within |
+| Max benchmark | RM2,956,800 | 24.6% | Within |
 
-**Current Position:** Within the 25% cap across the low-to-mid band; only the absolute band ceiling reaches 25.6%, manageable by setting offers below the ceiling.
+**Current Position:** Fully within the 25% cap across the entire benchmark band; even the band ceiling sits at 24.6% of RM12M.
 
 ---
 
@@ -232,17 +232,17 @@ At base salary, the total is **18.9% – 25.6%** of RM12M — **within the 25% c
 
 | Scenario | Revenue | Base Cost | Net Contribution | ROI |
 |----------|---------|-----------|------------------|-----|
-| Conservative (max) | RM12,000,000 | RM3,074,400 | RM8,925,600 | 3.9x |
-| Midpoint | RM12,000,000 | RM2,668,200 | RM9,331,800 | 4.5x |
-| Optimistic (min) | RM12,000,000 | RM2,262,000 | RM9,738,000 | 5.3x |
+| Conservative (max) | RM12,000,000 | RM2,956,800 | RM9,043,200 | 4.1x |
+| Midpoint | RM12,000,000 | RM2,537,400 | RM9,462,600 | 4.7x |
+| Optimistic (min) | RM12,000,000 | RM2,118,000 | RM9,882,000 | 5.7x |
 
 ### 7.1 Break-Even
 
 | Metric | Value |
 |--------|-------|
-| Monthly Fixed Costs (base) | RM188,500 – RM256,200 |
+| Monthly Fixed Costs (base) | RM176,500 – RM246,400 |
 | Monthly Revenue Target | RM1,000,000 |
-| Contribution Margin | 74.4% – 81.2% |
+| Contribution Margin | 75.4% – 82.4% |
 | Break-Even Point | Month 2-3 |
 
 ---
@@ -253,35 +253,35 @@ At base salary, the total is **18.9% – 25.6%** of RM12M — **within the 25% c
 
 | Revenue Scenario | Cost (Min) | Cost (Max) | % (Min) | % (Max) | vs 25% Cap |
 |------------------|------------|------------|---------|---------|------------|
-| RM10,000,000 | RM2,262,000 | RM3,074,400 | 22.6% | 30.7% | Mixed |
-| RM12,000,000 | RM2,262,000 | RM3,074,400 | 18.9% | 25.6% | Within (max marginally over) |
-| RM12,297,600 | RM2,262,000 | RM3,074,400 | 18.4% | 25.0% | At cap (max) |
-| RM15,000,000 | RM2,262,000 | RM3,074,400 | 15.1% | 20.5% | Within |
-| RM18,000,000 | RM2,262,000 | RM3,074,400 | 12.6% | 17.1% | Within |
+| RM10,000,000 | RM2,118,000 | RM2,956,800 | 21.2% | 29.6% | Mixed |
+| RM12,000,000 | RM2,118,000 | RM2,956,800 | 17.7% | 24.6% | Within |
+| RM11,827,200 | RM2,118,000 | RM2,956,800 | 17.9% | 25.0% | At cap (max) |
+| RM15,000,000 | RM2,118,000 | RM2,956,800 | 14.1% | 19.7% | Within |
+| RM18,000,000 | RM2,118,000 | RM2,956,800 | 11.8% | 16.4% | Within |
 
 ### 8.2 Cost Position vs Cap
 
 | Cost Scenario | Revenue | % of Revenue | vs 25% Cap |
 |---------------|---------|--------------|------------|
-| Min benchmark (RM2,262,000) | RM12,000,000 | 18.9% | Within |
-| Max benchmark (RM3,074,400) | RM12,000,000 | 25.6% | Marginally over (band ceiling) |
-| Min benchmark | RM12,297,600 | 18.4% | Within |
-| Max benchmark | RM12,297,600 | 25.0% | At cap |
+| Min benchmark (RM2,118,000) | RM12,000,000 | 17.7% | Within |
+| Max benchmark (RM2,956,800) | RM12,000,000 | 24.6% | Within |
+| Min benchmark | RM11,827,200 | 17.9% | Within |
+| Max benchmark | RM11,827,200 | 25.0% | At cap |
 
 ### 8.3 Salary-Inflation Sensitivity (~5%/yr applied in Years 2–3)
 
 | Year | Base (Min) | Base (Max) |
 |------|------------|------------|
-| Year 2 (×1.05) | RM2,375,100 | RM3,228,120 |
-| Year 3 (×1.1025) | RM2,493,855 | RM3,389,526 |
+| Year 2 (×1.05) | RM2,223,900 | RM3,104,640 |
+| Year 3 (×1.1025) | RM2,335,095 | RM3,259,872 |
 
-> Under base benchmark + inflation, single-year cost stays in the ~19.8%–28.2% range of flat RM12M revenue — only the inflated band ceiling drifts marginally over 25%, easily managed by setting offers below the ceiling or with modest revenue growth.
+> Under base benchmark + inflation, single-year cost stays in the ~18.5%–27.2% range of flat RM12M revenue — only the inflated band ceiling drifts over 25%, easily managed by setting offers below the ceiling or with modest revenue growth.
 
 ---
 
 ## 9. RECOMMENDATIONS
 
-1. **Operate within the 25% cap (18.9%–25.6% at base).** Only the absolute band ceiling reaches 25.6%; set offers below the ceiling to keep the total inside 25% — no cap relaxation required.
+1. **Operate within the 25% cap (17.7%–24.6% at base).** The total sits fully within 25% across the entire benchmark band — even the band ceiling is 24.6%; no cap relaxation required.
 2. **Anchor offers to the Rate-card base benchmark** and sit toward the minimum of each band to hold the ratio well under 25% while remaining market-competitive.
 3. **Strict Wave Triggers:** hold Waves 2 and 3 against RM4M+ SOWs and RM8M+ recurring revenue so the heavier L4/L5-weighted waves only land as revenue materialises.
 4. **General vs cyber-core discipline:** keep support roles general (dotted line), compartmentalise sensitive work, and handle any future spinoff by secondment.
@@ -296,7 +296,8 @@ At base salary, the total is **18.9% – 25.6%** of RM12M — **within the 25% c
 | 5.3 | June 10, 2026 | Hadri | Balanced 7-7-7 structure |
 | 5.4 | June 23, 2026 | Hadri | Support-pod 8-5-8 |
 | 5.5 | June 23, 2026 | Hadri | Junior Professional Services removed → 7-5-8, 20 hires |
-| **6.0** | **June 24, 2026** | **Hadri** | **Re-based on HR job-levels + Rate-card benchmark. General (dotted) vs cyber-core split, company-convention titles, Jr PM → Product Manager, 8-5-7 waves. Removed COGS (cost = base salary); Technical Presales. Base RM2,262,000–3,074,400 (18.9%–25.6% of RM12M); 36-mo runway RM5,706,000–7,720,800** |
+| 6.0 | June 24, 2026 | Hadri | Re-based on HR job-levels + Rate-card benchmark. General (dotted) vs cyber-core split, company-convention titles, Jr PM → Product Manager, 8-5-7 waves. Removed COGS (cost = base salary); Technical Presales. |
+| **6.0 (rev.)** | **June 29, 2026** | **Hadri** | **v6 (rev.): Sales → L4; Gov Sec = Product Manager; Head of Cybersecurity BU = Faurani. Total RM2,118,000–2,956,800 (17.7%–24.6%).** |
 
 ---
 

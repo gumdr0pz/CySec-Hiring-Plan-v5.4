@@ -5,7 +5,7 @@
 **Status:** Framework & role mapping — supersedes the v5.5 title/level/salary basis
 **Classification:** CONFIDENTIAL
 
-> Re-bases the hiring plan on the company HR job-level framework and the consultant Rate-card benchmark, per CTO/Dennis feedback. Source of truth for titles, levels, and salary. **Cost = base benchmark salary (no COGS / burden multiplier).**
+> Re-bases the hiring plan on the company HR job-level framework and the consultant Rate-card benchmark, per CTO/Dennis feedback. Source of truth for titles, levels, and salary. **Cost = base benchmark salary (no COGS / burden multiplier).** The Cybersecurity BU is led by **Faurani (Head of Cybersecurity BU)**.
 
 ---
 
@@ -14,9 +14,10 @@
 1. **General roles, not cyber-dedicated.** Support roles (DevSecOps, Technical Presales, Product Manager, Business Analyst, Blockchain) are **general** with a **dotted line** to the Cybersecurity practice. Sensitive work is **compartmentalised**; a future spinoff is handled by **secondment**.
 2. **Cyber-core stays in the practice:** Offensive Security, Threat Intelligence, GRC, Government Security.
 3. **Titles follow company convention** (Engineer / Senior Engineer / Staff Engineer / Specialist / Technical Presales / Product Manager / Team Lead / Manager); role scope reflects the work. (No "Solutions Architect" role.)
-4. **PM = Product Manager** (Manager level), general with dotted line to cyber. Business Analyst retained; Junior PM removed.
+4. **PM = Product Manager.** No Project Manager roles are hired at this stage. The Government Security role is a **Product Manager – Government Security** (cyber-core, L4); the general **Product Manager** (L5) owns the cross-functional product backlog. Business Analyst retained; Junior PM removed.
 5. **Salary = Rate-card "Rate" tab benchmark** (Assumptions tab is outdated). **No COGS burden is applied** — cost is the gross base benchmark salary.
-6. **Phasing:** near-term core roles are Wave 1; the rest are growth (Waves 2–3).
+6. **Leadership:** the BU reports to **Faurani, Head of Cybersecurity BU**.
+7. **Phasing:** near-term core roles are Wave 1; the rest are growth (Waves 2–3).
 
 ---
 
@@ -65,14 +66,14 @@ Job level is distinct from salary band. **Specialist** sits **one level above Se
 | Jr DevSecOps | Engineer – DevSecOps | DevSecOps | 1 | 4,000–7,000 | 1 |
 | Sr Blockchain Dev | Staff Engineer – Blockchain | Blockchain | 4 | 11,500–15,500 | 3 |
 | Technical Account Manager | Technical Account Manager *(Consultant)* | Professional Services | 3 | 8,000–11,000 | 1 |
-| Sales Specialist (Enterprise) | Account Manager – Enterprise | Sales | 5 | 17,500–20,400 | 2 |
-| Sales Specialist (Government) | Account Manager – Government | Sales | 5 | 17,500–20,400 | 2 |
+| Sales Specialist (Enterprise) | Account Manager – Enterprise | Sales | 4 | 11,500–15,500 | 2 |
+| Sales Specialist (Government) | Account Manager – Government | Sales | 4 | 11,500–15,500 | 2 |
 | Business Analyst | Business Analyst | Product/PM | 1 | 4,000–7,000 | 3 |
 | **Product Manager** *(replaces Jr PM)* | Product Manager | Product/PM | 5 | 17,500–20,400 | 1 |
 
-**Level distribution:** L5 ×3 · L4 ×8 · L3 ×2 · L1 ×7 = 20.
+**Level distribution:** L5 ×1 · L4 ×10 · L3 ×2 · L1 ×7 = 20.
 
-> Open for your tweak: Sales mapped to Manager (L5); Gov Sec to Specialist (L4). Adjust any level and the costs recompute.
+> Sales (Account Managers) are set at **L4** (confirmed). Gov Sec Product Manager is **L4** (confirmed). The only L5 role is the general Product Manager.
 
 ---
 
@@ -91,12 +92,12 @@ Job level is distinct from salary band. **Specialist** sits **one level above Se
 
 Cost is the gross base benchmark salary. **No 1.44× burden is applied.**
 
-| Wave | Roles | Annual Base (Min–Max) |
-|------|------:|------------------------|
-| Wave 1 | 8 | RM954,000 – RM1,288,800 |
-| Wave 2 | 5 | RM834,000 – RM1,047,600 |
-| Wave 3 | 7 | RM474,000 – RM738,000 |
-| **Total** | **20** | **RM2,262,000 – RM3,074,400** |
+| Wave | Roles | Annual Base (Min–Max) | % of Total |
+|------|------:|------------------------|:--:|
+| Wave 1 | 8 | RM954,000 – RM1,288,800 | 45.0% |
+| Wave 2 | 5 | RM690,000 – RM930,000 | 32.6% |
+| Wave 3 | 7 | RM474,000 – RM738,000 | 22.4% |
+| **Total** | **20** | **RM2,118,000 – RM2,956,800** | **100%** |
 
 Annual base per level: L1 RM48,000–84,000 · L3 RM96,000–132,000 · L4 RM138,000–186,000 · L5 RM210,000–244,800.
 
@@ -106,9 +107,9 @@ Annual base per level: L1 RM48,000–84,000 · L3 RM96,000–132,000 · L4 RM138
 
 | Measure | Value | vs RM12M revenue |
 |---|---|---|
-| Annual base salary (total) | RM2,262,000 – RM3,074,400 | **18.9% – 25.6%** |
+| Annual base salary (total) | RM2,118,000 – RM2,956,800 | **17.7% – 24.6%** |
 
-With COGS removed, cost sits **within the 25% cap across the low-to-mid benchmark**; only the absolute top of the band (max benchmark for every role) reaches **25.6%**, marginally over. Setting offers anywhere below the band ceiling keeps the plan inside 25%. No cap relaxation is required at planned salary levels.
+With COGS removed and Sales at L4, the total sits **fully within the 25% cap** — even the top of the benchmark band is **24.6%** of RM12M. No cap relaxation is required.
 
 ### 36-Month Runway (estimated, base salary)
 
@@ -116,17 +117,18 @@ Year 1 phased (W1 ~10mo, W2 ~5mo, W3 ~1mo); Years 2–3 full run-rate; flat RM12
 
 | Year | Base (Min–Max) | Cumulative (Max) |
 |------|----------------|------------------|
-| Year 1 (phased) | RM1,182,000 – RM1,572,000 | RM1,572,000 |
-| Year 2 (full) | RM2,262,000 – RM3,074,400 | RM4,646,400 |
-| Year 3 (full) | RM2,262,000 – RM3,074,400 | RM7,720,800 |
-| **36-mo total** | **RM5,706,000 – RM7,720,800** | |
+| Year 1 (phased) | RM1,122,000 – RM1,523,000 | RM1,523,000 |
+| Year 2 (full) | RM2,118,000 – RM2,956,800 | RM4,479,800 |
+| Year 3 (full) | RM2,118,000 – RM2,956,800 | RM7,436,600 |
+| **36-mo total** | **RM5,358,000 – RM7,436,600** | |
 
 ---
 
 ## 7. Notes
 
-- The standalone COGS calculator (`cysec_cogs_calculator.py`) has been **removed** — no burden calculation is used.
-- All plan docs, JDs, and the org chart are aligned to this framework (base salary, Technical Presales, no COGS).
+- Cost = gross base benchmark salary; no COGS / burden multiplier; the standalone COGS calculator has been **removed**.
+- Leadership: the BU is led by **Faurani, Head of Cybersecurity BU**; cyber-core roles report to Faurani, general roles report on a dotted line.
+- All plan docs, JDs, and the org chart are aligned to this framework.
 
 ---
 

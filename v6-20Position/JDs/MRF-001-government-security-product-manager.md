@@ -5,7 +5,7 @@
 | Requisition ID | MRF-001 |
 | Business Unit | Cybersecurity BU |
 | Team / Function | Government Security |
-| Reports To | Head of Cybersecurity Practice |
+| Reports To | Head of Cybersecurity BU (Faurani) |
 | Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
 | Track | Cyber-core (in Cybersecurity Practice) |
 | Employment Type | Full-time, Permanent |
@@ -80,7 +80,7 @@ The Product Manager – Government Security owns the BU's government-security pr
 
 ## 9. Reporting & Team Context
 
-This role reports to the Head of Cybersecurity Practice and works closely with cross-functional teams across offensive security, DevSecOps, threat intelligence, GRC, and consulting, as well as external government stakeholders and regulatory bodies. As a Level 4 role, the Product Manager provides product leadership and direction to the teams delivering government-security offerings.
+This role reports to the Head of Cybersecurity BU (Faurani) and works closely with cross-functional teams across offensive security, DevSecOps, threat intelligence, GRC, and consulting, as well as external government stakeholders and regulatory bodies. As a Level 4 role, the Product Manager provides product leadership and direction to the teams delivering government-security offerings.
 
 ## 10. Compensation & Benefits
 

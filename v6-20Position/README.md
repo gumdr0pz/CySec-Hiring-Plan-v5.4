@@ -16,7 +16,7 @@
 2. **Company HR job levels** (L1 Executive … L7 C-Suite); **Specialist = Level 4** (one above Senior Executive), dual **Specialist / Team Lead**. Titles follow company convention (Engineer / Senior Engineer / Staff Engineer / Specialist / Technical Presales / Product Manager / Team Lead).
 3. **Salary = Consultant Rate-card "Rate" tab benchmark base salary** (replaces the old 30%-reduced bands; gross base, no multiplier). Job level and salary band are tracked separately.
 4. **Product Manager (L5)** added; Junior PM removed. **PM = Product Manager**.
-5. **Within the 25% revenue cap** — at base salary, cost runs 18.9%–25.6% of RM12M; only the band ceiling reaches 25.6%, manageable by setting offers below the ceiling.
+5. **Fully within the 25% revenue cap** — at base salary, cost runs 17.7%–24.6% of RM12M; even the band ceiling stays at 24.6%.
 
 Foundation/spec: `CySec-v6-Levels-Titles-Salary-Framework.md`.
 
@@ -39,25 +39,25 @@ Foundation/spec: `CySec-v6-Levels-Titles-Salary-Framework.md`.
 
 - 23 total positions (3 existing + 20 hires); 8-5-7 waves
 - Support roles general (dotted line to cyber); cyber-core in the practice
-- Salary at Rate-card base benchmark; within 25% cap (18.9%–25.6% of revenue)
+- Salary at Rate-card base benchmark; fully within 25% cap (17.7%–24.6% of revenue)
 
 ## Financial Summary (at base benchmark salary)
 
 | Metric | Value |
 |--------|-------|
 | Revenue Target | RM12,000,000 |
-| Total Annual Cost (Base) | RM2,262,000 – RM3,074,400 (18.9% – 25.6%) |
-| 25% Cap | Within across low-to-mid band; ceiling reaches 25.6% (set offers below ceiling) |
-| 36-Month Base Runway | RM5,706,000 – RM7,720,800 |
+| Total Annual Cost (Base) | RM2,118,000 – RM2,956,800 (17.7% – 24.6%) |
+| 25% Cap | Fully within (max 24.6%) |
+| 36-Month Base Runway | RM5,358,000 – RM7,436,600 |
 
 ## Wave Structure (8-5-7, base)
 
 | Wave | Trigger | Roles | Annual Cost Range |
 |------|---------|-------|-------------------|
 | Wave 1 | Board Approval | 8 | RM954,000 – RM1,288,800 |
-| Wave 2 | RM4M+ SOWs | 5 | RM834,000 – RM1,047,600 |
+| Wave 2 | RM4M+ SOWs | 5 | RM690,000 – RM930,000 |
 | Wave 3 | RM8M+ Recurring | 7 | RM474,000 – RM738,000 |
-| **Total** | - | **20** | **RM2,262,000 – RM3,074,400** |
+| **Total** | - | **20** | **RM2,118,000 – RM2,956,800** |
 
 ## HR Levels & Salary Benchmark (monthly RM, Rate tab)
 
@@ -71,6 +71,6 @@ Foundation/spec: `CySec-v6-Levels-Titles-Salary-Framework.md`.
 ## Next Steps
 
 1. Present v6 to management; base salary sits within the 25% cap across the low-to-mid band
-2. Confirm Sales (L5) and Gov Sec (L4) level placements
+2. Sales (L4) and Gov Sec (L4) level placements confirmed
 3. Launch Wave 1 hiring (8 roles, near-term core)
 4. Hold Waves 2/3 against revenue triggers

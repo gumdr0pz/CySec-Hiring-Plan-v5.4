@@ -37,19 +37,19 @@ The complete v6 documentation for the Cybersecurity BU hiring plan: **20 positio
 |--------|-------|
 | Total Positions | 23 (3 existing + 20 hires) |
 | Wave Structure | 8-5-7 |
-| Level Distribution | L5 ×3 · L4 ×8 · L3 ×2 · L1 ×7 |
-| Total Annual Base | RM2,262,000 – RM3,074,400 |
-| Base as % of Revenue | 18.9% – 25.6% |
-| 25% Revenue Cap (RM3.0M) | Within cap across low-to-mid band; ceiling reaches 25.6% |
+| Level Distribution | L5 ×1 · L4 ×10 · L3 ×2 · L1 ×7 |
+| Total Annual Base | RM2,118,000 – RM2,956,800 |
+| Base as % of Revenue | 17.7% – 24.6% |
+| 25% Revenue Cap (RM3.0M) | Fully within cap (max 24.6%) |
 
 ### Wave Structure (Base)
 
 | Wave | Trigger | Positions | Annual Cost Range |
 |------|---------|-----------|-------------------|
 | Wave 1 | Board Approval | 8 | RM954,000 – RM1,288,800 |
-| Wave 2 | RM4M+ SOWs | 5 | RM834,000 – RM1,047,600 |
+| Wave 2 | RM4M+ SOWs | 5 | RM690,000 – RM930,000 |
 | Wave 3 | RM8M+ Recurring | 7 | RM474,000 – RM738,000 |
-| **Total** | — | **20** | **RM2,262,000 – RM3,074,400** |
+| **Total** | — | **20** | **RM2,118,000 – RM2,956,800** |
 
 ### Salary Benchmark by Level (Rate-card "Rate" tab)
 
@@ -68,7 +68,7 @@ The complete v6 documentation for the Cybersecurity BU hiring plan: **20 positio
 Technical Presales (L4, general) · Presales Engineer (L1, general) · Staff Engineer – DevSecOps (L4, general) · Engineer – DevSecOps (L1, general) · GRC Specialist (L4, cyber-core) · Product Manager – Government Security (L4, cyber-core) · Product Manager (L5, general) · Technical Account Manager (L3, general)
 
 ### Wave 2: RM4M+ SOWs (5)
-Account Manager – Enterprise (L5, general) · Account Manager – Government (L5, general) · Team Lead – Offensive Security (L4, cyber-core) · Staff Engineer – Offensive Security (L4, cyber-core) · Team Lead – Threat Intelligence (L4, cyber-core)
+Account Manager – Enterprise (L4, general) · Account Manager – Government (L4, general) · Team Lead – Offensive Security (L4, cyber-core) · Staff Engineer – Offensive Security (L4, cyber-core) · Team Lead – Threat Intelligence (L4, cyber-core)
 
 ### Wave 3: RM8M+ Recurring (7)
 Staff Engineer – Blockchain (L4, general) · GRC Analyst (L1, cyber-core) · Engineer – Offensive Security (L1, cyber-core) · Senior Engineer – Threat Intelligence (L3, cyber-core) · Engineer – Threat Intelligence (L1, cyber-core) · Engineer – Threat Intelligence / Dist. Intel (L1, cyber-core) · Business Analyst (L1, general)
@@ -91,7 +91,7 @@ Staff Engineer – Blockchain (L4, general) · GRC Analyst (L1, cyber-core) · E
 
 ## BUDGET / CAP NOTE
 
-At the Rate-card base benchmark, annual cost (RM2,262,000 – RM3,074,400) is **18.9% – 25.6%** of RM12M revenue, **within the 25% cap (RM3.0M)** across the low-to-mid band. Only the absolute top of the band (max benchmark for every role) reaches **25.6%**, marginally over; setting offers below the band ceiling keeps the plan inside 25%, with no cap relaxation required. The 36-month base runway is **RM5,706,000 – RM7,720,800**. See `CySec-Financial-Analysis-v6.md`.
+At the Rate-card base benchmark, annual cost (RM2,118,000 – RM2,956,800) is **17.7% – 24.6%** of RM12M revenue, **fully within the 25% cap (RM3.0M)** — even the top of the band reaches only **24.6%**, so no cap relaxation is required. The 36-month base runway is **RM5,358,000 – RM7,436,600**. See `CySec-Financial-Analysis-v6.md`.
 
 ---
 
@@ -102,7 +102,7 @@ At the Rate-card base benchmark, annual cost (RM2,262,000 – RM3,074,400) is **
 | 5.0 | June 10, 2026 | Hadri | Complete documentation package (5-7-9) |
 | 5.4 | June 23, 2026 | Hadri | Support-pod 8-5-8 package |
 | 5.5 | June 23, 2026 | Hadri | Junior Professional Services removed → 7-5-8, 20 hires |
-| **6.0** | **June 24, 2026** | **Hadri** | **Re-based on HR job-levels + Rate-card benchmark. General (dotted) vs cyber-core split, company-convention titles, Jr PM → Product Manager, 8-5-7 waves. Removed COGS (cost = base salary); Technical Presales. Base RM2,262,000–3,074,400 (18.9%–25.6% of RM12M)** |
+| **6.0** | **June 24, 2026** | **Hadri** | **Re-based on HR job-levels + Rate-card benchmark. General (dotted) vs cyber-core split, company-convention titles, Jr PM → Product Manager, 8-5-7 waves. Removed COGS (cost = base salary); Technical Presales. Sales Account Managers set to L4. Base RM2,118,000–2,956,800 (17.7%–24.6% of RM12M)** |
 
 ---
 

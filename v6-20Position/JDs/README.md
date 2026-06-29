@@ -8,7 +8,7 @@
 
 > **v6 framework.** Titles, levels, and salary are re-based on the company HR job-level framework and the consultant Rate-card benchmark. Two structural decisions drive this set:
 >
-> - **General vs cyber-core split.** Cyber-core roles (Offensive Security, Threat Intelligence, GRC, Government Security) sit inside the Cybersecurity Practice and report to the Head of Cybersecurity Practice. **General** roles (DevSecOps, Solutions / Presales, Product / PM, Blockchain, Sales, Professional Services) report to functional leads or the BU Head, each carrying a **dotted-line responsibility to the Cybersecurity Practice**. Sensitive work is compartmentalised; a future spinoff is handled by secondment.
+> - **General vs cyber-core split.** Cyber-core roles (Offensive Security, Threat Intelligence, GRC, Government Security) sit inside the Cybersecurity Practice and report to the Head of Cybersecurity BU (Faurani). **General** roles (DevSecOps, Solutions / Presales, Product / PM, Blockchain, Sales, Professional Services) report to functional leads or the Head of Cybersecurity BU (Faurani), each carrying a **dotted-line responsibility to the Cybersecurity Practice**. Sensitive work is compartmentalised; a future spinoff is handled by secondment.
 > - **8-5-7 waves.** Wave 1 builds the near-term core (org-chart roles); Waves 2–3 are growth.
 >
 > **Product Manager (MRF-023)** is added at Manager level (replaces the removed Junior Project Manager, MRF-020). There is no Junior PM.
@@ -21,22 +21,22 @@
 |-----|----------|:-----:|:-----:|------|------------|----|
 | MRF-012 | Technical Presales ⭐ | L4 | G | Solutions / Presales | Functional lead (dotted line to Cyber) | [open](MRF-012-senior-presales-consultant.md) |
 | MRF-022 | Presales Engineer | L1 | G | Solutions / Presales | Technical Presales | [open](MRF-022-junior-presales-consultant.md) |
-| MRF-001 | Product Manager – Government Security | L4 | C | Government Security | Head of Cybersecurity Practice | [open](MRF-001-government-security-product-manager.md) |
-| MRF-002 | GRC Specialist *(dual Specialist / Team Lead)* | L4 | C | VORON / GRC | Head of Cybersecurity Practice | [open](MRF-002-senior-grc-specialist.md) |
+| MRF-001 | Product Manager – Government Security | L4 | C | Government Security | Head of Cybersecurity BU (Faurani) | [open](MRF-001-government-security-product-manager.md) |
+| MRF-002 | GRC Specialist *(dual Specialist / Team Lead)* | L4 | C | VORON / GRC | Head of Cybersecurity BU (Faurani) | [open](MRF-002-senior-grc-specialist.md) |
 | MRF-003 | Staff Engineer – DevSecOps | L4 | G | DevSecOps | Functional lead (dotted line to Cyber) | [open](MRF-003-senior-devsecops-engineer.md) |
 | MRF-018 | Engineer – DevSecOps | L1 | G | DevSecOps | Staff Engineer – DevSecOps (dotted line to Cyber) | [open](MRF-018-junior-devsecops-engineer.md) |
-| MRF-005 | Technical Account Manager *(Consultant)* | L3 | G | Professional Services | BU Head (dotted line) | [open](MRF-005-technical-account-manager.md) |
-| MRF-023 | Product Manager | L5 | G | Product / PM | BU Head (dotted line) | [open](MRF-023-product-manager.md) |
+| MRF-005 | Technical Account Manager *(Consultant)* | L3 | G | Professional Services | Head of Cybersecurity BU – Faurani (dotted line) | [open](MRF-005-technical-account-manager.md) |
+| MRF-023 | Product Manager | L5 | G | Product / PM | Head of Cybersecurity BU – Faurani (dotted line) | [open](MRF-023-product-manager.md) |
 
 ## Wave 2 — RM4M+ SOWs · 5 roles
 
 | MRF | v6 Title | Level | Track | Team | Reports To | JD |
 |-----|----------|:-----:|:-----:|------|------------|----|
-| MRF-010 | Account Manager – Enterprise | L5 | G | Sales | BU Head (dotted line) | [open](MRF-010-senior-sales-specialist-enterprise.md) |
-| MRF-011 | Account Manager – Government | L5 | G | Sales | BU Head (dotted line) | [open](MRF-011-senior-sales-specialist-government.md) |
-| MRF-006 | Team Lead – Offensive Security | L4 | C | OffSec | Head of Cybersecurity Practice | [open](MRF-006-lead-security-researcher.md) |
+| MRF-010 | Account Manager – Enterprise | L4 | G | Sales | Head of Cybersecurity BU – Faurani (dotted line) | [open](MRF-010-senior-sales-specialist-enterprise.md) |
+| MRF-011 | Account Manager – Government | L4 | G | Sales | Head of Cybersecurity BU – Faurani (dotted line) | [open](MRF-011-senior-sales-specialist-government.md) |
+| MRF-006 | Team Lead – Offensive Security | L4 | C | OffSec | Head of Cybersecurity BU (Faurani) | [open](MRF-006-lead-security-researcher.md) |
 | MRF-007 | Staff Engineer – Offensive Security | L4 | C | OffSec | Team Lead – Offensive Security | [open](MRF-007-red-team-specialist.md) |
-| MRF-008 | Team Lead – Threat Intelligence | L4 | C | CTI | Head of Cybersecurity Practice | [open](MRF-008-cyber-threat-intelligence-lead.md) |
+| MRF-008 | Team Lead – Threat Intelligence | L4 | C | CTI | Head of Cybersecurity BU (Faurani) | [open](MRF-008-cyber-threat-intelligence-lead.md) |
 
 ## Wave 3 — RM8M+ Recurring · 7 roles
 

@@ -5,8 +5,8 @@
 | Requisition ID | MRF-010 |
 | Business Unit | Cybersecurity BU |
 | Team / Function | Sales |
-| Reports To | BU Head (dotted line) |
-| Level / Grade | L5 — Manager |
+| Reports To | Head of Cybersecurity BU – Faurani (dotted line) |
+| Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
 | Track | General — dotted line to Cybersecurity Practice |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
@@ -27,7 +27,7 @@ The Account Manager – Enterprise drives top-line revenue growth for the Cybers
 - Collaborate closely with technical and delivery teams to scope solutions, shape Statements of Work, and ensure proposed engagements are deliverable and commercially sound.
 - Translate the BU's offensive security, threat intelligence, DevSecOps, and blockchain security offerings into clear client value propositions tailored to each account.
 - Negotiate commercial terms, pricing, and contracts to close deals that balance client value with BU profitability.
-- Maintain disciplined CRM hygiene and provide regular, data-driven reporting on pipeline, forecast, and account health to the BU Head.
+- Maintain disciplined CRM hygiene and provide regular, data-driven reporting on pipeline, forecast, and account health to the Head of Cybersecurity BU (Faurani).
 
 ## 3. Required Qualifications & Experience
 
@@ -82,14 +82,14 @@ The Account Manager – Enterprise drives top-line revenue growth for the Cybers
 
 ## 9. Reporting & Team Context
 
-This role reports on a dotted line to the BU Head and works in close partnership with the Cybersecurity BU's technical and delivery teams to scope, propose, and close enterprise engagements. As a Level 5 Manager-grade role, the Account Manager owns a strategic enterprise portfolio and provides commercial guidance to less experienced sales colleagues.
+This role reports on a dotted line to the Head of Cybersecurity BU (Faurani) and works in close partnership with the Cybersecurity BU's technical and delivery teams to scope, propose, and close enterprise engagements. As a Level 4 Assistant Manager-grade role, the Account Manager owns a strategic enterprise portfolio and provides commercial guidance to less experienced sales colleagues.
 
 ## 10. Compensation & Benefits
 
-Benchmarked to the consultant Rate-card (Level 5 — Manager):
+Benchmarked to the consultant Rate-card (Level 4 — Assistant Manager):
 
-- **Monthly Base Salary:** RM17,500 – RM20,400
-- **Annual Base Salary:** RM210,000 – RM244,800
+- **Monthly Base Salary:** RM11,500 – RM15,500
+- **Annual Base Salary:** RM138,000 – RM186,000
 
 In addition to base salary, the BU offers statutory contributions (EPF/SOCSO/EIS), medical coverage, training and certification sponsorship, and a performance-based bonus. Sales-related variable incentives may apply in line with company policy.
 

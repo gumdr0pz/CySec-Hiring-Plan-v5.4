@@ -5,8 +5,8 @@
 | Requisition ID | MRF-011 |
 | Business Unit | Cybersecurity BU |
 | Team / Function | Sales |
-| Reports To | BU Head (dotted line) |
-| Level / Grade | L5 — Manager |
+| Reports To | Head of Cybersecurity BU – Faurani (dotted line) |
+| Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
 | Track | General — dotted line to Cybersecurity Practice |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
@@ -23,7 +23,7 @@ The Account Manager – Government drives revenue growth across Malaysia's publi
 - Develop and nurture strategic relationships with government agencies, ministries, statutory bodies, and public sector decision-makers to establish the BU as a trusted cybersecurity partner.
 - Identify, qualify, and prioritise government procurement and tender opportunities across the Malaysian public sector, maintaining a healthy and well-segmented pipeline.
 - Lead the development of compelling, compliant proposals and bid responses for government tenders, ensuring alignment with agency requirements and procurement criteria.
-- Achieve and exceed assigned government sales targets and revenue objectives, accurately forecasting and reporting pipeline progress to the BU Head.
+- Achieve and exceed assigned government sales targets and revenue objectives, accurately forecasting and reporting pipeline progress to the Head of Cybersecurity BU (Faurani).
 - Navigate Malaysian government procurement frameworks, panels, and approval processes to position the BU's solutions effectively and shorten the path to award.
 - Collaborate closely with the Product Manager – Government Security to ensure proposed solutions are deliverable, scoped accurately, and transitioned smoothly from sale to delivery.
 - Translate technical cybersecurity offerings into clear public sector value propositions, tailoring messaging to agency mandates and compliance obligations.
@@ -82,14 +82,14 @@ The Account Manager – Government drives revenue growth across Malaysia's publi
 
 ## 9. Reporting & Team Context
 
-This role reports on a dotted line to the BU Head and sits within the Cybersecurity BU's Sales team. As a Level 5 Manager-grade role, it works closely with the Product Manager – Government Security and the wider delivery and technical teams to scope, propose, and transition government engagements.
+This role reports on a dotted line to the Head of Cybersecurity BU (Faurani) and sits within the Cybersecurity BU's Sales team. As a Level 4 Assistant Manager-grade role, it works closely with the Product Manager – Government Security and the wider delivery and technical teams to scope, propose, and transition government engagements.
 
 ## 10. Compensation & Benefits
 
-Benchmarked to the consultant Rate-card (Level 5 — Manager):
+Benchmarked to the consultant Rate-card (Level 4 — Assistant Manager):
 
-- **Monthly Base Salary:** RM17,500 – RM20,400
-- **Annual Base Salary:** RM210,000 – RM244,800
+- **Monthly Base Salary:** RM11,500 – RM15,500
+- **Annual Base Salary:** RM138,000 – RM186,000
 
 Benefits include statutory EPF, SOCSO, and EIS contributions, medical coverage, training and certification sponsorship, and a performance-based bonus.
 

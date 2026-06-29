@@ -5,7 +5,7 @@
 | Requisition ID | MRF-018 |
 | Business Unit | Cybersecurity BU |
 | Team / Function | DevSecOps |
-| Reports To | Staff Engineer – DevSecOps (dotted line to Head of Cybersecurity Practice) |
+| Reports To | Staff Engineer – DevSecOps (dotted line to Head of Cybersecurity BU (Faurani)) |
 | Level / Grade | L1 — Executive (Engineer) |
 | Track | General — dotted line to Cybersecurity Practice |
 | Employment Type | Full-time, Permanent |
@@ -87,7 +87,7 @@ This is a **general role with a dotted-line responsibility to the Cybersecurity 
 
 ## 9. Reporting & Team Context
 
-This role reports to the Staff Engineer – DevSecOps (with a dotted line to the Head of Cybersecurity Practice) and works closely with the wider DevSecOps team as well as development and operations colleagues across the BU. As a Level 1 Engineer position, the focus is on learning and contributing under senior guidance rather than leading others.
+This role reports to the Staff Engineer – DevSecOps (with a dotted line to the Head of Cybersecurity BU (Faurani)) and works closely with the wider DevSecOps team as well as development and operations colleagues across the BU. As a Level 1 Engineer position, the focus is on learning and contributing under senior guidance rather than leading others.
 
 ## 10. Compensation & Benefits
 

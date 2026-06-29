@@ -5,7 +5,7 @@
 | Requisition ID | MRF-008 |
 | Business Unit | Cybersecurity BU |
 | Team / Function | CTI — Cyber Threat Intelligence |
-| Reports To | Head of Cybersecurity Practice |
+| Reports To | Head of Cybersecurity BU (Faurani) |
 | Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
 | Track | Cyber-core (in Cybersecurity Practice) |
 | Employment Type | Full-time, Permanent |
@@ -85,7 +85,7 @@ The Team Lead – Threat Intelligence anchors the Cybersecurity BU's CTI capabil
 
 ## 9. Reporting & Team Context
 
-This role reports to the Head of Cybersecurity Practice and leads the CTI team, working closely with the offensive security, DevSecOps, blockchain security, and professional services functions. As a Level 4 Team Lead, the role manages, mentors, and develops CTI engineers and analysts and sets analytical and operational standards for the intelligence function.
+This role reports to the Head of Cybersecurity BU (Faurani) and leads the CTI team, working closely with the offensive security, DevSecOps, blockchain security, and professional services functions. As a Level 4 Team Lead, the role manages, mentors, and develops CTI engineers and analysts and sets analytical and operational standards for the intelligence function.
 
 ## 10. Compensation & Benefits
 
