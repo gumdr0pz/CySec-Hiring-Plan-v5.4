@@ -2,10 +2,10 @@
 
 **Version:** 6.0
 **Date:** June 24, 2026
-**Status:** v6 — General roles + HR levels + Rate-card base salary, 8-5-7
+**Status:** v6 — General roles + HR levels + Rate-card base salary, 7-5-7
 **Classification:** CONFIDENTIAL
 
-> This is the current version. Titles, levels, and compensation follow the v6 Levels, Titles & Salary Framework (`CySec-v6-Levels-Titles-Salary-Framework.md`). Cost is the gross base benchmark salary — no burden multiplier. MRF numbers map to the detailed JD files in `JDs/`. The Senior Project Manager (MRF-004) and Junior Project Manager (MRF-020) are retired; **Product Manager (MRF-023)** is added.
+> This is the current version. Titles, levels, and compensation follow the v6 Levels, Titles & Salary Framework (`CySec-v6-Levels-Titles-Salary-Framework.md`). Cost is the gross base benchmark salary — no burden multiplier. MRF numbers map to the detailed JD files in `JDs/`. The Senior Project Manager (MRF-004), Junior Project Manager (MRF-020), and standalone Product Manager (MRF-023) are retired.
 
 ---
 
@@ -15,25 +15,24 @@
 
 | Wave | Trigger | Positions | Level Mix | Annual Base Range |
 |------|---------|-----------|-----------|-------------------|
-| Wave 1 | Board Approval | 8 | L5 ×1 · L4 ×4 · L3 ×1 · L1 ×2 | RM954,000 – RM1,288,800 |
+| Wave 1 | Board Approval | 7 | L4 ×4 · L3 ×1 · L1 ×2 | RM744,000 – RM1,044,000 |
 | Wave 2 | RM4M+ SOWs | 5 | L4 ×5 | RM690,000 – RM930,000 |
 | Wave 3 | RM8M+ Recurring | 7 | L4 ×1 · L3 ×1 · L1 ×5 | RM474,000 – RM738,000 |
-| **Total** | — | **20** | L5 ×1 · L4 ×10 · L3 ×2 · L1 ×7 | **RM2,118,000 – RM2,956,800** |
+| **Total** | — | **19** | L4 ×10 · L3 ×2 · L1 ×7 | **RM1,908,000 – RM2,712,000** |
 
 ### 1.2 Compensation Reference (Rate-card benchmark)
 
 | Level | HR Band | Monthly Benchmark | Annual Base |
 |------:|---------|-------------------|-------------|
-| L5 | Manager | RM17,500 – RM20,400 | RM210,000 – RM244,800 |
 | L4 | Assistant Manager | RM11,500 – RM15,500 | RM138,000 – RM186,000 |
 | L3 | Senior Executive | RM8,000 – RM11,000 | RM96,000 – RM132,000 |
 | L1 | Executive | RM4,000 – RM7,000 | RM48,000 – RM84,000 |
 
-> Pay at gross base benchmark salary. Base total RM2,118,000 – RM2,956,800 (17.7% – 24.6% of RM12M); fully within the 25% revenue cap (max 24.6%).
+> Pay at gross base benchmark salary. Base total RM1,908,000 – RM2,712,000 (15.9% – 22.6% of RM12M); fully within the 25% revenue cap (max 22.6%).
 
 ---
 
-## 2. WAVE 1 MRFS (8 Roles — Near-Term Core)
+## 2. WAVE 1 MRFS (7 Roles — Near-Term Core)
 
 **Trigger:** Board approval · **Date Required:** Within 90 days
 
@@ -46,7 +45,6 @@
 | MRF-003 | Staff Engineer – DevSecOps | L4 | DevSecOps | General | Principal Cybersecurity Architect (dotted) | RM138,000 – RM186,000 |
 | MRF-018 | Engineer – DevSecOps | L1 | DevSecOps | General | Staff Engineer – DevSecOps | RM48,000 – RM84,000 |
 | MRF-005 | Technical Account Manager *(Consultant)* | L3 | Professional Services | General | Head of Cybersecurity BU – Faurani (dotted line) | RM96,000 – RM132,000 |
-| MRF-023 | Product Manager *(new)* | L5 | Product/PM | General | Head of Cybersecurity BU – Faurani (dotted line) | RM210,000 – RM244,800 |
 
 ---
 
@@ -76,7 +74,7 @@
 | MRF-016 | Senior Engineer – Threat Intelligence | L3 | CTI | Cyber-core | Team Lead – Threat Intelligence | RM96,000 – RM132,000 |
 | MRF-015 | Engineer – Threat Intelligence | L1 | CTI | Cyber-core | Team Lead – Threat Intelligence | RM48,000 – RM84,000 |
 | MRF-017 | Engineer – Threat Intelligence *(Distributed Intel)* | L1 | CTI | Cyber-core | Team Lead – Threat Intelligence | RM48,000 – RM84,000 |
-| MRF-019 | Business Analyst | L1 | Product/PM | General | Product Manager (dotted line) | RM48,000 – RM84,000 |
+| MRF-019 | Business Analyst | L1 | Product/PM | General | Head of Cybersecurity BU – Faurani (dotted line) | RM48,000 – RM84,000 |
 
 ---
 
@@ -91,7 +89,6 @@
 | MRF-003 | Staff Engineer – DevSecOps | L4 | DevSecOps | General | 1 |
 | MRF-018 | Engineer – DevSecOps | L1 | DevSecOps | General | 1 |
 | MRF-005 | Technical Account Manager *(Consultant)* | L3 | Professional Services | General | 1 |
-| MRF-023 | Product Manager | L5 | Product/PM | General | 1 |
 | MRF-010 | Account Manager – Enterprise | L4 | Sales | General | 2 |
 | MRF-011 | Account Manager – Government | L4 | Sales | General | 2 |
 | MRF-006 | Team Lead – Offensive Security | L4 | OffSec | Cyber-core | 2 |
@@ -105,10 +102,9 @@
 | MRF-017 | Engineer – Threat Intelligence (Distributed Intel) | L1 | CTI | Cyber-core | 3 |
 | MRF-019 | Business Analyst | L1 | Product/PM | General | 3 |
 
-**Totals:** Wave 1 = 8 · Wave 2 = 5 · Wave 3 = 7 · **Total = 20**
+**Totals:** Wave 1 = 7 · Wave 2 = 5 · Wave 3 = 7 · **Total = 19**
 
-> **Retired:** MRF-004 (Senior Project Manager), MRF-020 (Junior Project Manager), and MRF-021 (Junior Professional Services) — removed from the structure, archived under `ARCHIVE-HISTORICAL-VERSIONS/`.
-> **Added:** MRF-023 (Product Manager, L5) — new product-ownership role replacing the former Junior PM.
+> **Retired:** MRF-004 (Senior Project Manager), MRF-020 (Junior Project Manager), MRF-021 (Junior Professional Services), and MRF-023 (standalone Product Manager, L5) — removed from the structure, archived under `ARCHIVE-HISTORICAL-VERSIONS/`. The only product-management role is the cyber-core Product Manager – Government Security (MRF-001, L4).
 
 ---
 
@@ -119,7 +115,8 @@
 | 5.0 | June 10, 2026 | Hadri | All 21 MRF forms (5-7-9) |
 | 5.4 | June 23, 2026 | Hadri | Support-pod 8-5-8 (MRF-004 retired, MRF-022 added) |
 | 5.5 | June 23, 2026 | Hadri | MRF-021 (Jr PS) retired → 7-5-8, 20 hires |
-| **6.0** | **June 24, 2026** | **Hadri** | **Re-based on HR framework + Rate-card benchmark. New titles/levels, general vs cyber-core class, MRF-020 (Jr PM) retired, MRF-023 (Product Manager L5) added → 8-5-7, 20 hires. Removed COGS (cost = base salary); Technical Presales. Sales Account Managers (MRF-010/011) set to L4. Base RM2,118,000–2,956,800 (17.7%–24.6% of RM12M)** |
+| **6.0** | **June 24, 2026** | **Hadri** | **Re-based on HR framework + Rate-card benchmark. New titles/levels, general vs cyber-core class, MRF-020 (Jr PM) retired → 8-5-7, 20 hires. Removed COGS (cost = base salary); Technical Presales. Sales Account Managers (MRF-010/011) set to L4.** |
+| **6.1** | **June 29, 2026** | **Hadri** | **Removed standalone Product Manager (L5, MRF-023); 19 hires, 7-5-7. Base RM1,908,000–2,712,000 (15.9%–22.6% of RM12M)** |
 
 ---
 

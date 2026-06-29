@@ -2,7 +2,7 @@
 
 **Version:** 6.0
 **Date:** June 24, 2026
-**Status:** v6 — General roles + HR levels + Rate-card base salary, 8-5-7
+**Status:** v6 — General roles + HR levels + Rate-card base salary, 7-5-7
 **Classification:** CONFIDENTIAL
 
 > This is the current version. It re-bases titles, levels, and salary on the company HR job-level framework and the Rate-card "Rate"-tab benchmark (see `CySec-v6-Levels-Titles-Salary-Framework.md`). Cost is the gross base benchmark salary — no burden multiplier. All previous versions (v5.0–v5.5) are deprecated and archived under `ARCHIVE-HISTORICAL-VERSIONS/`.
@@ -13,15 +13,15 @@
 
 Each wave stands up functional capability that can deliver, with the near-term core landing first:
 
-- **Wave 1 (8):** The near-term core — Technical Presales + Presales Engineer, Staff Engineer DevSecOps + Engineer DevSecOps, GRC Specialist, Product Manager – Government Security, Product Manager, and a Technical Account Manager for post-sale delivery.
+- **Wave 1 (7):** The near-term core — Technical Presales + Presales Engineer, Staff Engineer DevSecOps + Engineer DevSecOps, GRC Specialist, Product Manager – Government Security, and a Technical Account Manager for post-sale delivery.
 - **Wave 2 (5):** Revenue closers (Account Manager – Enterprise + Government) and senior cyber-core practice leadership (Offensive Security Team Lead + Staff Engineer, Threat Intelligence Team Lead) — triggered by signed SOWs.
-- **Wave 3 (7):** The scale-up bench — engineering/IC across Offensive Security, Threat Intelligence, GRC, and PM, plus the Blockchain Staff Engineer.
+- **Wave 3 (7):** The scale-up bench — engineering/IC across Offensive Security, Threat Intelligence, and GRC, plus the Blockchain Staff Engineer and the Business Analyst.
 
-> **General vs cyber-core:** Support functions (Solutions/Presales, DevSecOps, Blockchain, Product/PM, Sales, Professional Services) are **general roles with a dotted line** to the practice; sensitive work is compartmentalised, a future spinoff handled by secondment. **Cyber-core** (Offensive Security, Threat Intelligence, GRC, Government Security) sits **inside** the practice. Titles follow the company convention; levels follow the HR framework; salary is the Rate-card base benchmark. The former Junior PM is replaced by a **Product Manager** (Manager level).
+> **General vs cyber-core:** Support functions (Solutions/Presales, DevSecOps, Blockchain, Delivery/PM, Sales, Professional Services) are **general roles with a dotted line** to the practice; sensitive work is compartmentalised, a future spinoff handled by secondment. **Cyber-core** (Offensive Security, Threat Intelligence, GRC, Government Security) sits **inside** the practice. Titles follow the company convention; levels follow the HR framework; salary is the Rate-card base benchmark. The standalone general Product Manager (L5) has been removed; the only product-management role is the cyber-core **Product Manager – Government Security (L4)**.
 
 ---
 
-## Organization Chart (23 Positions)
+## Organization Chart (22 Positions)
 
 ### Leadership (3 Existing)
 | Position | Function | Status |
@@ -30,7 +30,7 @@ Each wave stands up functional capability that can deliver, with the near-term c
 | Principal Cybersecurity Architect | Leadership | Existing |
 | Principal Blockchain Architect | Leadership | Existing |
 
-### Wave 1 — Immediate (8 Roles) | Green Border
+### Wave 1 — Immediate (7 Roles) | Green Border
 **Trigger:** Board approval · **Focus:** Near-term core
 
 | # | Position | Level | Function | Core/General | Monthly Benchmark (RM) |
@@ -41,10 +41,9 @@ Each wave stands up functional capability that can deliver, with the near-term c
 | 4 | Engineer – DevSecOps | L1 | DevSecOps | General (dotted) | 4,000–7,000 |
 | 5 | GRC Specialist *(Specialist/Team Lead)* | L4 | VORON/GRC | Cyber-core | 11,500–15,500 |
 | 6 | Product Manager – Government Security | L4 | Gov Sec | Cyber-core | 11,500–15,500 |
-| 7 | Product Manager | L5 | Product/PM | General (dotted) | 17,500–20,400 |
-| 8 | Technical Account Manager *(Consultant)* | L3 | Professional Services | General (dotted) | 8,000–11,000 |
+| 7 | Technical Account Manager *(Consultant)* | L3 | Professional Services | General (dotted) | 8,000–11,000 |
 
-**Wave 1 Total Base: RM954,000–1,288,800/year**
+**Wave 1 Total Base: RM744,000–1,044,000/year**
 
 ### Wave 2 — RM4M+ SOWs (5 Roles) | Blue Border
 **Trigger:** RM4M+ signed SOWs · **Focus:** Revenue closers + senior cyber-core practice leadership
@@ -70,7 +69,7 @@ Each wave stands up functional capability that can deliver, with the near-term c
 | 4 | Senior Engineer – Threat Intelligence | L3 | CTI | Cyber-core | 8,000–11,000 |
 | 5 | Engineer – Threat Intelligence | L1 | CTI | Cyber-core | 4,000–7,000 |
 | 6 | Engineer – Threat Intelligence (Dist. Intel) | L1 | CTI | Cyber-core | 4,000–7,000 |
-| 7 | Business Analyst | L1 | Product/PM | General (dotted) | 4,000–7,000 |
+| 7 | Business Analyst | L1 | Delivery/PM | General (dotted) | 4,000–7,000 |
 
 **Wave 3 Total Base: RM474,000–738,000/year**
 
@@ -80,27 +79,26 @@ Each wave stands up functional capability that can deliver, with the near-term c
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 23 (3 existing + 20 hires) |
+| Total Positions | 22 (3 existing + 19 hires) |
 | Existing Leaders | 3 |
-| Positions to Hire | 20 |
-| Level Distribution | L5 ×1 · L4 ×10 · L3 ×2 · L1 ×7 |
-| Total Annual Base | RM2,118,000 – RM2,956,800 |
+| Positions to Hire | 19 |
+| Level Distribution | L4 ×10 · L3 ×2 · L1 ×7 |
+| Total Annual Base | RM1,908,000 – RM2,712,000 |
 | Revenue Target | RM12,000,000 |
-| Base as % of Revenue | 17.7% – 24.6% |
-| 25% Cap (RM3.0M) | Fully within cap; even the band ceiling is 24.6% |
+| Base as % of Revenue | 15.9% – 22.6% |
+| 25% Cap (RM3.0M) | Fully within cap; even the band ceiling is 22.6% |
 
 ### Cost by Wave (Base)
 | Wave | Positions | Annual (Min) | Annual (Max) | % of Total |
 |------|-----------|--------------|--------------|------------|
-| Wave 1 | 8 | RM954,000 | RM1,288,800 | 45.0% |
-| Wave 2 | 5 | RM690,000 | RM930,000 | 32.6% |
-| Wave 3 | 7 | RM474,000 | RM738,000 | 22.4% |
-| **Total** | **20** | **RM2,118,000** | **RM2,956,800** | **100%** |
+| Wave 1 | 7 | RM744,000 | RM1,044,000 | 39.0% |
+| Wave 2 | 5 | RM690,000 | RM930,000 | 36.2% |
+| Wave 3 | 7 | RM474,000 | RM738,000 | 24.8% |
+| **Total** | **19** | **RM1,908,000** | **RM2,712,000** | **100%** |
 
 ### Salary Benchmark by Level (Rate-card "Rate" tab)
 | Level | HR Band | Monthly Benchmark (RM) | Annual Base (RM) |
 |-------|---------|------------------------|------------------|
-| L5 | Manager | 17,500 – 20,400 | 210,000 – 244,800 |
 | L4 | Assistant Manager (Specialist / Team Lead / Staff Eng) | 11,500 – 15,500 | 138,000 – 186,000 |
 | L3 | Senior Executive (Senior Engineer / Consultant) | 8,000 – 11,000 | 96,000 – 132,000 |
 | L1 | Executive (Engineer) | 4,000 – 7,000 | 48,000 – 84,000 |
@@ -109,7 +107,7 @@ Each wave stands up functional capability that can deliver, with the near-term c
 
 ## Color Coding Guide
 
-- **Green Border (#00b894)**: Wave 1 — Immediate (8, near-term core)
+- **Green Border (#00b894)**: Wave 1 — Immediate (7, near-term core)
 - **Blue Border (#0984e3)**: Wave 2 — RM4M+ SOWs (5)
 - **Red Border (#d63031)**: Wave 3 — RM8M+ Recurring (7, scale-up bench)
 
@@ -138,8 +136,7 @@ Head of Cybersecurity BU (Faurani)
 │       └── Engineer – DevSecOps (L1) .................. W1
 ├── Principal Blockchain Architect
 │   └── Staff Engineer – Blockchain (L4) .............. W3   [general, dotted]
-├── Product / PM (dotted line)
-│   ├── Product Manager (L5) .......................... W1
+├── Delivery / PM (dotted line)
 │   └── Business Analyst (L1) ......................... W3
 ├── Solutions / Presales (dotted line)
 │   ├── Technical Presales (L4) ...................... W1
@@ -155,9 +152,9 @@ Head of Cybersecurity BU (Faurani)
 
 ## Next Steps
 
-1. Update `CySec-BU-OrgChart-Whiteboard.drawio` (v6 titles/levels, general vs core, 8-5-7 colors)
-2. Circulate the v6 document set for approval (Head of Cybersecurity BU – Faurani, HR, CFO) — base salary fully within the 25% cap (even the band ceiling is 24.6%)
-3. Launch Wave 1 hiring (8 roles) on board approval
+1. Update `CySec-BU-OrgChart-Whiteboard.drawio` (v6 titles/levels, general vs core, 7-5-7 colors)
+2. Circulate the v6 document set for approval (Head of Cybersecurity BU – Faurani, HR, CFO) — base salary fully within the 25% cap (even the band ceiling is 22.6%)
+3. Launch Wave 1 hiring (7 roles) on board approval
 4. Hold Wave 2/3 against revenue triggers (RM4M+ SOWs / RM8M+ recurring)
 
 ---
@@ -171,6 +168,7 @@ Head of Cybersecurity BU (Faurani)
 | 5.5 | June 23, 2026 | Hadri | Junior Professional Services removed → 7-5-8, 20 hires |
 | 6.0 | June 24, 2026 | Hadri | Re-based on HR job-levels + Rate-card benchmark. General (dotted) vs cyber-core split, company-convention titles, Jr PM → Product Manager, 8-5-7 waves. Removed COGS (cost = base salary); Technical Presales. |
 | **6.0 (rev.)** | **June 29, 2026** | **Hadri** | **v6 (rev.): Sales → L4; Gov Sec = Product Manager; Head of Cybersecurity BU = Faurani. Total RM2,118,000–2,956,800 (17.7%–24.6%).** |
+| **6.0 (rev.)** | **June 29, 2026** | **Hadri** | **v6 (rev.): removed standalone Product Manager (L5); 19 hires, 7-5-7; total RM1,908,000–2,712,000 (15.9%–22.6%).** |
 
 ---
 

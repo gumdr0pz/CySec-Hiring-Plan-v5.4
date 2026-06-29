@@ -4,8 +4,8 @@
 |---|---|
 | Requisition ID | MRF-019 |
 | Business Unit | Cybersecurity BU |
-| Team / Function | Product / PM |
-| Reports To | Product Manager |
+| Team / Function | Delivery / PM |
+| Reports To | Head of Cybersecurity BU (Faurani) |
 | Level / Grade | L1 — Executive (Engineer) |
 | Track | General — dotted line to Cybersecurity Practice |
 | Employment Type | Full-time, Permanent |

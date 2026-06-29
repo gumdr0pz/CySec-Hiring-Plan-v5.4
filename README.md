@@ -1,8 +1,8 @@
-# Cybersecurity BU Hiring Plan - v6 (20-Hire Structure)
+# Cybersecurity BU Hiring Plan - v6 (19-Hire Structure)
 
-**Version:** 6.0 ⭐ **CURRENT**
+**Version:** 6.1 ⭐ **CURRENT**
 **Date:** June 24, 2026
-**Status:** Final - General roles + HR levels + Rate-card benchmark, 8-5-7
+**Status:** Final - General roles + HR levels + Rate-card benchmark, 7-5-7
 **Classification:** CONFIDENTIAL
 
 > **⚠️ Important:** This is the **only current version**. All previous versions (v5.0–v5.5) are **deprecated** and archived for reference only.
@@ -11,18 +11,18 @@
 
 ## Overview
 
-This repository contains the complete **v6** hiring plan for the Cybersecurity Business Unit (BU): **20 hires** (23 total FTE incl. 3 existing leaders) over 12 months, in an **8-5-7** wave structure, **re-based on the company HR job-level framework and the consultant Rate-card salary benchmark**.
+This repository contains the complete **v6** hiring plan for the Cybersecurity Business Unit (BU): **19 hires** (22 total FTE incl. 3 existing leaders) over 12 months, in a **7-5-7** wave structure, **re-based on the company HR job-level framework and the consultant Rate-card salary benchmark**.
 
 **📦 What's new in v6:**
-- ✅ **General roles, not cyber-dedicated** — support functions (DevSecOps, Solutions/Presales, Product Manager, Business Analyst, Blockchain) are **general** with a **dotted line** to the Cybersecurity Practice. Cyber-core (Offensive Security, Threat Intelligence, GRC, Gov Sec) stays in the practice.
-- ✅ **Company HR job levels** (L1 Executive … L7 C-Suite). **Specialist = Level 4**, dual **Specialist / Team Lead**. Titles use company convention (Engineer / Staff Engineer / Specialist / Technical Presales / Product Manager / Team Lead).
+- ✅ **General roles, not cyber-dedicated** — support functions (DevSecOps, Solutions/Presales, Business Analyst, Blockchain) are **general** with a **dotted line** to the Cybersecurity Practice. Cyber-core (Offensive Security, Threat Intelligence, GRC, Gov Sec) stays in the practice.
+- ✅ **Company HR job levels** (L1 Executive … L7 C-Suite). **Specialist = Level 4**, dual **Specialist / Team Lead**. Titles use company convention (Engineer / Staff Engineer / Specialist / Technical Presales / Team Lead).
 - ✅ **Salary = Rate-card "Rate" tab benchmark** (replaces the old 30%-reduced bands).
-- ✅ **Product Manager (L5)** added; Junior PM removed.
-- ✅ **No COGS burden** — cost = gross base benchmark salary, ~17.7–24.6% of RM12M (fully within the 25% cap, max 24.6%). The standalone COGS calculator was removed.
+- ✅ **Standalone general Product Manager (L5) removed** — the only product-management role is the cyber-core Product Manager – Government Security (L4). Junior PM removed.
+- ✅ **No COGS burden** — cost = gross base benchmark salary, ~15.9–22.6% of RM12M (fully within the 25% cap, max 22.6%). The standalone COGS calculator was removed.
 
 **🗄️ Archived / Removed:**
 - ❌ v5.0–v5.5: Deprecated, in `v6-20Position/ARCHIVE-HISTORICAL-VERSIONS/`
-- ❌ Senior PM, Junior PM, Junior Professional Services roles: removed (`.../removed-roles/`)
+- ❌ Senior PM, Junior PM, Junior Professional Services, standalone Product Manager (L5) roles: removed (`.../removed-roles/`)
 
 Source of truth: `v6-20Position/CySec-v6-Levels-Titles-Salary-Framework.md`.
 
@@ -32,27 +32,27 @@ Source of truth: `v6-20Position/CySec-v6-Levels-Titles-Salary-Framework.md`.
 
 | Metric | Value |
 |--------|-------|
-| **Total Positions** | 23 (3 existing + 20 hires) |
+| **Total Positions** | 22 (3 existing + 19 hires) |
 | **Hiring Timeline** | 12 months |
 | **Revenue Target** | RM12,000,000 |
-| **Wave Structure** | 8-5-7 |
-| **Annual Cost (base salary)** | RM2,118,000 – RM2,956,800 (17.7% – 24.6%) |
-| **25% Revenue Cap** | ✅ Fully within (max 24.6%) |
-| **36-Month Runway** | RM5,358,000 – RM7,436,600 |
+| **Wave Structure** | 7-5-7 |
+| **Annual Cost (base salary)** | RM1,908,000 – RM2,712,000 (15.9% – 22.6%) |
+| **25% Revenue Cap** | ✅ Fully within (max 22.6%) |
+| **36-Month Runway** | RM4,763,000 – RM6,743,000 |
 
 ---
 
-## Wave Structure (8-5-7, base salary)
+## Wave Structure (7-5-7, base salary)
 
 | Wave | Trigger | Roles | Annual Cost Range |
 |------|---------|-------|-------------------|
-| **Wave 1** (near-term core) | Board Approval | 8 | RM954,000 – RM1,288,800 |
+| **Wave 1** (near-term core) | Board Approval | 7 | RM744,000 – RM1,044,000 |
 | **Wave 2** | RM4M+ SOWs | 5 | RM690,000 – RM930,000 |
 | **Wave 3** | RM8M+ Recurring | 7 | RM474,000 – RM738,000 |
-| **Total** | - | **20** | **RM2,118,000 – RM2,956,800** |
+| **Total** | - | **19** | **RM1,908,000 – RM2,712,000** |
 
-### Wave 1 (8) — near-term core
-Technical Presales (L4) · Presales Engineer (L1) · Product Manager – Government Security (L4) · GRC Specialist (L4) · Staff Engineer – DevSecOps (L4) · Engineer – DevSecOps (L1) · Technical Account Manager (L3) · Product Manager (L5)
+### Wave 1 (7) — near-term core
+Technical Presales (L4) · Presales Engineer (L1) · Product Manager – Government Security (L4) · GRC Specialist (L4) · Staff Engineer – DevSecOps (L4) · Engineer – DevSecOps (L1) · Technical Account Manager (L3)
 
 ### Wave 2 (5)
 Account Manager – Enterprise (L4) · Account Manager – Government (L4) · Team Lead – Offensive Security (L4) · Staff Engineer – Offensive Security (L4) · Team Lead – Threat Intelligence (L4)
@@ -66,7 +66,6 @@ Staff Engineer – Blockchain (L4) · GRC Analyst (L1) · Engineer – Offensive
 
 | Level | HR Band | Mgmt / IC title | Benchmark |
 |------:|---------|-----------------|-----------|
-| 5 | Manager | Manager / Senior Staff Engineer | 17,500 – 20,400 |
 | 4 | Assistant Manager | **Team Lead** / **Specialist** / Staff Engineer | 11,500 – 15,500 |
 | 3 | Senior Executive | Senior Engineer (Consultant if client-facing) | 8,000 – 11,000 |
 | 1 | Executive | Engineer | 4,000 – 7,000 |
@@ -86,7 +85,6 @@ Cost = gross base benchmark salary (no COGS / burden multiplier applied).
 | `MRF-003-...senior-devsecops-engineer.md` | Staff Engineer – DevSecOps | L4 | 1 | G |
 | `MRF-018-...junior-devsecops-engineer.md` | Engineer – DevSecOps | L1 | 1 | G |
 | `MRF-005-...technical-account-manager.md` | Technical Account Manager | L3 | 1 | G |
-| `MRF-023-product-manager.md` | Product Manager | L5 | 1 | G |
 | `MRF-010-...sales-specialist-enterprise.md` | Account Manager – Enterprise | L4 | 2 | G |
 | `MRF-011-...sales-specialist-government.md` | Account Manager – Government | L4 | 2 | G |
 | `MRF-006-...lead-security-researcher.md` | Team Lead – Offensive Security | L4 | 2 | C |
@@ -100,7 +98,7 @@ Cost = gross base benchmark salary (no COGS / burden multiplier applied).
 | `MRF-017-...distributed-intelligence-analyst.md` | Engineer – Threat Intelligence (Distributed Intel) | L1 | 3 | C |
 | `MRF-019-...business-analyst.md` | Business Analyst | L1 | 3 | G |
 
-**Wave totals:** 8 · 5 · 7 = **20**. **Retired:** MRF-004 (Senior PM), MRF-020 (Junior PM), MRF-021 (Junior Professional Services).
+**Wave totals:** 7 · 5 · 7 = **19**. **Retired:** MRF-004 (Senior PM), MRF-020 (Junior PM), MRF-021 (Junior Professional Services), MRF-023 (standalone Product Manager, L5).
 
 ---
 
@@ -108,7 +106,8 @@ Cost = gross base benchmark salary (no COGS / burden multiplier applied).
 
 | Version | Date | Basis | Status |
 |---------|------|-------|--------|
-| v6.0 | June 24, 2026 | **General roles + HR levels + Rate-card benchmark, 8-5-7** | ⭐ **CURRENT** |
+| v6.1 | June 29, 2026 | **Removed standalone Product Manager (L5); 19 hires, 7-5-7** | ⭐ **CURRENT** |
+| v6.0 | June 24, 2026 | General roles + HR levels + Rate-card benchmark, 8-5-7 | Superseded |
 | v5.5 | June 23, 2026 | Support-pod 7-5-8 | ❌ Deprecated |
 | v5.4 | June 23, 2026 | Support-pod 8-5-8 | ❌ Deprecated |
 | v5.0–v5.3 | June 10, 2026 | 5-7-9 / 8-4-9 / 7-7-7 | ❌ Deprecated |
@@ -120,7 +119,7 @@ Cost = gross base benchmark salary (no COGS / burden multiplier applied).
 - **Framework / levels / salary:** `v6-20Position/CySec-v6-Levels-Titles-Salary-Framework.md`
 - **Management:** `CySec-Hiring-Plan-Executive-Summary-v6.md`, then `CySec-Financial-Analysis-v6.md`
 - **HR:** `CySec-Manpower-Requisitions-v6.md` + the `JDs/` folder
-- **Finance:** `CySec-Financial-Analysis-v6.md` — base salary 17.7%–24.6% of RM12M, fully within the 25% cap; Sales (L4) / Gov Sec (L4) level placements confirmed
+- **Finance:** `CySec-Financial-Analysis-v6.md` — base salary 15.9%–22.6% of RM12M, fully within the 25% cap; Sales (L4) / Gov Sec (L4) level placements confirmed
 
 ---
 

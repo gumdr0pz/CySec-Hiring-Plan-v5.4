@@ -11,10 +11,10 @@
 
 ## 1. Direction (decisions taken)
 
-1. **General roles, not cyber-dedicated.** Support roles (DevSecOps, Technical Presales, Product Manager, Business Analyst, Blockchain) are **general** with a **dotted line** to the Cybersecurity practice. Sensitive work is **compartmentalised**; a future spinoff is handled by **secondment**.
+1. **General roles, not cyber-dedicated.** Support roles (DevSecOps, Technical Presales, Business Analyst, Blockchain) are **general** with a **dotted line** to the Cybersecurity practice. Sensitive work is **compartmentalised**; a future spinoff is handled by **secondment**.
 2. **Cyber-core stays in the practice:** Offensive Security, Threat Intelligence, GRC, Government Security.
-3. **Titles follow company convention** (Engineer / Senior Engineer / Staff Engineer / Specialist / Technical Presales / Product Manager / Team Lead / Manager); role scope reflects the work. (No "Solutions Architect" role.)
-4. **PM = Product Manager.** No Project Manager roles are hired at this stage. The Government Security role is a **Product Manager – Government Security** (cyber-core, L4); the general **Product Manager** (L5) owns the cross-functional product backlog. Business Analyst retained; Junior PM removed.
+3. **Titles follow company convention** (Engineer / Senior Engineer / Staff Engineer / Specialist / Technical Presales / Team Lead / Manager); role scope reflects the work. (No "Solutions Architect" role.)
+4. **Product Manager:** the only product-management role is the cyber-core **Product Manager – Government Security** (L4). The standalone general Product Manager (L5) has been **removed**. No Project Manager roles are hired at this stage. Business Analyst retained.
 5. **Salary = Rate-card "Rate" tab benchmark** (Assumptions tab is outdated). **No COGS burden is applied** — cost is the gross base benchmark salary.
 6. **Leadership:** the BU reports to **Faurani, Head of Cybersecurity BU**.
 7. **Phasing:** near-term core roles are Wave 1; the rest are growth (Waves 2–3).
@@ -39,7 +39,7 @@ Job level is distinct from salary band. **Specialist** sits **one level above Se
 
 ---
 
-## 3. Role Mapping (20 hires)
+## 3. Role Mapping (19 hires)
 
 ### Cyber-core (in practice)
 
@@ -68,23 +68,22 @@ Job level is distinct from salary band. **Specialist** sits **one level above Se
 | Technical Account Manager | Technical Account Manager *(Consultant)* | Professional Services | 3 | 8,000–11,000 | 1 |
 | Sales Specialist (Enterprise) | Account Manager – Enterprise | Sales | 4 | 11,500–15,500 | 2 |
 | Sales Specialist (Government) | Account Manager – Government | Sales | 4 | 11,500–15,500 | 2 |
-| Business Analyst | Business Analyst | Product/PM | 1 | 4,000–7,000 | 3 |
-| **Product Manager** *(replaces Jr PM)* | Product Manager | Product/PM | 5 | 17,500–20,400 | 1 |
+| Business Analyst | Business Analyst | Delivery/PM | 1 | 4,000–7,000 | 3 |
 
-**Level distribution:** L5 ×1 · L4 ×10 · L3 ×2 · L1 ×7 = 20.
+**Level distribution:** L4 ×10 · L3 ×2 · L1 ×7 = 19.
 
-> Sales (Account Managers) are set at **L4** (confirmed). Gov Sec Product Manager is **L4** (confirmed). The only L5 role is the general Product Manager.
+> The standalone general Product Manager (L5) was removed from Wave 1. The Gov Sec Product Manager stays L4. Business Analyst now reports to the Head of Cybersecurity BU (Faurani).
 
 ---
 
-## 4. Wave Structure (8-5-7)
+## 4. Wave Structure (7-5-7)
 
 | Wave | Trigger | Roles | Near-term core / growth |
 |------|---------|------:|--------------------------|
-| Wave 1 | Board approval | 8 | Near-term core: Technical Presales, Staff Eng DevSecOps, GRC Specialist, Product Manager – Gov Sec, Product Manager, TAM, + Presales/DevSecOps engineers |
+| Wave 1 | Board approval | 7 | Near-term core: Technical Presales, Staff Eng DevSecOps, GRC Specialist, Product Manager – Gov Sec, TAM, + Presales/DevSecOps engineers |
 | Wave 2 | RM4M+ SOWs | 5 | Growth: Account Managers (Ent/Gov), OffSec Team Lead + Staff Eng, CTI Team Lead |
 | Wave 3 | RM8M+ recurring | 7 | Growth: Staff Eng Blockchain, GRC Analyst, OffSec/CTI engineers, Senior Eng Threat Intel, Business Analyst |
-| **Total** | — | **20** | |
+| **Total** | — | **19** | |
 
 ---
 
@@ -94,12 +93,12 @@ Cost is the gross base benchmark salary. **No 1.44× burden is applied.**
 
 | Wave | Roles | Annual Base (Min–Max) | % of Total |
 |------|------:|------------------------|:--:|
-| Wave 1 | 8 | RM954,000 – RM1,288,800 | 45.0% |
-| Wave 2 | 5 | RM690,000 – RM930,000 | 32.6% |
-| Wave 3 | 7 | RM474,000 – RM738,000 | 22.4% |
-| **Total** | **20** | **RM2,118,000 – RM2,956,800** | **100%** |
+| Wave 1 | 7 | RM744,000 – RM1,044,000 | 39.0% |
+| Wave 2 | 5 | RM690,000 – RM930,000 | 36.2% |
+| Wave 3 | 7 | RM474,000 – RM738,000 | 24.8% |
+| **Total** | **19** | **RM1,908,000 – RM2,712,000** | **100%** |
 
-Annual base per level: L1 RM48,000–84,000 · L3 RM96,000–132,000 · L4 RM138,000–186,000 · L5 RM210,000–244,800.
+Annual base per level: L1 RM48,000–84,000 · L3 RM96,000–132,000 · L4 RM138,000–186,000.
 
 ---
 
@@ -107,9 +106,9 @@ Annual base per level: L1 RM48,000–84,000 · L3 RM96,000–132,000 · L4 RM138
 
 | Measure | Value | vs RM12M revenue |
 |---|---|---|
-| Annual base salary (total) | RM2,118,000 – RM2,956,800 | **17.7% – 24.6%** |
+| Annual base salary (total) | RM1,908,000 – RM2,712,000 | **15.9% – 22.6%** |
 
-With COGS removed and Sales at L4, the total sits **fully within the 25% cap** — even the top of the benchmark band is **24.6%** of RM12M. No cap relaxation is required.
+With COGS removed, Sales at L4, and the general Product Manager removed, the total sits **comfortably within the 25% cap** (max 22.6% of RM12M). No cap relaxation is required.
 
 ### 36-Month Runway (estimated, base salary)
 
@@ -117,16 +116,17 @@ Year 1 phased (W1 ~10mo, W2 ~5mo, W3 ~1mo); Years 2–3 full run-rate; flat RM12
 
 | Year | Base (Min–Max) | Cumulative (Max) |
 |------|----------------|------------------|
-| Year 1 (phased) | RM1,122,000 – RM1,523,000 | RM1,523,000 |
-| Year 2 (full) | RM2,118,000 – RM2,956,800 | RM4,479,800 |
-| Year 3 (full) | RM2,118,000 – RM2,956,800 | RM7,436,600 |
-| **36-mo total** | **RM5,358,000 – RM7,436,600** | |
+| Year 1 (phased) | RM947,000 – RM1,319,000 | RM1,319,000 |
+| Year 2 (full) | RM1,908,000 – RM2,712,000 | RM4,031,000 |
+| Year 3 (full) | RM1,908,000 – RM2,712,000 | RM6,743,000 |
+| **36-mo total** | **RM4,763,000 – RM6,743,000** | |
 
 ---
 
 ## 7. Notes
 
 - Cost = gross base benchmark salary; no COGS / burden multiplier; the standalone COGS calculator has been **removed**.
+- The standalone general **Product Manager (L5, MRF-023)** has been **removed** from Wave 1; its JD is archived under `ARCHIVE-HISTORICAL-VERSIONS/removed-roles/`.
 - Leadership: the BU is led by **Faurani, Head of Cybersecurity BU**; cyber-core roles report to Faurani, general roles report on a dotted line.
 - All plan docs, JDs, and the org chart are aligned to this framework.
 

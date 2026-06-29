@@ -2,7 +2,7 @@
 
 **Version:** 6.0
 **Date:** June 24, 2026
-**Status:** v6 — General roles + HR levels + Rate-card base salary, 8-5-7
+**Status:** v6 — General roles + HR levels + Rate-card base salary, 7-5-7
 **Classification:** CONFIDENTIAL
 
 > This is the current version. It re-bases the plan on the company HR job-level framework and the consultant Rate-card "Rate"-tab benchmark (see `CySec-v6-Levels-Titles-Salary-Framework.md`). Cost is the gross base benchmark salary — no burden multiplier. All previous versions (v5.0–v5.5) are deprecated and archived under `ARCHIVE-HISTORICAL-VERSIONS/`.
@@ -11,13 +11,13 @@
 
 ## EXECUTIVE OVERVIEW
 
-This executive summary presents the strategic hiring plan for the Cybersecurity Business Unit (BU). The plan details the recruitment of **20 positions** across **9 functions** over a 12-month period, structured in three revenue-triggered waves that build deliverable capability at each stage:
+This executive summary presents the strategic hiring plan for the Cybersecurity Business Unit (BU). The plan details the recruitment of **19 positions** across **9 functions** over a 12-month period, structured in three revenue-triggered waves that build deliverable capability at each stage:
 
-- **Wave 1 (8)** stands up the near-term core — Technical Presales + Presales Engineer, Staff Engineer DevSecOps + Engineer DevSecOps, GRC Specialist, Product Manager – Government Security, Product Manager, and a Technical Account Manager for delivery.
+- **Wave 1 (7)** stands up the near-term core — Technical Presales + Presales Engineer, Staff Engineer DevSecOps + Engineer DevSecOps, GRC Specialist, Product Manager – Government Security, and a Technical Account Manager for delivery.
 - **Wave 2 (5)** adds revenue closers (Account Manager – Enterprise / Government, L4) and senior cyber-core practice leadership (Offensive Security Team Lead + Staff Engineer, Threat Intelligence Team Lead).
 - **Wave 3 (7)** scales the engineering bench and brings the Blockchain Staff Engineer online.
 
-**Key v6 change:** Support functions (DevSecOps, Solutions/Presales, Product Manager, Business Analyst, Blockchain) are now **general roles with a dotted line** to the Cybersecurity practice — the org is not large enough for dedicated cyber versions, so sensitive work is compartmentalised and a future spinoff is handled by secondment. **Cyber-core** functions (Offensive Security, Threat Intelligence, GRC, Government Security) remain inside the practice. Titles follow the company convention (Engineer / Senior Engineer / Staff Engineer / Specialist / Technical Presales / Product Manager / Team Lead / Manager), levels follow the HR job-level framework, and salary is the **Rate-card base benchmark**. The former Junior PM is removed and replaced by a **Product Manager** (Manager level).
+**Key v6 change:** Support functions (DevSecOps, Solutions/Presales, Business Analyst, Blockchain) are now **general roles with a dotted line** to the Cybersecurity practice — the org is not large enough for dedicated cyber versions, so sensitive work is compartmentalised and a future spinoff is handled by secondment. **Cyber-core** functions (Offensive Security, Threat Intelligence, GRC, Government Security) remain inside the practice. Titles follow the company convention (Engineer / Senior Engineer / Staff Engineer / Specialist / Technical Presales / Team Lead / Manager), levels follow the HR job-level framework, and salary is the **Rate-card base benchmark**. The standalone general Product Manager (L5) has been removed; the only product-management role is the cyber-core **Product Manager – Government Security (L4)**. Business Analyst is retained.
 
 ---
 
@@ -25,16 +25,16 @@ This executive summary presents the strategic hiring plan for the Cybersecurity 
 
 | Metric | Value |
 |--------|-------|
-| **Total Positions** | 23 (3 existing + 20 hires) |
+| **Total Positions** | 22 (3 existing + 19 hires) |
 | **Existing Leadership** | 3 |
-| **Positions to Hire** | 20 |
+| **Positions to Hire** | 19 |
 | **Hiring Timeline** | 12 months |
 | **Revenue Target** | RM12,000,000 |
-| **Wave Structure** | 8-5-7 |
-| **Level Distribution** | L5 ×1 · L4 ×10 · L3 ×2 · L1 ×7 |
-| **Total Annual Base (Min–Max)** | RM2,118,000 – RM2,956,800 |
-| **Base as % of Revenue** | 17.7% – 24.6% |
-| **25% Revenue Cap (RM3.0M)** | Fully within cap; even the band ceiling is 24.6% |
+| **Wave Structure** | 7-5-7 |
+| **Level Distribution** | L4 ×10 · L3 ×2 · L1 ×7 |
+| **Total Annual Base (Min–Max)** | RM1,908,000 – RM2,712,000 |
+| **Base as % of Revenue** | 15.9% – 22.6% |
+| **25% Revenue Cap (RM3.0M)** | Fully within cap; even the band ceiling is 22.6% |
 
 ---
 
@@ -43,20 +43,20 @@ This executive summary presents the strategic hiring plan for the Cybersecurity 
 ### Supportive at Every Stage
 
 ```
-Wave 1 (Immediate)  → Near-term core: Technical Presales + DevSecOps + GRC + Gov Sec + PM + TAM
+Wave 1 (Immediate)  → Near-term core: Technical Presales + DevSecOps + GRC + Gov Sec + TAM
 Wave 2 (RM4M+ SOWs) → Account Managers (Ent/Gov) + OffSec/CTI senior practice leadership
 Wave 3 (RM8M+ Rec.) → Engineering/IC scale-up bench + Blockchain Staff Engineer
 ```
 
-**Why this works:** Wave 1 lands the near-term core roles (Technical Presales, Staff Engineer DevSecOps, GRC Specialist, Product Manager) plus delivery (TAM) and Government Security — the team can deliver from day one. Cyber-core practice leads (Offensive Security, Threat Intelligence) and revenue closers arrive in Wave 2 once SOWs justify them; the engineering/IC bench fills out in Wave 3 on recurring revenue.
+**Why this works:** Wave 1 lands the near-term core roles (Technical Presales, Staff Engineer DevSecOps, GRC Specialist, Product Manager – Government Security) plus delivery (TAM) — the team can deliver from day one. Cyber-core practice leads (Offensive Security, Threat Intelligence) and revenue closers arrive in Wave 2 once SOWs justify them; the engineering/IC bench fills out in Wave 3 on recurring revenue.
 
 ### Revenue-Triggered Scaling
 
 | Wave | Trigger | Positions | Annual Base | % of Total |
 |------|---------|-----------|-------------|------------|
-| **Wave 1** | Board Approval | 8 | RM954,000 – RM1,288,800 | 45.0% |
-| **Wave 2** | RM4M+ SOWs | 5 | RM690,000 – RM930,000 | 32.6% |
-| **Wave 3** | RM8M+ Recurring | 7 | RM474,000 – RM738,000 | 22.4% |
+| **Wave 1** | Board Approval | 7 | RM744,000 – RM1,044,000 | 39.0% |
+| **Wave 2** | RM4M+ SOWs | 5 | RM690,000 – RM930,000 | 36.2% |
+| **Wave 3** | RM8M+ Recurring | 7 | RM474,000 – RM738,000 | 24.8% |
 
 ---
 
@@ -70,7 +70,7 @@ Wave 3 (RM8M+ Rec.) → Engineering/IC scale-up bench + Blockchain Staff Enginee
 | Principal Cybersecurity Architect | Existing |
 | Principal Blockchain Architect | Existing |
 
-### Function Distribution (20 Hires)
+### Function Distribution (19 Hires)
 
 | Function | Core / General | Wave 1 | Wave 2 | Wave 3 | Total |
 |----------|----------------|--------|--------|--------|-------|
@@ -81,20 +81,20 @@ Wave 3 (RM8M+ Rec.) → Engineering/IC scale-up bench + Blockchain Staff Enginee
 | Solutions / Presales | General (dotted) | 2 | 0 | 0 | 2 |
 | DevSecOps | General (dotted) | 2 | 0 | 0 | 2 |
 | Blockchain | General (dotted) | 0 | 0 | 1 | 1 |
-| Product / PM | General (dotted) | 1 | 0 | 1 | 2 |
+| Delivery / PM | General (dotted) | 0 | 0 | 1 | 1 |
 | Sales | General (dotted) | 0 | 2 | 0 | 2 |
 | Professional Services | General (dotted) | 1 | 0 | 0 | 1 |
-| **Total** | | **8** | **5** | **7** | **20** |
+| **Total** | | **7** | **5** | **7** | **19** |
 
 ---
 
 ## WAVE BREAKDOWN
 
-Base = monthly benchmark × 12. Annual base per level: **L1** RM48,000–84,000 · **L3** RM96,000–132,000 · **L4** RM138,000–186,000 · **L5** RM210,000–244,800.
+Base = monthly benchmark × 12. Annual base per level: **L1** RM48,000–84,000 · **L3** RM96,000–132,000 · **L4** RM138,000–186,000.
 
-### Wave 1: Immediate (8 Roles)
+### Wave 1: Immediate (7 Roles)
 
-**Annual Base:** RM954,000 – RM1,288,800
+**Annual Base:** RM744,000 – RM1,044,000
 
 | Position | Level | Function | Annual Base (Min) | Annual Base (Max) |
 |----------|-------|----------|-------------------|-------------------|
@@ -104,10 +104,9 @@ Base = monthly benchmark × 12. Annual base per level: **L1** RM48,000–84,000 
 | Engineer – DevSecOps | L1 | DevSecOps (general) | RM48,000 | RM84,000 |
 | GRC Specialist *(Specialist/Team Lead)* | L4 | VORON/GRC (cyber-core) | RM138,000 | RM186,000 |
 | Product Manager – Government Security | L4 | Gov Sec (cyber-core) | RM138,000 | RM186,000 |
-| Product Manager | L5 | Product/PM (general) | RM210,000 | RM244,800 |
 | Technical Account Manager *(Consultant)* | L3 | Professional Services (general) | RM96,000 | RM132,000 |
 
-**Key Deliverables:** Solutions/Presales engine (Technical Presales + Engineer) · DevSecOps pipeline (Staff + Engineer) · GRC platform · Government Security delivery · Product management · Account-management / delivery coordination
+**Key Deliverables:** Solutions/Presales engine (Technical Presales + Engineer) · DevSecOps pipeline (Staff + Engineer) · GRC platform · Government Security delivery · Account-management / delivery coordination
 
 ---
 
@@ -139,7 +138,7 @@ Base = monthly benchmark × 12. Annual base per level: **L1** RM48,000–84,000 
 | Senior Engineer – Threat Intelligence | L3 | CTI (cyber-core) | RM96,000 | RM132,000 |
 | Engineer – Threat Intelligence | L1 | CTI (cyber-core) | RM48,000 | RM84,000 |
 | Engineer – Threat Intelligence (Dist. Intel) | L1 | CTI (cyber-core) | RM48,000 | RM84,000 |
-| Business Analyst | L1 | Product/PM (general) | RM48,000 | RM84,000 |
+| Business Analyst | L1 | Delivery/PM (general) | RM48,000 | RM84,000 |
 
 **Key Deliverables:** Blockchain practice online · Full Threat Intelligence operations · OffSec, GRC, and PM engineering/IC bench
 
@@ -151,21 +150,21 @@ Base = monthly benchmark × 12. Annual base per level: **L1** RM48,000–84,000 
 
 | Component | Base Min | Base Max |
 |-----------|----------|----------|
-| Wave 1 Annual | RM954,000 | RM1,288,800 |
+| Wave 1 Annual | RM744,000 | RM1,044,000 |
 | Wave 2 Annual | RM690,000 | RM930,000 |
 | Wave 3 Annual | RM474,000 | RM738,000 |
-| **Total Annual Base** | **RM2,118,000** | **RM2,956,800** |
+| **Total Annual Base** | **RM1,908,000** | **RM2,712,000** |
 
 ### Revenue Alignment & Cap Reconciliation
 
 | Metric | Value |
 |--------|-------|
 | Revenue Target | RM12,000,000 |
-| Annual Base as % of Revenue | 17.7% – 24.6% |
+| Annual Base as % of Revenue | 15.9% – 22.6% |
 | 25% Revenue Cap | RM3,000,000 |
-| **Cap status at base** | **Fully within cap; even the band ceiling is 24.6%** |
+| **Cap status at base** | **Fully within cap; even the band ceiling is 22.6%** |
 
-At base salary, total cost is **17.7% – 24.6%** of RM12M — fully within the 25% cap. Even the absolute top of the band (max benchmark for every role) is **24.6%** of RM12M, below the cap. No cap relaxation is required at any point in the benchmark band.
+At base salary, total cost is **15.9% – 22.6%** of RM12M — fully within the 25% cap. Even the absolute top of the band (max benchmark for every role) is **22.6%** of RM12M, below the cap. No cap relaxation is required at any point in the benchmark band.
 
 ### 36-Month Budget Runway (Estimated, base salary)
 
@@ -173,19 +172,19 @@ Year 1 phased (Wave 1 ~10mo, Wave 2 ~5mo, Wave 3 ~1mo); Years 2–3 at full run-
 
 | Year | Phase | Annual Base (Min–Max) | Cumulative (Max) |
 |------|-------|-----------------------|------------------|
-| Year 1 | Phased ramp | RM1,122,000 – RM1,523,000 | RM1,523,000 |
-| Year 2 | Full team (20) | RM2,118,000 – RM2,956,800 | RM4,479,800 |
-| Year 3 | Full team (20) | RM2,118,000 – RM2,956,800 | RM7,436,600 |
-| **36-Month Total** | | **RM5,358,000 – RM7,436,600** | — |
+| Year 1 | Phased ramp | RM947,000 – RM1,319,000 | RM1,319,000 |
+| Year 2 | Full team (19) | RM1,908,000 – RM2,712,000 | RM4,031,000 |
+| Year 3 | Full team (19) | RM1,908,000 – RM2,712,000 | RM6,743,000 |
+| **36-Month Total** | | **RM4,763,000 – RM6,743,000** | — |
 
-**Runway:** 36-month base cost is **RM5.36M – RM7.44M**. Against 36-month revenue of RM36M this is a labour ratio of ~14.9%–20.7%, comfortably sustainable at flat RM12M revenue. See the Financial Analysis for detail.
+**Runway:** 36-month base cost is **RM4.76M – RM6.74M**. Against 36-month revenue of RM36M this is a labour ratio of ~13.2%–18.7%, comfortably sustainable at flat RM12M revenue. See the Financial Analysis for detail.
 
 ---
 
 ## IMPLEMENTATION TIMELINE
 
 ```
-Month 1-3:  Wave 1 Execution (8 roles) — on board approval
+Month 1-3:  Wave 1 Execution (7 roles) — on board approval
 Month 4-8:  Wave 2 Execution (5 roles) — on RM4M+ SOWs
 Month 9-12: Wave 3 Execution (7 roles) — on RM8M+ recurring revenue
 ```
@@ -195,7 +194,7 @@ Month 9-12: Wave 3 Execution (7 roles) — on RM8M+ recurring revenue
 | Milestone | Target Date | Success Criteria |
 |-----------|-------------|------------------|
 | BU Approval | Month 0 | Board approval of BU establishment |
-| Wave 1 Complete | Month 3 | All 8 positions filled |
+| Wave 1 Complete | Month 3 | All 7 positions filled |
 | RM4M SOWs Achieved | Month 4 | Signed SOWs totaling RM4M+ |
 | Wave 2 Complete | Month 8 | All 5 positions filled |
 | RM8M Recurring Achieved | Month 9 | Recurring revenue RM8M+ |
@@ -224,6 +223,7 @@ Month 9-12: Wave 3 Execution (7 roles) — on RM8M+ recurring revenue
 | 5.5 | June 23, 2026 | Hadri | Junior Professional Services removed → 7-5-8, 20 hires |
 | 6.0 | June 24, 2026 | Hadri | Re-based on HR job-levels + Rate-card benchmark. General (dotted) vs cyber-core split, company-convention titles, Jr PM → Product Manager, 8-5-7 waves. Removed COGS (cost = base salary); Technical Presales. |
 | **6.0 (rev.)** | **June 29, 2026** | **Hadri** | **v6 (rev.): Sales → L4; Gov Sec = Product Manager; Head of Cybersecurity BU = Faurani. Total RM2,118,000–2,956,800 (17.7%–24.6%).** |
+| **6.0 (rev.)** | **June 29, 2026** | **Hadri** | **v6 (rev.): removed standalone Product Manager (L5); 19 hires, 7-5-7; total RM1,908,000–2,712,000 (15.9%–22.6%).** |
 
 ---
 
